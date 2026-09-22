@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Product,Category,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Revenue,Gross_Sales,Discount_Amount,Year,Quarter,Month,Month_Name,YearMonth,Day_Of_Week,Day_Num,Discount_Tier,Customer_Segment
+ORD1466,2025-01-01,CUST110,Ravi,Female,25,Coimbatore,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,UPI,Delivered,7650.0,8500,850.0,2025,Q1,1,January,2025-01,Wednesday,2,Low (<10%),Low Value
+ORD1086,2025-01-01,CUST163,Surya,Female,38,Mysuru,Karnataka,Tablet,Electronics,1,22000,0.0,UPI,Shipped,22000.0,22000,0.0,2025,Q1,1,January,2025-01,Wednesday,2,No Discount (0%),Low Value
+ORD1005,2025-01-02,CUST234,Meena,Female,46,Madurai,Tamil Nadu,Backpack,Accessories,3,1800,0.05,Net Banking,Delivered,5130.0,5400,270.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),High Value
+ORD1136,2025-01-02,CUST133,Karthik,Male,50,Bengaluru,Karnataka,Coffee Maker,Home Appliances,1,6500,0.1,Cash on Delivery,Cancelled,5850.0,6500,650.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),High Value
+ORD1162,2025-01-02,CUST277,Sanjay,Male,42,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.0,Credit Card,Delivered,6500.0,6500,0.0,2025,Q1,1,January,2025-01,Thursday,3,No Discount (0%),High Value
+ORD1337,2025-01-03,CUST266,Aishwarya,Male,55,Jaipur,Rajasthan,Desk,Furniture,1,12000,0.15,UPI,Delivered,10200.0,12000,1800.0,2025,Q1,1,January,2025-01,Friday,4,Moderate (10-20%),Low Value
+ORD1972,2025-01-03,CUST265,Aditya,Female,25,Mumbai,Maharashtra,Tablet,Electronics,1,22000,0.0,UPI,Delivered,22000.0,22000,0.0,2025,Q1,1,January,2025-01,Friday,4,No Discount (0%),Medium Value
+ORD1351,2025-01-03,CUST282,Keerthi,Male,21,Bengaluru,Karnataka,Office Chair,Furniture,4,8500,0.1,Credit Card,Delivered,30600.0,34000,3400.0,2025,Q1,1,January,2025-01,Friday,4,Low (<10%),High Value
+ORD1071,2025-01-04,CUST179,Sneha,Female,47,Mumbai,Maharashtra,Smartwatch,Electronics,1,5000,0.05,UPI,Returned,4750.0,5000,250.0,2025,Q1,1,January,2025-01,Saturday,5,Low (<10%),High Value
+ORD1030,2025-01-05,CUST203,Divya,Female,49,Kolkata,West Bengal,Jeans,Fashion,1,2200,0.15,Credit Card,Delivered,1870.0,2200,330.0,2025,Q1,1,January,2025-01,Sunday,6,Moderate (10-20%),Low Value
+ORD1294,2025-01-05,CUST184,Harini,Male,50,Pune,Maharashtra,Coffee Maker,Home Appliances,3,6500,0.1,Net Banking,Delivered,17550.0,19500,1950.0,2025,Q1,1,January,2025-01,Sunday,6,Low (<10%),Medium Value
+ORD1892,2025-01-05,CUST177,Pooja,Male,28,Hyderabad,Telangana,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2025,Q1,1,January,2025-01,Sunday,6,Low (<10%),Medium Value
+ORD1010,2025-01-05,CUST242,Vikram,Male,32,Chennai,Tamil Nadu,Headphones,Electronics,1,2500,0.2,Credit Card,Shipped,2000.0,2500,500.0,2025,Q1,1,January,2025-01,Sunday,6,Moderate (10-20%),High Value
+ORD1665,2025-01-06,CUST227,Ananya,Female,49,Coimbatore,Tamil Nadu,T-Shirt,Fashion,4,900,0.1,Debit Card,Delivered,3240.0,3600,360.0,2025,Q1,1,January,2025-01,Monday,0,Low (<10%),High Value
+ORD1177,2025-01-07,CUST280,Keerthi,Male,38,Mumbai,Maharashtra,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2025,Q1,1,January,2025-01,Tuesday,1,Low (<10%),Low Value
+ORD1558,2025-01-07,CUST272,Divya,Male,19,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.1,UPI,Delivered,25200.0,28000,2800.0,2025,Q1,1,January,2025-01,Tuesday,1,Low (<10%),Medium Value
+ORD1450,2025-01-07,CUST210,Ravi,Male,58,Pune,Maharashtra,Office Chair,Furniture,4,8500,0.1,UPI,Cancelled,30600.0,34000,3400.0,2025,Q1,1,January,2025-01,Tuesday,1,Low (<10%),Medium Value
+ORD1905,2025-01-07,CUST136,Sneha,Female,32,Bengaluru,Karnataka,Backpack,Accessories,2,1800,0.15,UPI,Delivered,3060.0,3600,540.0,2025,Q1,1,January,2025-01,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1865,2025-01-08,CUST151,Ravi,Male,42,Delhi,Delhi,Smartphone,Electronics,1,28000,0.05,Cash on Delivery,Delivered,26600.0,28000,1400.0,2025,Q1,1,January,2025-01,Wednesday,2,Low (<10%),High Value
+ORD1044,2025-01-09,CUST174,Nisha,Female,55,Madurai,Tamil Nadu,Tablet,Electronics,3,22000,0.05,UPI,Delivered,62700.0,66000,3300.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),High Value
+ORD1115,2025-01-11,CUST162,Sanjay,Female,24,Kolkata,West Bengal,Jeans,Fashion,1,2200,0.15,Net Banking,Cancelled,1870.0,2200,330.0,2025,Q1,1,January,2025-01,Saturday,5,Moderate (10-20%),High Value
+ORD1689,2025-01-11,CUST173,Nisha,Female,21,Delhi,Delhi,Desk,Furniture,2,12000,0.0,Debit Card,Delivered,24000.0,24000,0.0,2025,Q1,1,January,2025-01,Saturday,5,No Discount (0%),High Value
+ORD1102,2025-01-11,CUST264,Manoj,Female,57,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.0,Credit Card,Shipped,44000.0,44000,0.0,2025,Q1,1,January,2025-01,Saturday,5,No Discount (0%),High Value
+ORD1869,2025-01-12,CUST245,Pooja,Male,36,Bengaluru,Karnataka,T-Shirt,Fashion,4,900,0.15,UPI,Cancelled,3060.0,3600,540.0,2025,Q1,1,January,2025-01,Sunday,6,Moderate (10-20%),Medium Value
+ORD1670,2025-01-12,CUST238,Manoj,Male,28,Mumbai,Maharashtra,Shoes,Fashion,1,3500,0.2,Credit Card,Delivered,2800.0,3500,700.0,2025,Q1,1,January,2025-01,Sunday,6,Moderate (10-20%),Medium Value
+ORD1609,2025-01-12,CUST199,Rahul,Female,59,Coimbatore,Tamil Nadu,Tablet,Electronics,1,22000,0.1,Credit Card,Delivered,19800.0,22000,2200.0,2025,Q1,1,January,2025-01,Sunday,6,Low (<10%),Medium Value
+ORD1050,2025-01-12,CUST174,Pooja,Female,29,Mysuru,Karnataka,Laptop,Electronics,2,55000,0.05,UPI,Delivered,104500.0,110000,5500.0,2025,Q1,1,January,2025-01,Sunday,6,Low (<10%),High Value
+ORD1486,2025-01-13,CUST222,Vikram,Female,23,Coimbatore,Tamil Nadu,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2025,Q1,1,January,2025-01,Monday,0,No Discount (0%),Medium Value
+ORD1375,2025-01-13,CUST136,Rahul,Male,21,Kolkata,West Bengal,Backpack,Accessories,2,1800,0.05,UPI,Delivered,3420.0,3600,180.0,2025,Q1,1,January,2025-01,Monday,0,Low (<10%),Medium Value
+ORD1407,2025-01-13,CUST235,Nisha,Male,36,Coimbatore,Tamil Nadu,Jeans,Fashion,4,2200,0.1,Debit Card,Delivered,7920.0,8800,880.0,2025,Q1,1,January,2025-01,Monday,0,Low (<10%),Low Value
+ORD1717,2025-01-14,CUST264,Divya,Female,25,Mysuru,Karnataka,Office Chair,Furniture,1,8500,0.1,UPI,Cancelled,7650.0,8500,850.0,2025,Q1,1,January,2025-01,Tuesday,1,Low (<10%),High Value
+ORD1004,2025-01-14,CUST109,Priya,Female,24,Mysuru,Karnataka,Desk,Furniture,1,12000,0.0,Credit Card,Cancelled,12000.0,12000,0.0,2025,Q1,1,January,2025-01,Tuesday,1,No Discount (0%),Medium Value
+ORD1497,2025-01-14,CUST236,Priya,Male,31,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.0,Cash on Delivery,Delivered,6500.0,6500,0.0,2025,Q1,1,January,2025-01,Tuesday,1,No Discount (0%),Low Value
+ORD1586,2025-01-16,CUST154,Sneha,Male,45,Delhi,Delhi,T-Shirt,Fashion,1,900,0.2,Credit Card,Delivered,720.0,900,180.0,2025,Q1,1,January,2025-01,Thursday,3,Moderate (10-20%),Medium Value
+ORD1036,2025-01-16,CUST124,Pooja,Female,45,Delhi,Delhi,Headphones,Electronics,1,2500,0.1,Credit Card,Delivered,2250.0,2500,250.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),High Value
+ORD1967,2025-01-17,CUST168,Rahul,Female,27,Delhi,Delhi,Jeans,Fashion,1,2200,0.1,Debit Card,Cancelled,1980.0,2200,220.0,2025,Q1,1,January,2025-01,Friday,4,Low (<10%),High Value
+ORD1642,2025-01-17,CUST119,Sneha,Female,54,Kochi,Kerala,Laptop,Electronics,1,55000,0.1,Credit Card,Cancelled,49500.0,55000,5500.0,2025,Q1,1,January,2025-01,Friday,4,Low (<10%),High Value
+ORD1622,2025-01-18,CUST217,Pooja,Female,50,Chennai,Tamil Nadu,Tablet,Electronics,1,22000,0.05,Credit Card,Shipped,20900.0,22000,1100.0,2025,Q1,1,January,2025-01,Saturday,5,Low (<10%),High Value
+ORD1156,2025-01-19,CUST298,Priya,Female,58,Bengaluru,Karnataka,Jeans,Fashion,2,2200,0.1,UPI,Cancelled,3960.0,4400,440.0,2025,Q1,1,January,2025-01,Sunday,6,Low (<10%),Low Value
+ORD1722,2025-01-20,CUST148,Karthik,Male,18,Coimbatore,Tamil Nadu,Jeans,Fashion,2,2200,0.0,UPI,Delivered,4400.0,4400,0.0,2025,Q1,1,January,2025-01,Monday,0,No Discount (0%),High Value
+ORD1203,2025-01-20,CUST238,Kumar,Male,55,Madurai,Tamil Nadu,Backpack,Accessories,4,1800,0.05,Credit Card,Delivered,6840.0,7200,360.0,2025,Q1,1,January,2025-01,Monday,0,Low (<10%),Medium Value
+ORD1536,2025-01-20,CUST187,Vikram,Male,43,Coimbatore,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,Debit Card,Delivered,7650.0,8500,850.0,2025,Q1,1,January,2025-01,Monday,0,Low (<10%),Medium Value
+ORD1491,2025-01-21,CUST154,Vikram,Female,25,Coimbatore,Tamil Nadu,Headphones,Electronics,1,2500,0.0,Cash on Delivery,Delivered,2500.0,2500,0.0,2025,Q1,1,January,2025-01,Tuesday,1,No Discount (0%),Medium Value
+ORD1461,2025-01-22,CUST294,Nisha,Female,59,Jaipur,Rajasthan,Smartwatch,Electronics,1,5000,0.05,Debit Card,Shipped,4750.0,5000,250.0,2025,Q1,1,January,2025-01,Wednesday,2,Low (<10%),High Value
+ORD1672,2025-01-22,CUST175,Arun,Male,56,Hyderabad,Telangana,Smartwatch,Electronics,2,5000,0.05,Credit Card,Delivered,9500.0,10000,500.0,2025,Q1,1,January,2025-01,Wednesday,2,Low (<10%),High Value
+ORD1764,2025-01-23,CUST148,Sanjay,Male,55,Madurai,Tamil Nadu,Desk,Furniture,1,12000,0.1,Debit Card,Delivered,10800.0,12000,1200.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),High Value
+ORD1078,2025-01-23,CUST163,Aditya,Female,34,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.05,Cash on Delivery,Delivered,11400.0,12000,600.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),Low Value
+ORD1700,2025-01-23,CUST255,Sanjay,Male,18,Kolkata,West Bengal,Jeans,Fashion,1,2200,0.15,UPI,Delivered,1870.0,2200,330.0,2025,Q1,1,January,2025-01,Thursday,3,Moderate (10-20%),Low Value
+ORD1656,2025-01-24,CUST165,Aishwarya,Female,60,Hyderabad,Telangana,Backpack,Accessories,2,1800,0.15,UPI,Delivered,3060.0,3600,540.0,2025,Q1,1,January,2025-01,Friday,4,Moderate (10-20%),Medium Value
+ORD1992,2025-01-25,CUST138,Surya,Female,19,Delhi,Delhi,Tablet,Electronics,1,22000,0.1,Cash on Delivery,Delivered,19800.0,22000,2200.0,2025,Q1,1,January,2025-01,Saturday,5,Low (<10%),High Value
+ORD1179,2025-01-25,CUST241,Priya,Male,51,Hyderabad,Telangana,Laptop,Electronics,2,55000,0.05,Credit Card,Returned,104500.0,110000,5500.0,2025,Q1,1,January,2025-01,Saturday,5,Low (<10%),High Value
+ORD1539,2025-01-25,CUST175,Priya,Male,57,Jaipur,Rajasthan,T-Shirt,Fashion,1,900,0.15,Cash on Delivery,Delivered,765.0,900,135.0,2025,Q1,1,January,2025-01,Saturday,5,Moderate (10-20%),High Value
+ORD1417,2025-01-25,CUST178,Kumar,Female,51,Pune,Maharashtra,T-Shirt,Fashion,2,900,0.05,UPI,Shipped,1710.0,1800,90.0,2025,Q1,1,January,2025-01,Saturday,5,Low (<10%),Low Value
+ORD1852,2025-01-25,CUST157,Nisha,Female,45,Chennai,Tamil Nadu,Headphones,Electronics,2,2500,0.0,Credit Card,Delivered,5000.0,5000,0.0,2025,Q1,1,January,2025-01,Saturday,5,No Discount (0%),High Value
+ORD1423,2025-01-27,CUST155,Harini,Female,42,Bengaluru,Karnataka,Smartwatch,Electronics,1,5000,0.1,UPI,Shipped,4500.0,5000,500.0,2025,Q1,1,January,2025-01,Monday,0,Low (<10%),Low Value
+ORD1012,2025-01-28,CUST208,Nisha,Male,28,Kochi,Kerala,Smartwatch,Electronics,1,5000,0.0,UPI,Cancelled,5000.0,5000,0.0,2025,Q1,1,January,2025-01,Tuesday,1,No Discount (0%),Low Value
+ORD1604,2025-01-28,CUST177,Arun,Male,52,Pune,Maharashtra,Smartphone,Electronics,2,28000,0.0,UPI,Delivered,56000.0,56000,0.0,2025,Q1,1,January,2025-01,Tuesday,1,No Discount (0%),Medium Value
+ORD1477,2025-01-28,CUST269,Priya,Male,58,Kochi,Kerala,Laptop,Electronics,1,55000,0.15,Credit Card,Delivered,46750.0,55000,8250.0,2025,Q1,1,January,2025-01,Tuesday,1,Moderate (10-20%),High Value
+ORD1217,2025-01-28,CUST286,Ravi,Male,39,Kochi,Kerala,Office Chair,Furniture,1,8500,0.2,Credit Card,Delivered,6800.0,8500,1700.0,2025,Q1,1,January,2025-01,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1751,2025-01-28,CUST165,Manoj,Male,27,Delhi,Delhi,Office Chair,Furniture,1,8500,0.0,Credit Card,Cancelled,8500.0,8500,0.0,2025,Q1,1,January,2025-01,Tuesday,1,No Discount (0%),Medium Value
+ORD1188,2025-01-29,CUST197,Meena,Female,57,Chennai,Tamil Nadu,Shoes,Fashion,2,3500,0.15,Credit Card,Shipped,5950.0,7000,1050.0,2025,Q1,1,January,2025-01,Wednesday,2,Moderate (10-20%),Low Value
+ORD1628,2025-01-29,CUST263,Pooja,Male,48,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.2,UPI,Shipped,1440.0,1800,360.0,2025,Q1,1,January,2025-01,Wednesday,2,Moderate (10-20%),Low Value
+ORD1045,2025-01-29,CUST265,Sneha,Female,18,Delhi,Delhi,Backpack,Accessories,1,1800,0.15,Cash on Delivery,Delivered,1530.0,1800,270.0,2025,Q1,1,January,2025-01,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1691,2025-01-29,CUST294,Pooja,Female,54,Kochi,Kerala,Smartphone,Electronics,4,28000,0.0,Net Banking,Delivered,112000.0,112000,0.0,2025,Q1,1,January,2025-01,Wednesday,2,No Discount (0%),High Value
+ORD1443,2025-01-29,CUST212,Surya,Male,52,Chennai,Tamil Nadu,Tablet,Electronics,1,22000,0.1,Debit Card,Delivered,19800.0,22000,2200.0,2025,Q1,1,January,2025-01,Wednesday,2,Low (<10%),Low Value
+ORD1849,2025-01-29,CUST205,Harini,Female,51,Mysuru,Karnataka,Coffee Maker,Home Appliances,1,6500,0.0,Cash on Delivery,Delivered,6500.0,6500,0.0,2025,Q1,1,January,2025-01,Wednesday,2,No Discount (0%),Low Value
+ORD1416,2025-01-30,CUST125,Priya,Male,42,Madurai,Tamil Nadu,T-Shirt,Fashion,3,900,0.05,Debit Card,Delivered,2565.0,2700,135.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),High Value
+ORD1424,2025-01-30,CUST145,Surya,Female,30,Coimbatore,Tamil Nadu,Smartwatch,Electronics,1,5000,0.1,UPI,Delivered,4500.0,5000,500.0,2025,Q1,1,January,2025-01,Thursday,3,Low (<10%),Low Value
+ORD1199,2025-01-30,CUST139,Nisha,Female,54,Mumbai,Maharashtra,Laptop,Electronics,2,55000,0.0,UPI,Delivered,110000.0,110000,0.0,2025,Q1,1,January,2025-01,Thursday,3,No Discount (0%),High Value
+ORD1827,2025-01-31,CUST201,Priya,Female,60,Chennai,Tamil Nadu,Desk,Furniture,2,12000,0.05,Credit Card,Delivered,22800.0,24000,1200.0,2025,Q1,1,January,2025-01,Friday,4,Low (<10%),Medium Value
+ORD1800,2025-01-31,CUST283,Nisha,Male,25,Delhi,Delhi,Office Chair,Furniture,2,8500,0.0,UPI,Delivered,17000.0,17000,0.0,2025,Q1,1,January,2025-01,Friday,4,No Discount (0%),Low Value
+ORD1009,2025-02-02,CUST148,Rahul,Female,57,Pune,Maharashtra,T-Shirt,Fashion,3,900,0.15,UPI,Delivered,2295.0,2700,405.0,2025,Q1,2,February,2025-02,Sunday,6,Moderate (10-20%),High Value
+ORD1023,2025-02-02,CUST276,Nisha,Male,39,Bengaluru,Karnataka,Tablet,Electronics,1,22000,0.1,UPI,Delivered,19800.0,22000,2200.0,2025,Q1,2,February,2025-02,Sunday,6,Low (<10%),Low Value
+ORD1683,2025-02-03,CUST299,Manoj,Male,40,Jaipur,Rajasthan,Smartphone,Electronics,2,28000,0.05,Cash on Delivery,Delivered,53200.0,56000,2800.0,2025,Q1,2,February,2025-02,Monday,0,Low (<10%),Medium Value
+ORD1973,2025-02-03,CUST237,Surya,Male,58,Chennai,Tamil Nadu,Headphones,Electronics,1,2500,0.0,Net Banking,Delivered,2500.0,2500,0.0,2025,Q1,2,February,2025-02,Monday,0,No Discount (0%),Low Value
+ORD1258,2025-02-04,CUST187,Sneha,Female,26,Delhi,Delhi,Tablet,Electronics,3,22000,0.0,Net Banking,Returned,66000.0,66000,0.0,2025,Q1,2,February,2025-02,Tuesday,1,No Discount (0%),Medium Value
+ORD1169,2025-02-05,CUST197,Divya,Male,25,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.05,UPI,Cancelled,12350.0,13000,650.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),Low Value
+ORD1310,2025-02-07,CUST264,Aditya,Male,30,Madurai,Tamil Nadu,Smartwatch,Electronics,3,5000,0.0,Credit Card,Delivered,15000.0,15000,0.0,2025,Q1,2,February,2025-02,Friday,4,No Discount (0%),High Value
+ORD1837,2025-02-07,CUST239,Kumar,Male,24,Pune,Maharashtra,Backpack,Accessories,2,1800,0.0,UPI,Shipped,3600.0,3600,0.0,2025,Q1,2,February,2025-02,Friday,4,No Discount (0%),High Value
+ORD1120,2025-02-07,CUST172,Rahul,Male,35,Mysuru,Karnataka,Shoes,Fashion,2,3500,0.05,UPI,Delivered,6650.0,7000,350.0,2025,Q1,2,February,2025-02,Friday,4,Low (<10%),Low Value
+ORD1043,2025-02-08,CUST209,Meena,Female,31,Jaipur,Rajasthan,Smartwatch,Electronics,1,5000,0.15,Credit Card,Shipped,4250.0,5000,750.0,2025,Q1,2,February,2025-02,Saturday,5,Moderate (10-20%),Medium Value
+ORD1196,2025-02-08,CUST112,Karthik,Female,38,Chennai,Tamil Nadu,Headphones,Electronics,2,2500,0.05,Debit Card,Shipped,4750.0,5000,250.0,2025,Q1,2,February,2025-02,Saturday,5,Low (<10%),High Value
+ORD1538,2025-02-08,CUST133,Aishwarya,Male,49,Mumbai,Maharashtra,Backpack,Accessories,1,1800,0.0,Cash on Delivery,Delivered,1800.0,1800,0.0,2025,Q1,2,February,2025-02,Saturday,5,No Discount (0%),High Value
+ORD1224,2025-02-09,CUST261,Arun,Male,25,Kochi,Kerala,Smartphone,Electronics,2,28000,0.05,Cash on Delivery,Cancelled,53200.0,56000,2800.0,2025,Q1,2,February,2025-02,Sunday,6,Low (<10%),High Value
+ORD1331,2025-02-10,CUST270,Aishwarya,Female,57,Delhi,Delhi,Jeans,Fashion,4,2200,0.0,Debit Card,Delivered,8800.0,8800,0.0,2025,Q1,2,February,2025-02,Monday,0,No Discount (0%),Medium Value
+ORD1480,2025-02-11,CUST247,Arun,Male,57,Madurai,Tamil Nadu,Smartphone,Electronics,2,28000,0.1,UPI,Delivered,50400.0,56000,5600.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),High Value
+ORD1855,2025-02-11,CUST193,Manoj,Female,53,Pune,Maharashtra,Desk,Furniture,1,12000,0.1,Cash on Delivery,Delivered,10800.0,12000,1200.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),Low Value
+ORD1956,2025-02-11,CUST157,Priya,Female,55,Madurai,Tamil Nadu,Headphones,Electronics,2,2500,0.05,UPI,Delivered,4750.0,5000,250.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),High Value
+ORD1445,2025-02-12,CUST300,Harini,Female,43,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.05,UPI,Delivered,6175.0,6500,325.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),Low Value
+ORD1368,2025-02-12,CUST112,Ananya,Female,47,Coimbatore,Tamil Nadu,Laptop,Electronics,1,55000,0.1,Cash on Delivery,Delivered,49500.0,55000,5500.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),High Value
+ORD1737,2025-02-12,CUST108,Harini,Male,29,Jaipur,Rajasthan,Backpack,Accessories,4,1800,0.1,Cash on Delivery,Delivered,6480.0,7200,720.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),High Value
+ORD1705,2025-02-12,CUST254,Vikram,Male,59,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.05,Debit Card,Delivered,26600.0,28000,1400.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),Medium Value
+ORD1512,2025-02-13,CUST127,Arun,Male,44,Chennai,Tamil Nadu,Office Chair,Furniture,1,8500,0.05,Cash on Delivery,Returned,8075.0,8500,425.0,2025,Q1,2,February,2025-02,Thursday,3,Low (<10%),Medium Value
+ORD1449,2025-02-15,CUST153,Pooja,Male,42,Hyderabad,Telangana,T-Shirt,Fashion,1,900,0.05,Cash on Delivery,Cancelled,855.0,900,45.0,2025,Q1,2,February,2025-02,Saturday,5,Low (<10%),Low Value
+ORD1728,2025-02-16,CUST113,Priya,Male,26,Madurai,Tamil Nadu,Shoes,Fashion,2,3500,0.0,Net Banking,Delivered,7000.0,7000,0.0,2025,Q1,2,February,2025-02,Sunday,6,No Discount (0%),Medium Value
+ORD1765,2025-02-16,CUST179,Keerthi,Male,43,Jaipur,Rajasthan,Jeans,Fashion,1,2200,0.0,Cash on Delivery,Delivered,2200.0,2200,0.0,2025,Q1,2,February,2025-02,Sunday,6,No Discount (0%),High Value
+ORD1481,2025-02-17,CUST139,Meena,Female,35,Pune,Maharashtra,Smartphone,Electronics,1,28000,0.1,UPI,Delivered,25200.0,28000,2800.0,2025,Q1,2,February,2025-02,Monday,0,Low (<10%),High Value
+ORD1064,2025-02-17,CUST161,Manoj,Male,18,Pune,Maharashtra,Shoes,Fashion,2,3500,0.1,UPI,Delivered,6300.0,7000,700.0,2025,Q1,2,February,2025-02,Monday,0,Low (<10%),Medium Value
+ORD1773,2025-02-18,CUST247,Ravi,Male,19,Hyderabad,Telangana,Backpack,Accessories,1,1800,0.05,Cash on Delivery,Delivered,1710.0,1800,90.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),High Value
+ORD1523,2025-02-18,CUST155,Kumar,Female,53,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.05,Cash on Delivery,Delivered,6175.0,6500,325.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),Low Value
+ORD1252,2025-02-18,CUST227,Sneha,Female,60,Kochi,Kerala,Laptop,Electronics,1,55000,0.0,Credit Card,Delivered,55000.0,55000,0.0,2025,Q1,2,February,2025-02,Tuesday,1,No Discount (0%),High Value
+ORD1244,2025-02-18,CUST146,Manoj,Male,60,Mumbai,Maharashtra,Headphones,Electronics,1,2500,0.05,Cash on Delivery,Delivered,2375.0,2500,125.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),High Value
+ORD1062,2025-02-20,CUST247,Rahul,Male,59,Madurai,Tamil Nadu,Headphones,Electronics,1,2500,0.2,UPI,Delivered,2000.0,2500,500.0,2025,Q1,2,February,2025-02,Thursday,3,Moderate (10-20%),High Value
+ORD1701,2025-02-20,CUST276,Sneha,Male,52,Pune,Maharashtra,Office Chair,Furniture,1,8500,0.05,Credit Card,Delivered,8075.0,8500,425.0,2025,Q1,2,February,2025-02,Thursday,3,Low (<10%),Low Value
+ORD1029,2025-02-20,CUST253,Manoj,Male,23,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.05,UPI,Delivered,6175.0,6500,325.0,2025,Q1,2,February,2025-02,Thursday,3,Low (<10%),Medium Value
+ORD1591,2025-02-20,CUST230,Aishwarya,Male,27,Kochi,Kerala,Coffee Maker,Home Appliances,2,6500,0.1,UPI,Delivered,11700.0,13000,1300.0,2025,Q1,2,February,2025-02,Thursday,3,Low (<10%),Medium Value
+ORD1991,2025-02-20,CUST212,Ravi,Male,18,Bengaluru,Karnataka,Jeans,Fashion,2,2200,0.05,UPI,Delivered,4180.0,4400,220.0,2025,Q1,2,February,2025-02,Thursday,3,Low (<10%),Low Value
+ORD1577,2025-02-21,CUST234,Surya,Male,27,Mumbai,Maharashtra,Desk,Furniture,2,12000,0.0,UPI,Delivered,24000.0,24000,0.0,2025,Q1,2,February,2025-02,Friday,4,No Discount (0%),High Value
+ORD1285,2025-02-22,CUST174,Keerthi,Male,55,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.1,UPI,Delivered,3150.0,3500,350.0,2025,Q1,2,February,2025-02,Saturday,5,Low (<10%),High Value
+ORD1451,2025-02-23,CUST129,Surya,Male,31,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.2,UPI,Delivered,9600.0,12000,2400.0,2025,Q1,2,February,2025-02,Sunday,6,Moderate (10-20%),Medium Value
+ORD1895,2025-02-25,CUST115,Kumar,Female,33,Chennai,Tamil Nadu,Backpack,Accessories,2,1800,0.05,UPI,Cancelled,3420.0,3600,180.0,2025,Q1,2,February,2025-02,Tuesday,1,Low (<10%),Medium Value
+ORD1563,2025-02-26,CUST193,Surya,Male,18,Kolkata,West Bengal,Shoes,Fashion,1,3500,0.05,Credit Card,Delivered,3325.0,3500,175.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),Low Value
+ORD1568,2025-02-26,CUST112,Aishwarya,Male,41,Pune,Maharashtra,Backpack,Accessories,1,1800,0.0,Cash on Delivery,Delivered,1800.0,1800,0.0,2025,Q1,2,February,2025-02,Wednesday,2,No Discount (0%),High Value
+ORD1204,2025-02-26,CUST273,Harini,Male,24,Kochi,Kerala,Backpack,Accessories,1,1800,0.1,Credit Card,Delivered,1620.0,1800,180.0,2025,Q1,2,February,2025-02,Wednesday,2,Low (<10%),High Value
+ORD1560,2025-02-27,CUST285,Harini,Female,55,Mysuru,Karnataka,Desk,Furniture,2,12000,0.0,Credit Card,Delivered,24000.0,24000,0.0,2025,Q1,2,February,2025-02,Thursday,3,No Discount (0%),Medium Value
+ORD1047,2025-02-27,CUST248,Ananya,Male,58,Kochi,Kerala,Headphones,Electronics,1,2500,0.05,Debit Card,Delivered,2375.0,2500,125.0,2025,Q1,2,February,2025-02,Thursday,3,Low (<10%),Medium Value
+ORD1290,2025-02-28,CUST232,Ananya,Male,58,Chennai,Tamil Nadu,Backpack,Accessories,2,1800,0.05,Cash on Delivery,Delivered,3420.0,3600,180.0,2025,Q1,2,February,2025-02,Friday,4,Low (<10%),High Value
+ORD1434,2025-03-01,CUST166,Arun,Female,53,Delhi,Delhi,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q1,3,March,2025-03,Saturday,5,Low (<10%),Medium Value
+ORD1771,2025-03-01,CUST241,Arun,Female,50,Delhi,Delhi,Desk,Furniture,1,12000,0.15,Credit Card,Delivered,10200.0,12000,1800.0,2025,Q1,3,March,2025-03,Saturday,5,Moderate (10-20%),High Value
+ORD1339,2025-03-02,CUST163,Harini,Female,49,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6500,0.1,Cash on Delivery,Delivered,5850.0,6500,650.0,2025,Q1,3,March,2025-03,Sunday,6,Low (<10%),Low Value
+ORD1860,2025-03-02,CUST200,Surya,Female,29,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.0,Credit Card,Delivered,3500.0,3500,0.0,2025,Q1,3,March,2025-03,Sunday,6,No Discount (0%),Medium Value
+ORD1676,2025-03-03,CUST209,Vikram,Male,39,Madurai,Tamil Nadu,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q1,3,March,2025-03,Monday,0,Low (<10%),Medium Value
+ORD1336,2025-03-04,CUST250,Ravi,Female,30,Coimbatore,Tamil Nadu,Smartwatch,Electronics,2,5000,0.15,UPI,Delivered,8500.0,10000,1500.0,2025,Q1,3,March,2025-03,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1421,2025-03-04,CUST220,Divya,Female,22,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.05,UPI,Delivered,11400.0,12000,600.0,2025,Q1,3,March,2025-03,Tuesday,1,Low (<10%),Medium Value
+ORD1589,2025-03-05,CUST129,Harini,Female,55,Delhi,Delhi,Office Chair,Furniture,1,8500,0.2,Debit Card,Delivered,6800.0,8500,1700.0,2025,Q1,3,March,2025-03,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1157,2025-03-06,CUST176,Vikram,Female,36,Chennai,Tamil Nadu,Jeans,Fashion,1,2200,0.1,Credit Card,Delivered,1980.0,2200,220.0,2025,Q1,3,March,2025-03,Thursday,3,Low (<10%),Low Value
+ORD1201,2025-03-07,CUST269,Pooja,Female,53,Delhi,Delhi,Shoes,Fashion,2,3500,0.15,UPI,Delivered,5950.0,7000,1050.0,2025,Q1,3,March,2025-03,Friday,4,Moderate (10-20%),High Value
+ORD1464,2025-03-08,CUST236,Ananya,Female,37,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.15,Credit Card,Returned,2125.0,2500,375.0,2025,Q1,3,March,2025-03,Saturday,5,Moderate (10-20%),Low Value
+ORD1785,2025-03-08,CUST213,Nisha,Male,57,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.05,Credit Card,Delivered,12350.0,13000,650.0,2025,Q1,3,March,2025-03,Saturday,5,Low (<10%),High Value
+ORD1753,2025-03-08,CUST143,Aditya,Male,54,Delhi,Delhi,T-Shirt,Fashion,3,900,0.05,Cash on Delivery,Delivered,2565.0,2700,135.0,2025,Q1,3,March,2025-03,Saturday,5,Low (<10%),Low Value
+ORD1599,2025-03-08,CUST106,Sneha,Female,35,Kochi,Kerala,Laptop,Electronics,2,55000,0.0,Cash on Delivery,Delivered,110000.0,110000,0.0,2025,Q1,3,March,2025-03,Saturday,5,No Discount (0%),High Value
+ORD1504,2025-03-09,CUST149,Harini,Female,46,Delhi,Delhi,Smartphone,Electronics,1,28000,0.05,Debit Card,Shipped,26600.0,28000,1400.0,2025,Q1,3,March,2025-03,Sunday,6,Low (<10%),High Value
+ORD1856,2025-03-09,CUST250,Sanjay,Male,46,Madurai,Tamil Nadu,Smartwatch,Electronics,3,5000,0.1,Net Banking,Delivered,13500.0,15000,1500.0,2025,Q1,3,March,2025-03,Sunday,6,Low (<10%),Medium Value
+ORD1985,2025-03-10,CUST170,Sneha,Female,29,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.05,UPI,Delivered,26600.0,28000,1400.0,2025,Q1,3,March,2025-03,Monday,0,Low (<10%),Low Value
+ORD1321,2025-03-10,CUST218,Arun,Male,58,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,6500,0.05,Debit Card,Shipped,18525.0,19500,975.0,2025,Q1,3,March,2025-03,Monday,0,Low (<10%),Low Value
+ORD1259,2025-03-10,CUST265,Karthik,Female,51,Bengaluru,Karnataka,Jeans,Fashion,1,2200,0.2,UPI,Delivered,1760.0,2200,440.0,2025,Q1,3,March,2025-03,Monday,0,Moderate (10-20%),Medium Value
+ORD1584,2025-03-11,CUST266,Priya,Female,37,Chennai,Tamil Nadu,Desk,Furniture,1,12000,0.0,UPI,Delivered,12000.0,12000,0.0,2025,Q1,3,March,2025-03,Tuesday,1,No Discount (0%),Low Value
+ORD1925,2025-03-12,CUST178,Priya,Male,25,Delhi,Delhi,Backpack,Accessories,1,1800,0.05,Credit Card,Delivered,1710.0,1800,90.0,2025,Q1,3,March,2025-03,Wednesday,2,Low (<10%),Low Value
+ORD1887,2025-03-13,CUST118,Sanjay,Male,40,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.0,Cash on Delivery,Delivered,28000.0,28000,0.0,2025,Q1,3,March,2025-03,Thursday,3,No Discount (0%),Medium Value
+ORD1740,2025-03-14,CUST198,Rahul,Male,42,Pune,Maharashtra,Backpack,Accessories,2,1800,0.1,Cash on Delivery,Delivered,3240.0,3600,360.0,2025,Q1,3,March,2025-03,Friday,4,Low (<10%),Medium Value
+ORD1576,2025-03-15,CUST151,Kumar,Male,46,Mysuru,Karnataka,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2025,Q1,3,March,2025-03,Saturday,5,No Discount (0%),High Value
+ORD1300,2025-03-15,CUST136,Rahul,Male,45,Coimbatore,Tamil Nadu,Backpack,Accessories,2,1800,0.05,UPI,Delivered,3420.0,3600,180.0,2025,Q1,3,March,2025-03,Saturday,5,Low (<10%),Medium Value
+ORD1210,2025-03-15,CUST292,Rahul,Female,43,Madurai,Tamil Nadu,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2025,Q1,3,March,2025-03,Saturday,5,Low (<10%),Medium Value
+ORD1099,2025-03-16,CUST170,Aishwarya,Female,59,Delhi,Delhi,Smartwatch,Electronics,1,5000,0.0,Credit Card,Delivered,5000.0,5000,0.0,2025,Q1,3,March,2025-03,Sunday,6,No Discount (0%),Low Value
+ORD1366,2025-03-16,CUST121,Nisha,Male,58,Coimbatore,Tamil Nadu,Jeans,Fashion,1,2200,0.15,Debit Card,Delivered,1870.0,2200,330.0,2025,Q1,3,March,2025-03,Sunday,6,Moderate (10-20%),Low Value
+ORD1828,2025-03-17,CUST135,Ravi,Male,21,Chennai,Tamil Nadu,Smartphone,Electronics,1,28000,0.1,UPI,Delivered,25200.0,28000,2800.0,2025,Q1,3,March,2025-03,Monday,0,Low (<10%),Medium Value
+ORD1415,2025-03-17,CUST187,Keerthi,Female,58,Jaipur,Rajasthan,Desk,Furniture,1,12000,0.1,UPI,Returned,10800.0,12000,1200.0,2025,Q1,3,March,2025-03,Monday,0,Low (<10%),Medium Value
+ORD1592,2025-03-17,CUST264,Manoj,Male,20,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.15,Credit Card,Delivered,23800.0,28000,4200.0,2025,Q1,3,March,2025-03,Monday,0,Moderate (10-20%),High Value
+ORD1208,2025-03-19,CUST224,Ravi,Female,43,Bengaluru,Karnataka,Smartwatch,Electronics,2,5000,0.0,Credit Card,Delivered,10000.0,10000,0.0,2025,Q1,3,March,2025-03,Wednesday,2,No Discount (0%),High Value
+ORD1452,2025-03-20,CUST210,Surya,Male,55,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.0,Credit Card,Cancelled,6500.0,6500,0.0,2025,Q1,3,March,2025-03,Thursday,3,No Discount (0%),Medium Value
+ORD1189,2025-03-20,CUST245,Sanjay,Male,49,Kochi,Kerala,Jeans,Fashion,2,2200,0.15,Net Banking,Delivered,3740.0,4400,660.0,2025,Q1,3,March,2025-03,Thursday,3,Moderate (10-20%),Medium Value
+ORD1625,2025-03-20,CUST152,Priya,Female,51,Mysuru,Karnataka,Shoes,Fashion,1,3500,0.1,Debit Card,Delivered,3150.0,3500,350.0,2025,Q1,3,March,2025-03,Thursday,3,Low (<10%),High Value
+ORD1562,2025-03-21,CUST156,Keerthi,Male,37,Chennai,Tamil Nadu,Shoes,Fashion,2,3500,0.05,Credit Card,Cancelled,6650.0,7000,350.0,2025,Q1,3,March,2025-03,Friday,4,Low (<10%),High Value
+ORD1215,2025-03-23,CUST169,Kumar,Female,54,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.1,Credit Card,Returned,5850.0,6500,650.0,2025,Q1,3,March,2025-03,Sunday,6,Low (<10%),High Value
+ORD1611,2025-03-23,CUST285,Manoj,Female,33,Hyderabad,Telangana,Shoes,Fashion,2,3500,0.0,Cash on Delivery,Delivered,7000.0,7000,0.0,2025,Q1,3,March,2025-03,Sunday,6,No Discount (0%),Medium Value
+ORD1324,2025-03-23,CUST269,Manoj,Male,29,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.2,UPI,Delivered,22400.0,28000,5600.0,2025,Q1,3,March,2025-03,Sunday,6,Moderate (10-20%),High Value
+ORD1620,2025-03-24,CUST228,Aishwarya,Male,56,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.0,Debit Card,Delivered,1800.0,1800,0.0,2025,Q1,3,March,2025-03,Monday,0,No Discount (0%),High Value
+ORD1329,2025-03-24,CUST229,Meena,Male,59,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.15,Debit Card,Delivered,46750.0,55000,8250.0,2025,Q1,3,March,2025-03,Monday,0,Moderate (10-20%),Medium Value
+ORD1130,2025-03-25,CUST106,Surya,Male,20,Kolkata,West Bengal,Laptop,Electronics,1,55000,0.1,UPI,Cancelled,49500.0,55000,5500.0,2025,Q1,3,March,2025-03,Tuesday,1,Low (<10%),High Value
+ORD1249,2025-03-25,CUST213,Arun,Male,32,Bengaluru,Karnataka,Laptop,Electronics,1,55000,0.0,Debit Card,Delivered,55000.0,55000,0.0,2025,Q1,3,March,2025-03,Tuesday,1,No Discount (0%),High Value
+ORD1146,2025-03-25,CUST230,Vikram,Male,42,Hyderabad,Telangana,Shoes,Fashion,2,3500,0.05,Net Banking,Delivered,6650.0,7000,350.0,2025,Q1,3,March,2025-03,Tuesday,1,Low (<10%),Medium Value
+ORD1948,2025-03-25,CUST162,Priya,Female,54,Madurai,Tamil Nadu,Desk,Furniture,2,12000,0.15,Cash on Delivery,Delivered,20400.0,24000,3600.0,2025,Q1,3,March,2025-03,Tuesday,1,Moderate (10-20%),High Value
+ORD1089,2025-03-25,CUST205,Manoj,Female,39,Hyderabad,Telangana,Jeans,Fashion,1,2200,0.0,UPI,Delivered,2200.0,2200,0.0,2025,Q1,3,March,2025-03,Tuesday,1,No Discount (0%),Low Value
+ORD1474,2025-03-26,CUST253,Karthik,Male,40,Kolkata,West Bengal,Backpack,Accessories,2,1800,0.1,UPI,Delivered,3240.0,3600,360.0,2025,Q1,3,March,2025-03,Wednesday,2,Low (<10%),Medium Value
+ORD1877,2025-03-26,CUST120,Aishwarya,Female,41,Kolkata,West Bengal,Jeans,Fashion,3,2200,0.1,UPI,Cancelled,5940.0,6600,660.0,2025,Q1,3,March,2025-03,Wednesday,2,Low (<10%),High Value
+ORD1153,2025-03-27,CUST275,Priya,Female,43,Kochi,Kerala,Laptop,Electronics,2,55000,0.05,UPI,Shipped,104500.0,110000,5500.0,2025,Q1,3,March,2025-03,Thursday,3,Low (<10%),High Value
+ORD1067,2025-03-27,CUST226,Nisha,Male,30,Mysuru,Karnataka,Desk,Furniture,1,12000,0.1,Credit Card,Shipped,10800.0,12000,1200.0,2025,Q1,3,March,2025-03,Thursday,3,Low (<10%),High Value
+ORD1108,2025-03-27,CUST235,Keerthi,Male,24,Delhi,Delhi,Shoes,Fashion,1,3500,0.1,UPI,Cancelled,3150.0,3500,350.0,2025,Q1,3,March,2025-03,Thursday,3,Low (<10%),Low Value
+ORD1378,2025-03-30,CUST276,Aishwarya,Female,57,Kochi,Kerala,Shoes,Fashion,1,3500,0.05,Debit Card,Delivered,3325.0,3500,175.0,2025,Q1,3,March,2025-03,Sunday,6,Low (<10%),Low Value
+ORD1297,2025-03-31,CUST290,Nisha,Male,42,Pune,Maharashtra,Office Chair,Furniture,1,8500,0.2,Cash on Delivery,Returned,6800.0,8500,1700.0,2025,Q1,3,March,2025-03,Monday,0,Moderate (10-20%),Medium Value
+ORD1525,2025-03-31,CUST178,Vikram,Male,37,Hyderabad,Telangana,Coffee Maker,Home Appliances,2,6500,0.0,UPI,Delivered,13000.0,13000,0.0,2025,Q1,3,March,2025-03,Monday,0,No Discount (0%),Low Value
+ORD1457,2025-03-31,CUST281,Vikram,Female,43,Jaipur,Rajasthan,Office Chair,Furniture,2,8500,0.15,Net Banking,Delivered,14450.0,17000,2550.0,2025,Q1,3,March,2025-03,Monday,0,Moderate (10-20%),Low Value
+ORD1594,2025-03-31,CUST286,Sneha,Female,28,Kochi,Kerala,Backpack,Accessories,1,1800,0.15,UPI,Delivered,1530.0,1800,270.0,2025,Q1,3,March,2025-03,Monday,0,Moderate (10-20%),Medium Value
+ORD1659,2025-04-02,CUST267,Vikram,Male,31,Delhi,Delhi,Desk,Furniture,1,12000,0.1,UPI,Delivered,10800.0,12000,1200.0,2025,Q2,4,April,2025-04,Wednesday,2,Low (<10%),Low Value
+ORD1034,2025-04-04,CUST290,Harini,Male,33,Pune,Maharashtra,Office Chair,Furniture,1,8500,0.0,UPI,Delivered,8500.0,8500,0.0,2025,Q2,4,April,2025-04,Friday,4,No Discount (0%),Medium Value
+ORD1810,2025-04-05,CUST225,Karthik,Female,24,Jaipur,Rajasthan,Backpack,Accessories,2,1800,0.0,Debit Card,Delivered,3600.0,3600,0.0,2025,Q2,4,April,2025-04,Saturday,5,No Discount (0%),High Value
+ORD1900,2025-04-05,CUST282,Pooja,Female,46,Kochi,Kerala,Laptop,Electronics,1,55000,0.15,Debit Card,Delivered,46750.0,55000,8250.0,2025,Q2,4,April,2025-04,Saturday,5,Moderate (10-20%),High Value
+ORD1945,2025-04-05,CUST159,Rahul,Female,55,Pune,Maharashtra,Laptop,Electronics,4,55000,0.1,Debit Card,Delivered,198000.0,220000,22000.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),High Value
+ORD1040,2025-04-06,CUST252,Rahul,Male,30,Mumbai,Maharashtra,Shoes,Fashion,2,3500,0.2,Debit Card,Delivered,5600.0,7000,1400.0,2025,Q2,4,April,2025-04,Sunday,6,Moderate (10-20%),Medium Value
+ORD1314,2025-04-06,CUST267,Sneha,Female,40,Bengaluru,Karnataka,Headphones,Electronics,4,2500,0.05,UPI,Delivered,9500.0,10000,500.0,2025,Q2,4,April,2025-04,Sunday,6,Low (<10%),Low Value
+ORD1011,2025-04-06,CUST232,Rahul,Male,32,Kolkata,West Bengal,T-Shirt,Fashion,1,900,0.0,Debit Card,Delivered,900.0,900,0.0,2025,Q2,4,April,2025-04,Sunday,6,No Discount (0%),High Value
+ORD1340,2025-04-07,CUST213,Karthik,Male,52,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.05,UPI,Delivered,41800.0,44000,2200.0,2025,Q2,4,April,2025-04,Monday,0,Low (<10%),High Value
+ORD1721,2025-04-09,CUST161,Manoj,Female,27,Chennai,Tamil Nadu,Jeans,Fashion,1,2200,0.0,Cash on Delivery,Delivered,2200.0,2200,0.0,2025,Q2,4,April,2025-04,Wednesday,2,No Discount (0%),Medium Value
+ORD1624,2025-04-09,CUST242,Surya,Male,24,Hyderabad,Telangana,T-Shirt,Fashion,2,900,0.05,UPI,Delivered,1710.0,1800,90.0,2025,Q2,4,April,2025-04,Wednesday,2,Low (<10%),High Value
+ORD1618,2025-04-10,CUST204,Harini,Male,39,Coimbatore,Tamil Nadu,Smartwatch,Electronics,1,5000,0.15,UPI,Delivered,4250.0,5000,750.0,2025,Q2,4,April,2025-04,Thursday,3,Moderate (10-20%),High Value
+ORD1610,2025-04-10,CUST246,Karthik,Male,46,Chennai,Tamil Nadu,Jeans,Fashion,3,2200,0.0,Debit Card,Delivered,6600.0,6600,0.0,2025,Q2,4,April,2025-04,Thursday,3,No Discount (0%),High Value
+ORD1316,2025-04-10,CUST132,Divya,Male,36,Kochi,Kerala,Coffee Maker,Home Appliances,1,6500,0.05,Debit Card,Delivered,6175.0,6500,325.0,2025,Q2,4,April,2025-04,Thursday,3,Low (<10%),High Value
+ORD1787,2025-04-10,CUST289,Divya,Male,44,Madurai,Tamil Nadu,Laptop,Electronics,1,55000,0.15,Net Banking,Delivered,46750.0,55000,8250.0,2025,Q2,4,April,2025-04,Thursday,3,Moderate (10-20%),Medium Value
+ORD1986,2025-04-11,CUST290,Priya,Female,34,Chennai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.15,Credit Card,Delivered,4250.0,5000,750.0,2025,Q2,4,April,2025-04,Friday,4,Moderate (10-20%),Medium Value
+ORD1634,2025-04-11,CUST121,Rahul,Female,38,Coimbatore,Tamil Nadu,Shoes,Fashion,2,3500,0.0,Credit Card,Delivered,7000.0,7000,0.0,2025,Q2,4,April,2025-04,Friday,4,No Discount (0%),Low Value
+ORD1653,2025-04-11,CUST249,Aishwarya,Male,34,Kolkata,West Bengal,Smartwatch,Electronics,1,5000,0.05,Cash on Delivery,Returned,4750.0,5000,250.0,2025,Q2,4,April,2025-04,Friday,4,Low (<10%),Medium Value
+ORD1520,2025-04-11,CUST145,Aishwarya,Male,31,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.15,Debit Card,Delivered,10200.0,12000,1800.0,2025,Q2,4,April,2025-04,Friday,4,Moderate (10-20%),Low Value
+ORD1281,2025-04-11,CUST148,Vikram,Male,58,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.1,Credit Card,Delivered,39600.0,44000,4400.0,2025,Q2,4,April,2025-04,Friday,4,Low (<10%),High Value
+ORD1226,2025-04-12,CUST159,Rahul,Female,50,Mysuru,Karnataka,Desk,Furniture,2,12000,0.1,UPI,Delivered,21600.0,24000,2400.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),High Value
+ORD1645,2025-04-13,CUST155,Arun,Female,51,Kolkata,West Bengal,Shoes,Fashion,2,3500,0.0,Credit Card,Delivered,7000.0,7000,0.0,2025,Q2,4,April,2025-04,Sunday,6,No Discount (0%),Low Value
+ORD1570,2025-04-13,CUST224,Aishwarya,Female,49,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.0,Credit Card,Delivered,55000.0,55000,0.0,2025,Q2,4,April,2025-04,Sunday,6,No Discount (0%),High Value
+ORD1815,2025-04-14,CUST296,Vikram,Male,21,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0.0,Credit Card,Delivered,110000.0,110000,0.0,2025,Q2,4,April,2025-04,Monday,0,No Discount (0%),High Value
+ORD1173,2025-04-14,CUST218,Rahul,Female,18,Madurai,Tamil Nadu,Smartwatch,Electronics,3,5000,0.0,Cash on Delivery,Delivered,15000.0,15000,0.0,2025,Q2,4,April,2025-04,Monday,0,No Discount (0%),Low Value
+ORD1718,2025-04-14,CUST270,Rahul,Male,35,Kolkata,West Bengal,Tablet,Electronics,2,22000,0.0,Credit Card,Delivered,44000.0,44000,0.0,2025,Q2,4,April,2025-04,Monday,0,No Discount (0%),Medium Value
+ORD1054,2025-04-15,CUST199,Arun,Male,23,Hyderabad,Telangana,Shoes,Fashion,2,3500,0.1,Debit Card,Delivered,6300.0,7000,700.0,2025,Q2,4,April,2025-04,Tuesday,1,Low (<10%),Medium Value
+ORD1393,2025-04-15,CUST288,Keerthi,Female,52,Bengaluru,Karnataka,Jeans,Fashion,4,2200,0.0,UPI,Delivered,8800.0,8800,0.0,2025,Q2,4,April,2025-04,Tuesday,1,No Discount (0%),Medium Value
+ORD1552,2025-04-15,CUST104,Karthik,Male,32,Jaipur,Rajasthan,Smartphone,Electronics,3,28000,0.0,UPI,Delivered,84000.0,84000,0.0,2025,Q2,4,April,2025-04,Tuesday,1,No Discount (0%),High Value
+ORD1711,2025-04-15,CUST250,Aishwarya,Female,60,Madurai,Tamil Nadu,Tablet,Electronics,2,22000,0.15,UPI,Delivered,37400.0,44000,6600.0,2025,Q2,4,April,2025-04,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1623,2025-04-16,CUST246,Karthik,Male,27,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.15,UPI,Shipped,46750.0,55000,8250.0,2025,Q2,4,April,2025-04,Wednesday,2,Moderate (10-20%),High Value
+ORD1735,2025-04-16,CUST177,Vikram,Male,36,Bengaluru,Karnataka,Shoes,Fashion,2,3500,0.1,UPI,Delivered,6300.0,7000,700.0,2025,Q2,4,April,2025-04,Wednesday,2,Low (<10%),Medium Value
+ORD1031,2025-04-16,CUST258,Surya,Female,36,Kochi,Kerala,Headphones,Electronics,1,2500,0.0,Credit Card,Returned,2500.0,2500,0.0,2025,Q2,4,April,2025-04,Wednesday,2,No Discount (0%),Medium Value
+ORD1430,2025-04-18,CUST119,Ravi,Female,60,Mysuru,Karnataka,Coffee Maker,Home Appliances,2,6500,0.05,Net Banking,Shipped,12350.0,13000,650.0,2025,Q2,4,April,2025-04,Friday,4,Low (<10%),High Value
+ORD1247,2025-04-19,CUST112,Pooja,Male,43,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.05,Net Banking,Cancelled,52250.0,55000,2750.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),High Value
+ORD1260,2025-04-19,CUST151,Manoj,Male,38,Jaipur,Rajasthan,Tablet,Electronics,2,22000,0.05,Net Banking,Shipped,41800.0,44000,2200.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),High Value
+ORD1439,2025-04-19,CUST127,Harini,Female,31,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.15,UPI,Delivered,11050.0,13000,1950.0,2025,Q2,4,April,2025-04,Saturday,5,Moderate (10-20%),Medium Value
+ORD1754,2025-04-19,CUST161,Ananya,Female,41,Pune,Maharashtra,Smartwatch,Electronics,1,5000,0.1,Credit Card,Delivered,4500.0,5000,500.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),Medium Value
+ORD1833,2025-04-20,CUST214,Pooja,Male,21,Jaipur,Rajasthan,Backpack,Accessories,2,1800,0.05,Credit Card,Delivered,3420.0,3600,180.0,2025,Q2,4,April,2025-04,Sunday,6,Low (<10%),Medium Value
+ORD1980,2025-04-20,CUST137,Keerthi,Male,57,Kolkata,West Bengal,Office Chair,Furniture,1,8500,0.15,Credit Card,Delivered,7225.0,8500,1275.0,2025,Q2,4,April,2025-04,Sunday,6,Moderate (10-20%),Low Value
+ORD1068,2025-04-21,CUST134,Aditya,Female,36,Delhi,Delhi,Smartwatch,Electronics,2,5000,0.05,UPI,Delivered,9500.0,10000,500.0,2025,Q2,4,April,2025-04,Monday,0,Low (<10%),Medium Value
+ORD1286,2025-04-21,CUST202,Manoj,Female,41,Chennai,Tamil Nadu,Office Chair,Furniture,1,8500,0.05,Debit Card,Delivered,8075.0,8500,425.0,2025,Q2,4,April,2025-04,Monday,0,Low (<10%),Low Value
+ORD1399,2025-04-22,CUST208,Aditya,Male,44,Pune,Maharashtra,Smartwatch,Electronics,1,5000,0.0,Cash on Delivery,Delivered,5000.0,5000,0.0,2025,Q2,4,April,2025-04,Tuesday,1,No Discount (0%),Low Value
+ORD1269,2025-04-23,CUST171,Vikram,Male,53,Pune,Maharashtra,Backpack,Accessories,2,1800,0.2,Cash on Delivery,Delivered,2880.0,3600,720.0,2025,Q2,4,April,2025-04,Wednesday,2,Moderate (10-20%),Low Value
+ORD1365,2025-04-23,CUST270,Harini,Female,31,Coimbatore,Tamil Nadu,Jeans,Fashion,1,2200,0.1,UPI,Delivered,1980.0,2200,220.0,2025,Q2,4,April,2025-04,Wednesday,2,Low (<10%),Medium Value
+ORD1015,2025-04-23,CUST102,Priya,Male,40,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.05,UPI,Delivered,26600.0,28000,1400.0,2025,Q2,4,April,2025-04,Wednesday,2,Low (<10%),Medium Value
+ORD1851,2025-04-24,CUST126,Aditya,Male,50,Jaipur,Rajasthan,T-Shirt,Fashion,4,900,0.2,UPI,Delivered,2880.0,3600,720.0,2025,Q2,4,April,2025-04,Thursday,3,Moderate (10-20%),Medium Value
+ORD1926,2025-04-25,CUST164,Harini,Female,22,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.05,UPI,Delivered,6175.0,6500,325.0,2025,Q2,4,April,2025-04,Friday,4,Low (<10%),Low Value
+ORD1602,2025-04-25,CUST168,Ravi,Female,30,Jaipur,Rajasthan,Backpack,Accessories,2,1800,0.0,Net Banking,Delivered,3600.0,3600,0.0,2025,Q2,4,April,2025-04,Friday,4,No Discount (0%),High Value
+ORD1343,2025-04-25,CUST264,Priya,Male,45,Jaipur,Rajasthan,Laptop,Electronics,2,55000,0.15,UPI,Delivered,93500.0,110000,16500.0,2025,Q2,4,April,2025-04,Friday,4,Moderate (10-20%),High Value
+ORD1425,2025-04-26,CUST179,Harini,Female,21,Bengaluru,Karnataka,Office Chair,Furniture,3,8500,0.15,UPI,Delivered,21675.0,25500,3825.0,2025,Q2,4,April,2025-04,Saturday,5,Moderate (10-20%),High Value
+ORD1350,2025-04-26,CUST157,Manoj,Male,19,Hyderabad,Telangana,Office Chair,Furniture,1,8500,0.1,Credit Card,Returned,7650.0,8500,850.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),High Value
+ORD1026,2025-04-26,CUST291,Arun,Male,35,Mumbai,Maharashtra,Tablet,Electronics,1,22000,0.1,Credit Card,Delivered,19800.0,22000,2200.0,2025,Q2,4,April,2025-04,Saturday,5,Low (<10%),Medium Value
+ORD1657,2025-04-26,CUST193,Meena,Male,35,Kochi,Kerala,Coffee Maker,Home Appliances,1,6500,0.15,UPI,Delivered,5525.0,6500,975.0,2025,Q2,4,April,2025-04,Saturday,5,Moderate (10-20%),Low Value
+ORD1206,2025-04-27,CUST259,Divya,Male,53,Hyderabad,Telangana,Headphones,Electronics,2,2500,0.1,UPI,Returned,4500.0,5000,500.0,2025,Q2,4,April,2025-04,Sunday,6,Low (<10%),Medium Value
+ORD1048,2025-04-27,CUST234,Nisha,Female,38,Kolkata,West Bengal,Headphones,Electronics,4,2500,0.05,UPI,Delivered,9500.0,10000,500.0,2025,Q2,4,April,2025-04,Sunday,6,Low (<10%),High Value
+ORD1582,2025-04-27,CUST284,Meena,Female,51,Madurai,Tamil Nadu,Office Chair,Furniture,1,8500,0.05,Credit Card,Delivered,8075.0,8500,425.0,2025,Q2,4,April,2025-04,Sunday,6,Low (<10%),Low Value
+ORD1254,2025-04-28,CUST200,Arun,Female,51,Mumbai,Maharashtra,Desk,Furniture,3,12000,0.0,UPI,Delivered,36000.0,36000,0.0,2025,Q2,4,April,2025-04,Monday,0,No Discount (0%),Medium Value
+ORD1392,2025-04-29,CUST137,Surya,Male,39,Chennai,Tamil Nadu,Jeans,Fashion,2,2200,0.0,UPI,Delivered,4400.0,4400,0.0,2025,Q2,4,April,2025-04,Tuesday,1,No Discount (0%),Low Value
+ORD1053,2025-04-29,CUST133,Arun,Male,28,Delhi,Delhi,Smartphone,Electronics,3,28000,0.15,Credit Card,Delivered,71400.0,84000,12600.0,2025,Q2,4,April,2025-04,Tuesday,1,Moderate (10-20%),High Value
+ORD1096,2025-04-29,CUST240,Harini,Female,55,Bengaluru,Karnataka,Tablet,Electronics,1,22000,0.15,Debit Card,Delivered,18700.0,22000,3300.0,2025,Q2,4,April,2025-04,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1150,2025-04-29,CUST135,Sneha,Male,22,Pune,Maharashtra,Smartphone,Electronics,1,28000,0.15,UPI,Delivered,23800.0,28000,4200.0,2025,Q2,4,April,2025-04,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1287,2025-04-29,CUST256,Pooja,Female,57,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q2,4,April,2025-04,Tuesday,1,Low (<10%),Low Value
+ORD1118,2025-04-30,CUST225,Aditya,Male,21,Chennai,Tamil Nadu,Smartphone,Electronics,1,28000,0.15,Credit Card,Delivered,23800.0,28000,4200.0,2025,Q2,4,April,2025-04,Wednesday,2,Moderate (10-20%),High Value
+ORD1518,2025-04-30,CUST197,Manoj,Male,19,Mysuru,Karnataka,Jeans,Fashion,1,2200,0.0,Credit Card,Delivered,2200.0,2200,0.0,2025,Q2,4,April,2025-04,Wednesday,2,No Discount (0%),Low Value
+ORD1924,2025-05-01,CUST277,Harini,Male,28,Kolkata,West Bengal,Smartphone,Electronics,1,28000,0.15,UPI,Delivered,23800.0,28000,4200.0,2025,Q2,5,May,2025-05,Thursday,3,Moderate (10-20%),High Value
+ORD1001,2025-05-02,CUST175,Ravi,Female,53,Bengaluru,Karnataka,Desk,Furniture,3,12000,0.1,UPI,Delivered,32400.0,36000,3600.0,2025,Q2,5,May,2025-05,Friday,4,Low (<10%),High Value
+ORD1408,2025-05-02,CUST276,Nisha,Female,34,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.05,Cash on Delivery,Delivered,6175.0,6500,325.0,2025,Q2,5,May,2025-05,Friday,4,Low (<10%),Low Value
+ORD1507,2025-05-02,CUST117,Sneha,Male,42,Coimbatore,Tamil Nadu,T-Shirt,Fashion,2,900,0.05,Cash on Delivery,Delivered,1710.0,1800,90.0,2025,Q2,5,May,2025-05,Friday,4,Low (<10%),Low Value
+ORD1137,2025-05-02,CUST243,Priya,Male,57,Hyderabad,Telangana,T-Shirt,Fashion,1,900,0.2,Debit Card,Delivered,720.0,900,180.0,2025,Q2,5,May,2025-05,Friday,4,Moderate (10-20%),High Value
+ORD1743,2025-05-02,CUST141,Vikram,Female,40,Kochi,Kerala,Tablet,Electronics,1,22000,0.0,Credit Card,Delivered,22000.0,22000,0.0,2025,Q2,5,May,2025-05,Friday,4,No Discount (0%),High Value
+ORD1463,2025-05-03,CUST211,Kumar,Male,45,Mysuru,Karnataka,Desk,Furniture,2,12000,0.1,UPI,Delivered,21600.0,24000,2400.0,2025,Q2,5,May,2025-05,Saturday,5,Low (<10%),Medium Value
+ORD1195,2025-05-04,CUST214,Harini,Male,38,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.0,Debit Card,Delivered,55000.0,55000,0.0,2025,Q2,5,May,2025-05,Sunday,6,No Discount (0%),Medium Value
+ORD1411,2025-05-05,CUST157,Pooja,Male,27,Coimbatore,Tamil Nadu,Desk,Furniture,3,12000,0.15,UPI,Cancelled,30600.0,36000,5400.0,2025,Q2,5,May,2025-05,Monday,0,Moderate (10-20%),High Value
+ORD1298,2025-05-05,CUST198,Manoj,Female,33,Kochi,Kerala,Desk,Furniture,1,12000,0.0,Net Banking,Delivered,12000.0,12000,0.0,2025,Q2,5,May,2025-05,Monday,0,No Discount (0%),Medium Value
+ORD1490,2025-05-06,CUST253,Manoj,Female,28,Pune,Maharashtra,Smartwatch,Electronics,3,5000,0.0,Credit Card,Shipped,15000.0,15000,0.0,2025,Q2,5,May,2025-05,Tuesday,1,No Discount (0%),Medium Value
+ORD1515,2025-05-06,CUST288,Manoj,Male,59,Hyderabad,Telangana,Smartwatch,Electronics,1,5000,0.0,Credit Card,Delivered,5000.0,5000,0.0,2025,Q2,5,May,2025-05,Tuesday,1,No Discount (0%),Medium Value
+ORD1151,2025-05-06,CUST150,Vikram,Male,60,Kolkata,West Bengal,Headphones,Electronics,1,2500,0.2,Credit Card,Returned,2000.0,2500,500.0,2025,Q2,5,May,2025-05,Tuesday,1,Moderate (10-20%),Low Value
+ORD1409,2025-05-08,CUST242,Rahul,Male,21,Chennai,Tamil Nadu,Smartphone,Electronics,1,28000,0.1,Credit Card,Delivered,25200.0,28000,2800.0,2025,Q2,5,May,2025-05,Thursday,3,Low (<10%),High Value
+ORD1688,2025-05-09,CUST149,Divya,Male,41,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,0.05,Credit Card,Delivered,104500.0,110000,5500.0,2025,Q2,5,May,2025-05,Friday,4,Low (<10%),High Value
+ORD1627,2025-05-09,CUST191,Aishwarya,Male,58,Kolkata,West Bengal,Smartwatch,Electronics,2,5000,0.0,UPI,Delivered,10000.0,10000,0.0,2025,Q2,5,May,2025-05,Friday,4,No Discount (0%),Low Value
+ORD1129,2025-05-10,CUST275,Keerthi,Male,28,Kochi,Kerala,Shoes,Fashion,1,3500,0.15,UPI,Delivered,2975.0,3500,525.0,2025,Q2,5,May,2025-05,Saturday,5,Moderate (10-20%),High Value
+ORD1909,2025-05-11,CUST173,Divya,Male,34,Coimbatore,Tamil Nadu,Tablet,Electronics,2,22000,0.05,Credit Card,Delivered,41800.0,44000,2200.0,2025,Q2,5,May,2025-05,Sunday,6,Low (<10%),High Value
+ORD1397,2025-05-12,CUST187,Pooja,Female,18,Coimbatore,Tamil Nadu,T-Shirt,Fashion,2,900,0.05,Credit Card,Delivered,1710.0,1800,90.0,2025,Q2,5,May,2025-05,Monday,0,Low (<10%),Medium Value
+ORD1077,2025-05-12,CUST189,Sanjay,Female,35,Mysuru,Karnataka,Headphones,Electronics,1,2500,0.0,Cash on Delivery,Delivered,2500.0,2500,0.0,2025,Q2,5,May,2025-05,Monday,0,No Discount (0%),Low Value
+ORD1501,2025-05-12,CUST104,Aishwarya,Male,49,Coimbatore,Tamil Nadu,Laptop,Electronics,2,55000,0.0,Debit Card,Delivered,110000.0,110000,0.0,2025,Q2,5,May,2025-05,Monday,0,No Discount (0%),High Value
+ORD1983,2025-05-12,CUST148,Manoj,Male,23,Mysuru,Karnataka,Backpack,Accessories,2,1800,0.0,Cash on Delivery,Delivered,3600.0,3600,0.0,2025,Q2,5,May,2025-05,Monday,0,No Discount (0%),High Value
+ORD1933,2025-05-13,CUST269,Ananya,Male,33,Hyderabad,Telangana,Smartphone,Electronics,2,28000,0.15,UPI,Delivered,47600.0,56000,8400.0,2025,Q2,5,May,2025-05,Tuesday,1,Moderate (10-20%),High Value
+ORD1123,2025-05-13,CUST145,Surya,Female,59,Delhi,Delhi,Tablet,Electronics,1,22000,0.1,UPI,Delivered,19800.0,22000,2200.0,2025,Q2,5,May,2025-05,Tuesday,1,Low (<10%),Low Value
+ORD1742,2025-05-13,CUST171,Surya,Male,46,Chennai,Tamil Nadu,T-Shirt,Fashion,2,900,0.0,UPI,Delivered,1800.0,1800,0.0,2025,Q2,5,May,2025-05,Tuesday,1,No Discount (0%),Low Value
+ORD1974,2025-05-14,CUST255,Nisha,Female,20,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.15,Credit Card,Shipped,2975.0,3500,525.0,2025,Q2,5,May,2025-05,Wednesday,2,Moderate (10-20%),Low Value
+ORD1482,2025-05-17,CUST254,Divya,Male,32,Pune,Maharashtra,Smartwatch,Electronics,2,5000,0.05,UPI,Shipped,9500.0,10000,500.0,2025,Q2,5,May,2025-05,Saturday,5,Low (<10%),Medium Value
+ORD1818,2025-05-17,CUST190,Priya,Male,23,Jaipur,Rajasthan,Headphones,Electronics,2,2500,0.0,Credit Card,Returned,5000.0,5000,0.0,2025,Q2,5,May,2025-05,Saturday,5,No Discount (0%),Low Value
+ORD1996,2025-05-18,CUST277,Manoj,Female,40,Madurai,Tamil Nadu,T-Shirt,Fashion,1,900,0.1,Credit Card,Delivered,810.0,900,90.0,2025,Q2,5,May,2025-05,Sunday,6,Low (<10%),High Value
+ORD1704,2025-05-18,CUST266,Aditya,Female,24,Madurai,Tamil Nadu,Office Chair,Furniture,1,8500,0.05,UPI,Delivered,8075.0,8500,425.0,2025,Q2,5,May,2025-05,Sunday,6,Low (<10%),Low Value
+ORD1192,2025-05-18,CUST138,Aditya,Male,45,Mysuru,Karnataka,T-Shirt,Fashion,1,900,0.15,Cash on Delivery,Delivered,765.0,900,135.0,2025,Q2,5,May,2025-05,Sunday,6,Moderate (10-20%),High Value
+ORD1808,2025-05-18,CUST177,Pooja,Male,54,Kochi,Kerala,Desk,Furniture,1,12000,0.1,UPI,Delivered,10800.0,12000,1200.0,2025,Q2,5,May,2025-05,Sunday,6,Low (<10%),Medium Value
+ORD1733,2025-05-19,CUST120,Kumar,Female,28,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6500,0.15,Debit Card,Shipped,5525.0,6500,975.0,2025,Q2,5,May,2025-05,Monday,0,Moderate (10-20%),High Value
+ORD1263,2025-05-20,CUST249,Ravi,Female,22,Madurai,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,Debit Card,Delivered,7650.0,8500,850.0,2025,Q2,5,May,2025-05,Tuesday,1,Low (<10%),Medium Value
+ORD1823,2025-05-21,CUST238,Priya,Female,53,Delhi,Delhi,Desk,Furniture,1,12000,0.15,Cash on Delivery,Cancelled,10200.0,12000,1800.0,2025,Q2,5,May,2025-05,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1322,2025-05-21,CUST184,Vikram,Female,31,Jaipur,Rajasthan,Tablet,Electronics,1,22000,0.05,Debit Card,Cancelled,20900.0,22000,1100.0,2025,Q2,5,May,2025-05,Wednesday,2,Low (<10%),Medium Value
+ORD1164,2025-05-21,CUST219,Karthik,Female,32,Hyderabad,Telangana,Desk,Furniture,1,12000,0.0,Credit Card,Delivered,12000.0,12000,0.0,2025,Q2,5,May,2025-05,Wednesday,2,No Discount (0%),Low Value
+ORD1736,2025-05-22,CUST225,Pooja,Male,49,Delhi,Delhi,Laptop,Electronics,1,55000,0.05,UPI,Delivered,52250.0,55000,2750.0,2025,Q2,5,May,2025-05,Thursday,3,Low (<10%),High Value
+ORD1894,2025-05-22,CUST236,Pooja,Male,33,Kolkata,West Bengal,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2025,Q2,5,May,2025-05,Thursday,3,No Discount (0%),Low Value
+ORD1113,2025-05-22,CUST220,Aishwarya,Male,54,Bengaluru,Karnataka,Desk,Furniture,2,12000,0.0,UPI,Delivered,24000.0,24000,0.0,2025,Q2,5,May,2025-05,Thursday,3,No Discount (0%),Medium Value
+ORD1814,2025-05-23,CUST269,Ravi,Male,43,Kolkata,West Bengal,T-Shirt,Fashion,3,900,0.05,Cash on Delivery,Delivered,2565.0,2700,135.0,2025,Q2,5,May,2025-05,Friday,4,Low (<10%),High Value
+ORD1017,2025-05-24,CUST197,Karthik,Male,23,Mysuru,Karnataka,Backpack,Accessories,2,1800,0.1,Debit Card,Delivered,3240.0,3600,360.0,2025,Q2,5,May,2025-05,Saturday,5,Low (<10%),Low Value
+ORD1428,2025-05-24,CUST116,Keerthi,Male,48,Delhi,Delhi,Smartwatch,Electronics,1,5000,0.05,Debit Card,Delivered,4750.0,5000,250.0,2025,Q2,5,May,2025-05,Saturday,5,Low (<10%),Medium Value
+ORD1095,2025-05-27,CUST212,Surya,Female,35,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.0,Cash on Delivery,Delivered,12000.0,12000,0.0,2025,Q2,5,May,2025-05,Tuesday,1,No Discount (0%),Low Value
+ORD1779,2025-05-27,CUST222,Manoj,Female,39,Madurai,Tamil Nadu,Laptop,Electronics,1,55000,0.1,Debit Card,Delivered,49500.0,55000,5500.0,2025,Q2,5,May,2025-05,Tuesday,1,Low (<10%),Medium Value
+ORD1264,2025-05-27,CUST254,Pooja,Male,49,Pune,Maharashtra,Smartwatch,Electronics,2,5000,0.15,Credit Card,Delivered,8500.0,10000,1500.0,2025,Q2,5,May,2025-05,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1789,2025-05-27,CUST274,Manoj,Female,31,Kochi,Kerala,Shoes,Fashion,2,3500,0.05,Cash on Delivery,Delivered,6650.0,7000,350.0,2025,Q2,5,May,2025-05,Tuesday,1,Low (<10%),Low Value
+ORD1255,2025-05-28,CUST119,Meena,Female,45,Kochi,Kerala,Tablet,Electronics,1,22000,0.15,UPI,Delivered,18700.0,22000,3300.0,2025,Q2,5,May,2025-05,Wednesday,2,Moderate (10-20%),High Value
+ORD1391,2025-05-29,CUST215,Priya,Female,36,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.05,Debit Card,Delivered,2375.0,2500,125.0,2025,Q2,5,May,2025-05,Thursday,3,Low (<10%),Medium Value
+ORD1871,2025-05-29,CUST171,Rahul,Male,39,Jaipur,Rajasthan,Jeans,Fashion,2,2200,0.05,UPI,Delivered,4180.0,4400,220.0,2025,Q2,5,May,2025-05,Thursday,3,Low (<10%),Low Value
+ORD1652,2025-05-29,CUST288,Harini,Male,40,Mysuru,Karnataka,Shoes,Fashion,2,3500,0.2,UPI,Delivered,5600.0,7000,1400.0,2025,Q2,5,May,2025-05,Thursday,3,Moderate (10-20%),Medium Value
+ORD1436,2025-05-30,CUST298,Divya,Female,39,Coimbatore,Tamil Nadu,Tablet,Electronics,1,22000,0.15,Credit Card,Shipped,18700.0,22000,3300.0,2025,Q2,5,May,2025-05,Friday,4,Moderate (10-20%),Low Value
+ORD1964,2025-05-30,CUST296,Priya,Female,45,Pune,Maharashtra,Tablet,Electronics,1,22000,0.15,UPI,Shipped,18700.0,22000,3300.0,2025,Q2,5,May,2025-05,Friday,4,Moderate (10-20%),High Value
+ORD1511,2025-05-30,CUST132,Karthik,Female,23,Madurai,Tamil Nadu,Desk,Furniture,2,12000,0.0,Debit Card,Delivered,24000.0,24000,0.0,2025,Q2,5,May,2025-05,Friday,4,No Discount (0%),High Value
+ORD1019,2025-05-31,CUST259,Meena,Male,33,Coimbatore,Tamil Nadu,Desk,Furniture,2,12000,0.1,Cash on Delivery,Delivered,21600.0,24000,2400.0,2025,Q2,5,May,2025-05,Saturday,5,Low (<10%),Medium Value
+ORD1667,2025-06-01,CUST146,Ravi,Female,56,Hyderabad,Telangana,Tablet,Electronics,2,22000,0.15,Credit Card,Delivered,37400.0,44000,6600.0,2025,Q2,6,June,2025-06,Sunday,6,Moderate (10-20%),High Value
+ORD1727,2025-06-02,CUST204,Ravi,Female,43,Chennai,Tamil Nadu,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),High Value
+ORD1479,2025-06-02,CUST273,Manoj,Female,60,Bengaluru,Karnataka,Laptop,Electronics,1,55000,0.1,Credit Card,Cancelled,49500.0,55000,5500.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),High Value
+ORD1313,2025-06-02,CUST223,Rahul,Male,18,Hyderabad,Telangana,T-Shirt,Fashion,1,900,0.1,Debit Card,Delivered,810.0,900,90.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),High Value
+ORD1847,2025-06-03,CUST123,Harini,Female,19,Pune,Maharashtra,Smartwatch,Electronics,2,5000,0.1,Debit Card,Delivered,9000.0,10000,1000.0,2025,Q2,6,June,2025-06,Tuesday,1,Low (<10%),Low Value
+ORD1165,2025-06-03,CUST191,Rahul,Male,41,Pune,Maharashtra,T-Shirt,Fashion,2,900,0.15,Cash on Delivery,Delivered,1530.0,1800,270.0,2025,Q2,6,June,2025-06,Tuesday,1,Moderate (10-20%),Low Value
+ORD1184,2025-06-04,CUST192,Keerthi,Male,39,Bengaluru,Karnataka,Tablet,Electronics,1,22000,0.1,Net Banking,Delivered,19800.0,22000,2200.0,2025,Q2,6,June,2025-06,Wednesday,2,Low (<10%),Low Value
+ORD1027,2025-06-04,CUST230,Manoj,Female,26,Delhi,Delhi,Office Chair,Furniture,3,8500,0.0,Debit Card,Delivered,25500.0,25500,0.0,2025,Q2,6,June,2025-06,Wednesday,2,No Discount (0%),Medium Value
+ORD1182,2025-06-05,CUST290,Keerthi,Male,33,Pune,Maharashtra,Backpack,Accessories,1,1800,0.0,Debit Card,Delivered,1800.0,1800,0.0,2025,Q2,6,June,2025-06,Thursday,3,No Discount (0%),Medium Value
+ORD1149,2025-06-05,CUST211,Aditya,Female,37,Kolkata,West Bengal,Tablet,Electronics,1,22000,0.15,UPI,Shipped,18700.0,22000,3300.0,2025,Q2,6,June,2025-06,Thursday,3,Moderate (10-20%),Medium Value
+ORD1641,2025-06-07,CUST119,Vikram,Male,35,Kochi,Kerala,Laptop,Electronics,1,55000,0.2,Credit Card,Delivered,44000.0,55000,11000.0,2025,Q2,6,June,2025-06,Saturday,5,Moderate (10-20%),High Value
+ORD1081,2025-06-08,CUST147,Divya,Male,32,Coimbatore,Tamil Nadu,Office Chair,Furniture,2,8500,0.15,Debit Card,Delivered,14450.0,17000,2550.0,2025,Q2,6,June,2025-06,Sunday,6,Moderate (10-20%),High Value
+ORD1142,2025-06-08,CUST286,Harini,Female,45,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.05,UPI,Delivered,2375.0,2500,125.0,2025,Q2,6,June,2025-06,Sunday,6,Low (<10%),Medium Value
+ORD1433,2025-06-09,CUST189,Priya,Male,26,Bengaluru,Karnataka,Shoes,Fashion,2,3500,0.0,Credit Card,Returned,7000.0,7000,0.0,2025,Q2,6,June,2025-06,Monday,0,No Discount (0%),Low Value
+ORD1275,2025-06-09,CUST214,Keerthi,Male,41,Kochi,Kerala,Desk,Furniture,2,12000,0.05,UPI,Shipped,22800.0,24000,1200.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),Medium Value
+ORD1459,2025-06-10,CUST290,Aditya,Female,56,Kochi,Kerala,Jeans,Fashion,4,2200,0.0,Credit Card,Shipped,8800.0,8800,0.0,2025,Q2,6,June,2025-06,Tuesday,1,No Discount (0%),Medium Value
+ORD1174,2025-06-10,CUST116,Nisha,Female,51,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.0,UPI,Delivered,44000.0,44000,0.0,2025,Q2,6,June,2025-06,Tuesday,1,No Discount (0%),Medium Value
+ORD1296,2025-06-10,CUST175,Sanjay,Female,48,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.0,UPI,Delivered,2500.0,2500,0.0,2025,Q2,6,June,2025-06,Tuesday,1,No Discount (0%),High Value
+ORD1155,2025-06-10,CUST269,Pooja,Female,30,Mysuru,Karnataka,Tablet,Electronics,1,22000,0.05,UPI,Delivered,20900.0,22000,1100.0,2025,Q2,6,June,2025-06,Tuesday,1,Low (<10%),High Value
+ORD1716,2025-06-11,CUST291,Karthik,Male,50,Kochi,Kerala,Backpack,Accessories,4,1800,0.0,UPI,Delivered,7200.0,7200,0.0,2025,Q2,6,June,2025-06,Wednesday,2,No Discount (0%),Medium Value
+ORD1092,2025-06-11,CUST224,Arun,Male,45,Kochi,Kerala,Desk,Furniture,2,12000,0.05,Cash on Delivery,Cancelled,22800.0,24000,1200.0,2025,Q2,6,June,2025-06,Wednesday,2,Low (<10%),High Value
+ORD1835,2025-06-12,CUST216,Sanjay,Male,45,Mysuru,Karnataka,Smartphone,Electronics,1,28000,0.0,Cash on Delivery,Delivered,28000.0,28000,0.0,2025,Q2,6,June,2025-06,Thursday,3,No Discount (0%),Low Value
+ORD1022,2025-06-12,CUST289,Karthik,Male,21,Madurai,Tamil Nadu,Shoes,Fashion,4,3500,0.05,UPI,Delivered,13300.0,14000,700.0,2025,Q2,6,June,2025-06,Thursday,3,Low (<10%),Medium Value
+ORD1784,2025-06-13,CUST103,Manoj,Male,21,Hyderabad,Telangana,Desk,Furniture,1,12000,0.05,Credit Card,Delivered,11400.0,12000,600.0,2025,Q2,6,June,2025-06,Friday,4,Low (<10%),Medium Value
+ORD1590,2025-06-13,CUST211,Aishwarya,Female,52,Chennai,Tamil Nadu,Jeans,Fashion,2,2200,0.2,Credit Card,Returned,3520.0,4400,880.0,2025,Q2,6,June,2025-06,Friday,4,Moderate (10-20%),Medium Value
+ORD1820,2025-06-13,CUST138,Arun,Female,39,Kolkata,West Bengal,Smartwatch,Electronics,1,5000,0.15,Net Banking,Delivered,4250.0,5000,750.0,2025,Q2,6,June,2025-06,Friday,4,Moderate (10-20%),High Value
+ORD1816,2025-06-14,CUST123,Sneha,Female,30,Mysuru,Karnataka,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),Low Value
+ORD1693,2025-06-14,CUST161,Vikram,Female,50,Kochi,Kerala,Jeans,Fashion,2,2200,0.1,Credit Card,Returned,3960.0,4400,440.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),Medium Value
+ORD1262,2025-06-14,CUST185,Ananya,Male,34,Madurai,Tamil Nadu,Laptop,Electronics,3,55000,0.1,Debit Card,Delivered,148500.0,165000,16500.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),High Value
+ORD1708,2025-06-14,CUST181,Vikram,Male,46,Chennai,Tamil Nadu,Office Chair,Furniture,1,8500,0.15,Credit Card,Delivered,7225.0,8500,1275.0,2025,Q2,6,June,2025-06,Saturday,5,Moderate (10-20%),Low Value
+ORD1325,2025-06-15,CUST122,Ravi,Female,44,Delhi,Delhi,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2025,Q2,6,June,2025-06,Sunday,6,Low (<10%),Medium Value
+ORD1780,2025-06-15,CUST185,Karthik,Female,33,Kolkata,West Bengal,Backpack,Accessories,1,1800,0.1,Cash on Delivery,Shipped,1620.0,1800,180.0,2025,Q2,6,June,2025-06,Sunday,6,Low (<10%),High Value
+ORD1953,2025-06-17,CUST241,Harini,Female,54,Bengaluru,Karnataka,Headphones,Electronics,1,2500,0.05,UPI,Delivered,2375.0,2500,125.0,2025,Q2,6,June,2025-06,Tuesday,1,Low (<10%),High Value
+ORD1788,2025-06-20,CUST126,Karthik,Male,55,Kochi,Kerala,Headphones,Electronics,1,2500,0.05,Credit Card,Delivered,2375.0,2500,125.0,2025,Q2,6,June,2025-06,Friday,4,Low (<10%),Medium Value
+ORD1863,2025-06-20,CUST210,Pooja,Female,36,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.1,UPI,Delivered,1620.0,1800,180.0,2025,Q2,6,June,2025-06,Friday,4,Low (<10%),Medium Value
+ORD1110,2025-06-20,CUST268,Nisha,Female,21,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.05,Debit Card,Cancelled,1710.0,1800,90.0,2025,Q2,6,June,2025-06,Friday,4,Low (<10%),Medium Value
+ORD1638,2025-06-21,CUST237,Ananya,Female,30,Pune,Maharashtra,Desk,Furniture,1,12000,0.0,Net Banking,Delivered,12000.0,12000,0.0,2025,Q2,6,June,2025-06,Saturday,5,No Discount (0%),Low Value
+ORD1074,2025-06-21,CUST230,Sanjay,Female,37,Chennai,Tamil Nadu,Headphones,Electronics,1,2500,0.05,UPI,Delivered,2375.0,2500,125.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),Medium Value
+ORD1493,2025-06-21,CUST187,Karthik,Female,59,Kochi,Kerala,Backpack,Accessories,2,1800,0.05,Credit Card,Shipped,3420.0,3600,180.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),Medium Value
+ORD1898,2025-06-21,CUST201,Vikram,Female,58,Kolkata,West Bengal,Office Chair,Furniture,3,8500,0.15,UPI,Delivered,21675.0,25500,3825.0,2025,Q2,6,June,2025-06,Saturday,5,Moderate (10-20%),Medium Value
+ORD1748,2025-06-21,CUST114,Aditya,Female,36,Delhi,Delhi,Laptop,Electronics,3,55000,0.15,Credit Card,Delivered,140250.0,165000,24750.0,2025,Q2,6,June,2025-06,Saturday,5,Moderate (10-20%),High Value
+ORD1072,2025-06-22,CUST144,Rahul,Male,21,Pune,Maharashtra,Headphones,Electronics,2,2500,0.1,Credit Card,Delivered,4500.0,5000,500.0,2025,Q2,6,June,2025-06,Sunday,6,Low (<10%),Low Value
+ORD1283,2025-06-22,CUST262,Karthik,Male,24,Jaipur,Rajasthan,Office Chair,Furniture,2,8500,0.1,UPI,Shipped,15300.0,17000,1700.0,2025,Q2,6,June,2025-06,Sunday,6,Low (<10%),High Value
+ORD1807,2025-06-22,CUST117,Priya,Female,22,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.15,Debit Card,Delivered,5525.0,6500,975.0,2025,Q2,6,June,2025-06,Sunday,6,Moderate (10-20%),Low Value
+ORD1633,2025-06-23,CUST265,Surya,Female,48,Chennai,Tamil Nadu,Jeans,Fashion,1,2200,0.2,Credit Card,Delivered,1760.0,2200,440.0,2025,Q2,6,June,2025-06,Monday,0,Moderate (10-20%),Medium Value
+ORD1240,2025-06-23,CUST147,Aditya,Female,43,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.05,UPI,Delivered,52250.0,55000,2750.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),High Value
+ORD1829,2025-06-24,CUST101,Kumar,Female,34,Coimbatore,Tamil Nadu,Smartwatch,Electronics,2,5000,0.0,Credit Card,Delivered,10000.0,10000,0.0,2025,Q2,6,June,2025-06,Tuesday,1,No Discount (0%),High Value
+ORD1918,2025-06-24,CUST104,Priya,Male,33,Kochi,Kerala,Desk,Furniture,1,12000,0.0,Credit Card,Delivered,12000.0,12000,0.0,2025,Q2,6,June,2025-06,Tuesday,1,No Discount (0%),High Value
+ORD1714,2025-06-25,CUST133,Surya,Female,52,Mysuru,Karnataka,Smartwatch,Electronics,1,5000,0.15,Cash on Delivery,Delivered,4250.0,5000,750.0,2025,Q2,6,June,2025-06,Wednesday,2,Moderate (10-20%),High Value
+ORD1874,2025-06-25,CUST259,Nisha,Male,27,Pune,Maharashtra,Desk,Furniture,1,12000,0.0,Debit Card,Delivered,12000.0,12000,0.0,2025,Q2,6,June,2025-06,Wednesday,2,No Discount (0%),Medium Value
+ORD1878,2025-06-27,CUST141,Sanjay,Female,26,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,6500,0.2,Credit Card,Delivered,10400.0,13000,2600.0,2025,Q2,6,June,2025-06,Friday,4,Moderate (10-20%),High Value
+ORD1241,2025-06-28,CUST232,Vikram,Male,21,Mumbai,Maharashtra,Office Chair,Furniture,3,8500,0.05,Credit Card,Shipped,24225.0,25500,1275.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),High Value
+ORD1088,2025-06-28,CUST282,Vikram,Male,41,Jaipur,Rajasthan,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2025,Q2,6,June,2025-06,Saturday,5,No Discount (0%),High Value
+ORD1888,2025-06-28,CUST235,Sanjay,Male,36,Hyderabad,Telangana,Coffee Maker,Home Appliances,4,6500,0.05,Debit Card,Delivered,24700.0,26000,1300.0,2025,Q2,6,June,2025-06,Saturday,5,Low (<10%),Low Value
+ORD1987,2025-06-29,CUST252,Ravi,Female,34,Mysuru,Karnataka,Smartwatch,Electronics,1,5000,0.1,Cash on Delivery,Delivered,4500.0,5000,500.0,2025,Q2,6,June,2025-06,Sunday,6,Low (<10%),Medium Value
+ORD1907,2025-06-30,CUST157,Harini,Male,24,Jaipur,Rajasthan,Smartwatch,Electronics,1,5000,0.1,UPI,Delivered,4500.0,5000,500.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),High Value
+ORD2000,2025-06-30,CUST114,Harini,Female,25,Bengaluru,Karnataka,Desk,Furniture,1,12000,0.1,Credit Card,Delivered,10800.0,12000,1200.0,2025,Q2,6,June,2025-06,Monday,0,Low (<10%),High Value
+ORD1503,2025-07-01,CUST130,Priya,Male,20,Mysuru,Karnataka,Laptop,Electronics,2,55000,0.15,Cash on Delivery,Shipped,93500.0,110000,16500.0,2025,Q3,7,July,2025-07,Tuesday,1,Moderate (10-20%),High Value
+ORD1543,2025-07-01,CUST113,Surya,Male,43,Mumbai,Maharashtra,Shoes,Fashion,1,3500,0.1,Credit Card,Delivered,3150.0,3500,350.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Medium Value
+ORD1211,2025-07-01,CUST274,Nisha,Male,48,Kochi,Kerala,Desk,Furniture,1,12000,0.05,Cash on Delivery,Delivered,11400.0,12000,600.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Low Value
+ORD1786,2025-07-03,CUST123,Aishwarya,Male,48,Delhi,Delhi,Smartwatch,Electronics,2,5000,0.0,Cash on Delivery,Delivered,10000.0,10000,0.0,2025,Q3,7,July,2025-07,Thursday,3,No Discount (0%),Low Value
+ORD1931,2025-07-05,CUST105,Pooja,Male,55,Kochi,Kerala,Backpack,Accessories,1,1800,0.1,Credit Card,Delivered,1620.0,1800,180.0,2025,Q3,7,July,2025-07,Saturday,5,Low (<10%),Low Value
+ORD1419,2025-07-06,CUST190,Pooja,Male,60,Jaipur,Rajasthan,Jeans,Fashion,1,2200,0.0,UPI,Shipped,2200.0,2200,0.0,2025,Q3,7,July,2025-07,Sunday,6,No Discount (0%),Low Value
+ORD1719,2025-07-07,CUST161,Harini,Female,58,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.1,Cash on Delivery,Delivered,10800.0,12000,1200.0,2025,Q3,7,July,2025-07,Monday,0,Low (<10%),Medium Value
+ORD1587,2025-07-08,CUST191,Sanjay,Male,24,Jaipur,Rajasthan,Shoes,Fashion,3,3500,0.05,UPI,Delivered,9975.0,10500,525.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Low Value
+ORD1762,2025-07-08,CUST203,Kumar,Female,58,Mumbai,Maharashtra,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Low Value
+ORD1427,2025-07-08,CUST259,Surya,Female,49,Madurai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.05,Credit Card,Delivered,4750.0,5000,250.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Medium Value
+ORD1003,2025-07-09,CUST290,Aditya,Female,20,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.05,Cash on Delivery,Delivered,3325.0,3500,175.0,2025,Q3,7,July,2025-07,Wednesday,2,Low (<10%),Medium Value
+ORD1389,2025-07-09,CUST112,Arun,Female,59,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.15,Credit Card,Delivered,11050.0,13000,1950.0,2025,Q3,7,July,2025-07,Wednesday,2,Moderate (10-20%),High Value
+ORD1440,2025-07-09,CUST132,Ananya,Female,37,Mysuru,Karnataka,Laptop,Electronics,2,55000,0.05,Credit Card,Delivered,104500.0,110000,5500.0,2025,Q3,7,July,2025-07,Wednesday,2,Low (<10%),High Value
+ORD1231,2025-07-10,CUST167,Divya,Female,55,Kochi,Kerala,Coffee Maker,Home Appliances,1,6500,0.1,UPI,Returned,5850.0,6500,650.0,2025,Q3,7,July,2025-07,Thursday,3,Low (<10%),Low Value
+ORD1845,2025-07-10,CUST193,Kumar,Male,25,Jaipur,Rajasthan,Jeans,Fashion,1,2200,0.05,Cash on Delivery,Shipped,2090.0,2200,110.0,2025,Q3,7,July,2025-07,Thursday,3,Low (<10%),Low Value
+ORD1846,2025-07-13,CUST231,Pooja,Male,40,Hyderabad,Telangana,Shoes,Fashion,3,3500,0.1,Cash on Delivery,Delivered,9450.0,10500,1050.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),Low Value
+ORD1750,2025-07-13,CUST224,Surya,Male,41,Chennai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.1,Credit Card,Delivered,4500.0,5000,500.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),High Value
+ORD1091,2025-07-13,CUST213,Aishwarya,Male,21,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.1,UPI,Delivered,1620.0,1800,180.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),High Value
+ORD1465,2025-07-14,CUST109,Keerthi,Female,24,Mysuru,Karnataka,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2025,Q3,7,July,2025-07,Monday,0,Low (<10%),Medium Value
+ORD1119,2025-07-14,CUST253,Priya,Female,26,Jaipur,Rajasthan,Smartphone,Electronics,2,28000,0.05,UPI,Delivered,53200.0,56000,2800.0,2025,Q3,7,July,2025-07,Monday,0,Low (<10%),Medium Value
+ORD1977,2025-07-15,CUST133,Sanjay,Male,60,Mumbai,Maharashtra,Office Chair,Furniture,2,8500,0.1,Cash on Delivery,Delivered,15300.0,17000,1700.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),High Value
+ORD1660,2025-07-16,CUST167,Nisha,Male,59,Bengaluru,Karnataka,Office Chair,Furniture,1,8500,0.05,Net Banking,Delivered,8075.0,8500,425.0,2025,Q3,7,July,2025-07,Wednesday,2,Low (<10%),Low Value
+ORD1505,2025-07-17,CUST228,Harini,Female,55,Jaipur,Rajasthan,Shoes,Fashion,1,3500,0.2,Net Banking,Delivered,2800.0,3500,700.0,2025,Q3,7,July,2025-07,Thursday,3,Moderate (10-20%),High Value
+ORD1079,2025-07-17,CUST234,Unknown Customer,Female,25,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.15,Debit Card,Delivered,10200.0,12000,1800.0,2025,Q3,7,July,2025-07,Thursday,3,Moderate (10-20%),High Value
+ORD1554,2025-07-18,CUST230,Manoj,Female,48,Kochi,Kerala,Office Chair,Furniture,1,8500,0.1,Credit Card,Delivered,7650.0,8500,850.0,2025,Q3,7,July,2025-07,Friday,4,Low (<10%),Medium Value
+ORD1132,2025-07-18,CUST231,Nisha,Male,20,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2025,Q3,7,July,2025-07,Friday,4,No Discount (0%),Low Value
+ORD1107,2025-07-19,CUST125,Aishwarya,Male,32,Mysuru,Karnataka,Backpack,Accessories,2,1800,0.1,Debit Card,Delivered,3240.0,3600,360.0,2025,Q3,7,July,2025-07,Saturday,5,Low (<10%),High Value
+ORD1492,2025-07-19,CUST156,Divya,Female,20,Jaipur,Rajasthan,Office Chair,Furniture,2,8500,0.2,UPI,Delivered,13600.0,17000,3400.0,2025,Q3,7,July,2025-07,Saturday,5,Moderate (10-20%),High Value
+ORD1239,2025-07-20,CUST289,Karthik,Female,34,Mysuru,Karnataka,Smartphone,Electronics,1,28000,0.0,UPI,Shipped,28000.0,28000,0.0,2025,Q3,7,July,2025-07,Sunday,6,No Discount (0%),Medium Value
+ORD1565,2025-07-20,CUST181,Priya,Female,24,Kochi,Kerala,Desk,Furniture,1,12000,0.05,Credit Card,Delivered,11400.0,12000,600.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),Low Value
+ORD1270,2025-07-20,CUST227,Arun,Female,19,Mysuru,Karnataka,Laptop,Electronics,1,55000,0.15,UPI,Shipped,46750.0,55000,8250.0,2025,Q3,7,July,2025-07,Sunday,6,Moderate (10-20%),High Value
+ORD1312,2025-07-21,CUST132,Priya,Female,26,Mysuru,Karnataka,Office Chair,Furniture,1,8500,0.0,UPI,Delivered,8500.0,8500,0.0,2025,Q3,7,July,2025-07,Monday,0,No Discount (0%),High Value
+ORD1413,2025-07-21,CUST106,Pooja,Female,20,Delhi,Delhi,Office Chair,Furniture,2,8500,0.05,Cash on Delivery,Delivered,16150.0,17000,850.0,2025,Q3,7,July,2025-07,Monday,0,Low (<10%),High Value
+ORD1214,2025-07-22,CUST248,Aditya,Female,38,Coimbatore,Tamil Nadu,Smartwatch,Electronics,1,5000,0.05,UPI,Cancelled,4750.0,5000,250.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Medium Value
+ORD1197,2025-07-22,CUST186,Ravi,Male,45,Mumbai,Maharashtra,Tablet,Electronics,2,22000,0.1,UPI,Delivered,39600.0,44000,4400.0,2025,Q3,7,July,2025-07,Tuesday,1,Low (<10%),Low Value
+ORD1935,2025-07-22,CUST132,Sanjay,Female,41,Mumbai,Maharashtra,Office Chair,Furniture,1,8500,0.15,UPI,Delivered,7225.0,8500,1275.0,2025,Q3,7,July,2025-07,Tuesday,1,Moderate (10-20%),High Value
+ORD1993,2025-07-23,CUST108,Aditya,Male,60,Kolkata,West Bengal,T-Shirt,Fashion,2,900,0.0,Debit Card,Delivered,1800.0,1800,0.0,2025,Q3,7,July,2025-07,Wednesday,2,No Discount (0%),High Value
+ORD1636,2025-07-24,CUST285,Aditya,Male,37,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.1,Credit Card,Delivered,5850.0,6500,650.0,2025,Q3,7,July,2025-07,Thursday,3,Low (<10%),Medium Value
+ORD1669,2025-07-24,CUST249,Rahul,Male,30,Hyderabad,Telangana,Smartwatch,Electronics,1,5000,0.05,Credit Card,Cancelled,4750.0,5000,250.0,2025,Q3,7,July,2025-07,Thursday,3,Low (<10%),Medium Value
+ORD1768,2025-07-26,CUST126,Arun,Female,46,Jaipur,Rajasthan,Backpack,Accessories,2,1800,0.0,Credit Card,Delivered,3600.0,3600,0.0,2025,Q3,7,July,2025-07,Saturday,5,No Discount (0%),Medium Value
+ORD1404,2025-07-27,CUST108,Aditya,Male,43,Hyderabad,Telangana,T-Shirt,Fashion,3,900,0.1,UPI,Delivered,2430.0,2700,270.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),High Value
+ORD1766,2025-07-27,CUST261,Vikram,Male,26,Pune,Maharashtra,Backpack,Accessories,1,1800,0.1,Cash on Delivery,Delivered,1620.0,1800,180.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),High Value
+ORD1891,2025-07-27,CUST269,Kumar,Male,37,Delhi,Delhi,Coffee Maker,Home Appliances,1,6500,0.1,UPI,Delivered,5850.0,6500,650.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),High Value
+ORD1811,2025-07-27,CUST166,Meena,Female,32,Mysuru,Karnataka,Tablet,Electronics,1,22000,0.05,Debit Card,Delivered,20900.0,22000,1100.0,2025,Q3,7,July,2025-07,Sunday,6,Low (<10%),Medium Value
+ORD1171,2025-07-28,CUST135,Priya,Male,25,Madurai,Tamil Nadu,T-Shirt,Fashion,1,900,0.0,Credit Card,Delivered,900.0,900,0.0,2025,Q3,7,July,2025-07,Monday,0,No Discount (0%),Medium Value
+ORD1744,2025-07-28,CUST138,Divya,Female,26,Pune,Maharashtra,Tablet,Electronics,3,22000,0.0,Debit Card,Cancelled,66000.0,66000,0.0,2025,Q3,7,July,2025-07,Monday,0,No Discount (0%),High Value
+ORD1600,2025-07-28,CUST229,Harini,Female,58,Hyderabad,Telangana,Coffee Maker,Home Appliances,2,6500,0.15,UPI,Delivered,11050.0,13000,1950.0,2025,Q3,7,July,2025-07,Monday,0,Moderate (10-20%),Medium Value
+ORD1282,2025-07-29,CUST241,Divya,Female,33,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2025,Q3,7,July,2025-07,Tuesday,1,No Discount (0%),High Value
+ORD1320,2025-07-29,CUST172,Arun,Female,28,Kochi,Kerala,Backpack,Accessories,1,1800,0.15,UPI,Cancelled,1530.0,1800,270.0,2025,Q3,7,July,2025-07,Tuesday,1,Moderate (10-20%),Low Value
+ORD1250,2025-07-29,CUST151,Karthik,Female,45,Pune,Maharashtra,Smartphone,Electronics,2,28000,0.15,UPI,Delivered,47600.0,56000,8400.0,2025,Q3,7,July,2025-07,Tuesday,1,Moderate (10-20%),High Value
+ORD1446,2025-07-30,CUST139,Surya,Female,48,Kochi,Kerala,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2025,Q3,7,July,2025-07,Wednesday,2,Low (<10%),High Value
+ORD1535,2025-07-31,CUST212,Ananya,Female,59,Delhi,Delhi,Backpack,Accessories,1,1800,0.1,Credit Card,Delivered,1620.0,1800,180.0,2025,Q3,7,July,2025-07,Thursday,3,Low (<10%),Low Value
+ORD1734,2025-08-01,CUST280,Harini,Female,28,Jaipur,Rajasthan,Smartwatch,Electronics,1,5000,0.0,UPI,Shipped,5000.0,5000,0.0,2025,Q3,8,August,2025-08,Friday,4,No Discount (0%),Low Value
+ORD1220,2025-08-01,CUST179,Harini,Female,44,Bengaluru,Karnataka,T-Shirt,Fashion,2,900,0.1,Cash on Delivery,Delivered,1620.0,1800,180.0,2025,Q3,8,August,2025-08,Friday,4,Low (<10%),High Value
+ORD1632,2025-08-03,CUST258,Rahul,Male,28,Kolkata,West Bengal,Headphones,Electronics,2,2500,0.0,UPI,Delivered,5000.0,5000,0.0,2025,Q3,8,August,2025-08,Sunday,6,No Discount (0%),Medium Value
+ORD1629,2025-08-03,CUST166,Sneha,Female,57,Delhi,Delhi,Jeans,Fashion,1,2200,0.1,UPI,Delivered,1980.0,2200,220.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),Medium Value
+ORD1767,2025-08-05,CUST243,Priya,Female,24,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6500,0.1,Credit Card,Delivered,5850.0,6500,650.0,2025,Q3,8,August,2025-08,Tuesday,1,Low (<10%),High Value
+ORD1279,2025-08-06,CUST257,Arun,Female,42,Mumbai,Maharashtra,Office Chair,Furniture,4,8500,0.0,Debit Card,Delivered,34000.0,34000,0.0,2025,Q3,8,August,2025-08,Wednesday,2,No Discount (0%),High Value
+ORD1379,2025-08-06,CUST182,Sanjay,Female,29,Kochi,Kerala,T-Shirt,Fashion,2,900,0.2,Credit Card,Cancelled,1440.0,1800,360.0,2025,Q3,8,August,2025-08,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1988,2025-08-07,CUST218,Manoj,Female,24,Bengaluru,Karnataka,Jeans,Fashion,1,2200,0.15,UPI,Delivered,1870.0,2200,330.0,2025,Q3,8,August,2025-08,Thursday,3,Moderate (10-20%),Low Value
+ORD1025,2025-08-08,CUST258,Keerthi,Female,52,Bengaluru,Karnataka,Headphones,Electronics,1,2500,0.1,Debit Card,Delivered,2250.0,2500,250.0,2025,Q3,8,August,2025-08,Friday,4,Low (<10%),Medium Value
+ORD1354,2025-08-08,CUST234,Manoj,Male,48,Kolkata,West Bengal,Headphones,Electronics,2,2500,0.0,Credit Card,Delivered,5000.0,5000,0.0,2025,Q3,8,August,2025-08,Friday,4,No Discount (0%),High Value
+ORD1159,2025-08-09,CUST254,Nisha,Male,54,Madurai,Tamil Nadu,Shoes,Fashion,1,3500,0.2,UPI,Shipped,2800.0,3500,700.0,2025,Q3,8,August,2025-08,Saturday,5,Moderate (10-20%),Medium Value
+ORD1664,2025-08-09,CUST223,Priya,Female,19,Kolkata,West Bengal,Smartphone,Electronics,4,28000,0.0,Credit Card,Delivered,112000.0,112000,0.0,2025,Q3,8,August,2025-08,Saturday,5,No Discount (0%),High Value
+ORD1889,2025-08-09,CUST252,Pooja,Female,59,Pune,Maharashtra,Headphones,Electronics,1,2500,0.1,Cash on Delivery,Delivered,2250.0,2500,250.0,2025,Q3,8,August,2025-08,Saturday,5,Low (<10%),Medium Value
+ORD1930,2025-08-10,CUST152,Harini,Male,46,Mysuru,Karnataka,T-Shirt,Fashion,1,900,0.1,Credit Card,Delivered,810.0,900,90.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),High Value
+ORD1674,2025-08-11,CUST133,Harini,Female,54,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.1,UPI,Delivered,5850.0,6500,650.0,2025,Q3,8,August,2025-08,Monday,0,Low (<10%),High Value
+ORD1121,2025-08-12,CUST162,Surya,Female,57,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6500,0.15,Debit Card,Delivered,5525.0,6500,975.0,2025,Q3,8,August,2025-08,Tuesday,1,Moderate (10-20%),High Value
+ORD1588,2025-08-12,CUST254,Pooja,Male,26,Jaipur,Rajasthan,Tablet,Electronics,1,22000,0.15,Cash on Delivery,Delivered,18700.0,22000,3300.0,2025,Q3,8,August,2025-08,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1228,2025-08-14,CUST231,Nisha,Male,43,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.15,UPI,Delivered,5525.0,6500,975.0,2025,Q3,8,August,2025-08,Thursday,3,Moderate (10-20%),Low Value
+ORD1024,2025-08-14,CUST121,Arun,Female,50,Hyderabad,Telangana,Office Chair,Furniture,1,8500,0.15,UPI,Delivered,7225.0,8500,1275.0,2025,Q3,8,August,2025-08,Thursday,3,Moderate (10-20%),Low Value
+ORD1213,2025-08-16,CUST284,Ravi,Male,60,Delhi,Delhi,Office Chair,Furniture,2,8500,0.05,UPI,Delivered,16150.0,17000,850.0,2025,Q3,8,August,2025-08,Saturday,5,Low (<10%),Low Value
+ORD1893,2025-08-16,CUST228,Harini,Male,44,Mumbai,Maharashtra,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q3,8,August,2025-08,Saturday,5,Low (<10%),High Value
+ORD1105,2025-08-17,CUST208,Nisha,Female,55,Mumbai,Maharashtra,Jeans,Fashion,1,2200,0.0,Credit Card,Shipped,2200.0,2200,0.0,2025,Q3,8,August,2025-08,Sunday,6,No Discount (0%),Low Value
+ORD1969,2025-08-17,CUST225,Priya,Female,59,Mumbai,Maharashtra,Tablet,Electronics,2,22000,0.05,Credit Card,Delivered,41800.0,44000,2200.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),High Value
+ORD1540,2025-08-17,CUST184,Kumar,Female,35,Mumbai,Maharashtra,Desk,Furniture,3,12000,0.05,UPI,Delivered,34200.0,36000,1800.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),Medium Value
+ORD1775,2025-08-18,CUST124,Pooja,Female,18,Delhi,Delhi,Tablet,Electronics,1,22000,0.05,UPI,Delivered,20900.0,22000,1100.0,2025,Q3,8,August,2025-08,Monday,0,Low (<10%),High Value
+ORD1360,2025-08-18,CUST246,Priya,Female,50,Mumbai,Maharashtra,Jeans,Fashion,1,2200,0.15,Credit Card,Returned,1870.0,2200,330.0,2025,Q3,8,August,2025-08,Monday,0,Moderate (10-20%),High Value
+ORD1897,2025-08-20,CUST287,Arun,Female,56,Chennai,Tamil Nadu,Desk,Furniture,1,12000,0.0,Net Banking,Delivered,12000.0,12000,0.0,2025,Q3,8,August,2025-08,Wednesday,2,No Discount (0%),High Value
+ORD1471,2025-08-21,CUST293,Surya,Female,39,Mysuru,Karnataka,Desk,Furniture,2,12000,0.2,UPI,Delivered,19200.0,24000,4800.0,2025,Q3,8,August,2025-08,Thursday,3,Moderate (10-20%),Low Value
+ORD1984,2025-08-21,CUST136,Keerthi,Female,59,Hyderabad,Telangana,Smartwatch,Electronics,2,5000,0.15,Credit Card,Cancelled,8500.0,10000,1500.0,2025,Q3,8,August,2025-08,Thursday,3,Moderate (10-20%),Medium Value
+ORD1831,2025-08-22,CUST212,Sanjay,Female,60,Pune,Maharashtra,T-Shirt,Fashion,1,900,0.15,UPI,Delivered,765.0,900,135.0,2025,Q3,8,August,2025-08,Friday,4,Moderate (10-20%),Low Value
+ORD1363,2025-08-23,CUST286,Kumar,Female,22,Chennai,Tamil Nadu,Smartphone,Electronics,2,28000,0.0,Cash on Delivery,Shipped,56000.0,56000,0.0,2025,Q3,8,August,2025-08,Saturday,5,No Discount (0%),Medium Value
+ORD1352,2025-08-23,CUST230,Manoj,Male,48,Jaipur,Rajasthan,Smartwatch,Electronics,2,5000,0.1,Cash on Delivery,Delivered,9000.0,10000,1000.0,2025,Q3,8,August,2025-08,Saturday,5,Low (<10%),Medium Value
+ORD1848,2025-08-24,CUST228,Ananya,Male,48,Coimbatore,Tamil Nadu,Jeans,Fashion,2,2200,0.05,UPI,Delivered,4180.0,4400,220.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),High Value
+ORD1613,2025-08-24,CUST233,Rahul,Female,26,Chennai,Tamil Nadu,Desk,Furniture,4,12000,0.15,UPI,Delivered,40800.0,48000,7200.0,2025,Q3,8,August,2025-08,Sunday,6,Moderate (10-20%),Medium Value
+ORD1098,2025-08-25,CUST125,Vikram,Male,39,Coimbatore,Tamil Nadu,Laptop,Electronics,1,55000,0.05,Cash on Delivery,Delivered,52250.0,55000,2750.0,2025,Q3,8,August,2025-08,Monday,0,Low (<10%),High Value
+ORD1564,2025-08-25,CUST155,Harini,Male,51,Mysuru,Karnataka,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2025,Q3,8,August,2025-08,Monday,0,Low (<10%),Low Value
+ORD1654,2025-08-25,CUST166,Priya,Female,46,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.1,UPI,Delivered,25200.0,28000,2800.0,2025,Q3,8,August,2025-08,Monday,0,Low (<10%),Medium Value
+ORD1401,2025-08-25,CUST202,Rahul,Male,19,Delhi,Delhi,Tablet,Electronics,1,22000,0.05,Debit Card,Delivered,20900.0,22000,1100.0,2025,Q3,8,August,2025-08,Monday,0,Low (<10%),Low Value
+ORD1677,2025-08-26,CUST226,Pooja,Male,59,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0.1,Credit Card,Returned,99000.0,110000,11000.0,2025,Q3,8,August,2025-08,Tuesday,1,Low (<10%),High Value
+ORD1223,2025-08-26,CUST204,Aishwarya,Male,37,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.05,Credit Card,Delivered,3325.0,3500,175.0,2025,Q3,8,August,2025-08,Tuesday,1,Low (<10%),High Value
+ORD1713,2025-08-27,CUST120,Aishwarya,Male,27,Hyderabad,Telangana,T-Shirt,Fashion,1,900,0.0,UPI,Returned,900.0,900,0.0,2025,Q3,8,August,2025-08,Wednesday,2,No Discount (0%),High Value
+ORD1585,2025-08-27,CUST233,Vikram,Female,54,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.1,Credit Card,Delivered,11700.0,13000,1300.0,2025,Q3,8,August,2025-08,Wednesday,2,Low (<10%),Medium Value
+ORD1675,2025-08-28,CUST222,Ravi,Male,30,Jaipur,Rajasthan,Backpack,Accessories,1,1800,0.1,Credit Card,Delivered,1620.0,1800,180.0,2025,Q3,8,August,2025-08,Thursday,3,Low (<10%),Medium Value
+ORD1400,2025-08-30,CUST238,Harini,Male,28,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.1,Cash on Delivery,Cancelled,5850.0,6500,650.0,2025,Q3,8,August,2025-08,Saturday,5,Low (<10%),Medium Value
+ORD1782,2025-08-30,CUST131,Arun,Female,28,Mumbai,Maharashtra,Office Chair,Furniture,2,8500,0.15,UPI,Delivered,14450.0,17000,2550.0,2025,Q3,8,August,2025-08,Saturday,5,Moderate (10-20%),Low Value
+ORD1219,2025-08-31,CUST163,Manoj,Male,24,Kochi,Kerala,Headphones,Electronics,1,2500,0.0,Cash on Delivery,Delivered,2500.0,2500,0.0,2025,Q3,8,August,2025-08,Sunday,6,No Discount (0%),Low Value
+ORD1917,2025-08-31,CUST108,Keerthi,Female,55,Madurai,Tamil Nadu,Smartphone,Electronics,4,28000,0.0,UPI,Cancelled,112000.0,112000,0.0,2025,Q3,8,August,2025-08,Sunday,6,No Discount (0%),High Value
+ORD1444,2025-08-31,CUST119,Sneha,Male,60,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6500,0.05,UPI,Shipped,6175.0,6500,325.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),High Value
+ORD1140,2025-08-31,CUST222,Surya,Female,53,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.1,Debit Card,Delivered,25200.0,28000,2800.0,2025,Q3,8,August,2025-08,Sunday,6,Low (<10%),Medium Value
+ORD1087,2025-09-01,CUST125,Ravi,Female,24,Pune,Maharashtra,Tablet,Electronics,1,22000,0.1,UPI,Delivered,19800.0,22000,2200.0,2025,Q3,9,September,2025-09,Monday,0,Low (<10%),High Value
+ORD1873,2025-09-01,CUST264,Arun,Female,57,Bengaluru,Karnataka,Headphones,Electronics,2,2500,0.15,UPI,Delivered,4250.0,5000,750.0,2025,Q3,9,September,2025-09,Monday,0,Moderate (10-20%),High Value
+ORD1738,2025-09-03,CUST133,Nisha,Female,45,Mysuru,Karnataka,Jeans,Fashion,1,2200,0.05,UPI,Delivered,2090.0,2200,110.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),High Value
+ORD1883,2025-09-04,CUST217,Arun,Female,23,Delhi,Delhi,Shoes,Fashion,2,3500,0.1,UPI,Delivered,6300.0,7000,700.0,2025,Q3,9,September,2025-09,Thursday,3,Low (<10%),High Value
+ORD1328,2025-09-05,CUST122,Divya,Female,42,Delhi,Delhi,Shoes,Fashion,2,3500,0.0,UPI,Cancelled,7000.0,7000,0.0,2025,Q3,9,September,2025-09,Friday,4,No Discount (0%),Medium Value
+ORD1995,2025-09-05,CUST203,Manoj,Male,40,Madurai,Tamil Nadu,Backpack,Accessories,2,1800,0.05,UPI,Delivered,3420.0,3600,180.0,2025,Q3,9,September,2025-09,Friday,4,Low (<10%),Low Value
+ORD1739,2025-09-06,CUST272,Ravi,Male,42,Kochi,Kerala,Laptop,Electronics,1,55000,0.0,UPI,Delivered,55000.0,55000,0.0,2025,Q3,9,September,2025-09,Saturday,5,No Discount (0%),Medium Value
+ORD1680,2025-09-06,CUST162,Rahul,Female,25,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6500,0.05,Debit Card,Delivered,6175.0,6500,325.0,2025,Q3,9,September,2025-09,Saturday,5,Low (<10%),High Value
+ORD1732,2025-09-10,CUST119,Ananya,Male,48,Mumbai,Maharashtra,T-Shirt,Fashion,1,900,0.05,Debit Card,Delivered,855.0,900,45.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),High Value
+ORD1861,2025-09-10,CUST109,Meena,Female,59,Mysuru,Karnataka,Tablet,Electronics,2,22000,0.0,Credit Card,Delivered,44000.0,44000,0.0,2025,Q3,9,September,2025-09,Wednesday,2,No Discount (0%),Medium Value
+ORD1038,2025-09-10,CUST135,Manoj,Female,46,Kolkata,West Bengal,Jeans,Fashion,1,2200,0.0,Cash on Delivery,Delivered,2200.0,2200,0.0,2025,Q3,9,September,2025-09,Wednesday,2,No Discount (0%),Medium Value
+ORD1614,2025-09-10,CUST130,Karthik,Male,20,Madurai,Tamil Nadu,Laptop,Electronics,1,55000,0.05,Credit Card,Shipped,52250.0,55000,2750.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),High Value
+ORD1703,2025-09-10,CUST110,Priya,Female,20,Delhi,Delhi,Shoes,Fashion,1,3500,0.05,Credit Card,Delivered,3325.0,3500,175.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),Low Value
+ORD1052,2025-09-10,CUST234,Aishwarya,Male,22,Pune,Maharashtra,Laptop,Electronics,1,55000,0.15,Credit Card,Delivered,46750.0,55000,8250.0,2025,Q3,9,September,2025-09,Wednesday,2,Moderate (10-20%),High Value
+ORD1916,2025-09-10,CUST232,Harini,Male,33,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,4,6500,0.05,Net Banking,Delivered,24700.0,26000,1300.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),High Value
+ORD1857,2025-09-11,CUST291,Arun,Male,43,Mumbai,Maharashtra,Jeans,Fashion,3,2200,0.0,Net Banking,Delivered,6600.0,6600,0.0,2025,Q3,9,September,2025-09,Thursday,3,No Discount (0%),Medium Value
+ORD1221,2025-09-11,CUST231,Ananya,Male,59,Delhi,Delhi,Backpack,Accessories,2,1800,0.1,Credit Card,Delivered,3240.0,3600,360.0,2025,Q3,9,September,2025-09,Thursday,3,Low (<10%),Low Value
+ORD1209,2025-09-11,CUST218,Sanjay,Female,36,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q3,9,September,2025-09,Thursday,3,Low (<10%),Low Value
+ORD1612,2025-09-12,CUST120,Pooja,Female,55,Madurai,Tamil Nadu,Headphones,Electronics,2,2500,0.0,UPI,Delivered,5000.0,5000,0.0,2025,Q3,9,September,2025-09,Friday,4,No Discount (0%),High Value
+ORD1884,2025-09-13,CUST181,Nisha,Female,36,Coimbatore,Tamil Nadu,Desk,Furniture,2,12000,0.15,UPI,Delivered,20400.0,24000,3600.0,2025,Q3,9,September,2025-09,Saturday,5,Moderate (10-20%),Low Value
+ORD1305,2025-09-13,CUST239,Surya,Male,29,Hyderabad,Telangana,Laptop,Electronics,2,55000,0.05,Debit Card,Returned,104500.0,110000,5500.0,2025,Q3,9,September,2025-09,Saturday,5,Low (<10%),High Value
+ORD1830,2025-09-13,CUST151,Pooja,Male,53,Madurai,Tamil Nadu,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2025,Q3,9,September,2025-09,Saturday,5,No Discount (0%),High Value
+ORD1566,2025-09-15,CUST163,Divya,Female,22,Delhi,Delhi,T-Shirt,Fashion,3,900,0.1,Net Banking,Delivered,2430.0,2700,270.0,2025,Q3,9,September,2025-09,Monday,0,Low (<10%),Low Value
+ORD1578,2025-09-16,CUST168,Rahul,Male,52,Mysuru,Karnataka,Headphones,Electronics,1,2500,0.2,UPI,Returned,2000.0,2500,500.0,2025,Q3,9,September,2025-09,Tuesday,1,Moderate (10-20%),High Value
+ORD1367,2025-09-17,CUST293,Aditya,Male,39,Pune,Maharashtra,Shoes,Fashion,1,3500,0.1,Credit Card,Delivered,3150.0,3500,350.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),Low Value
+ORD1593,2025-09-18,CUST115,Pooja,Male,54,Mysuru,Karnataka,T-Shirt,Fashion,2,900,0.1,UPI,Delivered,1620.0,1800,180.0,2025,Q3,9,September,2025-09,Thursday,3,Low (<10%),Medium Value
+ORD1970,2025-09-18,CUST149,Rahul,Female,23,Bengaluru,Karnataka,T-Shirt,Fashion,1,900,0.0,Debit Card,Delivered,900.0,900,0.0,2025,Q3,9,September,2025-09,Thursday,3,No Discount (0%),High Value
+ORD1687,2025-09-19,CUST116,Ananya,Male,60,Madurai,Tamil Nadu,Headphones,Electronics,1,2500,0.1,Credit Card,Delivered,2250.0,2500,250.0,2025,Q3,9,September,2025-09,Friday,4,Low (<10%),Medium Value
+ORD1579,2025-09-19,CUST117,Divya,Male,52,Pune,Maharashtra,Coffee Maker,Home Appliances,2,6500,0.15,Debit Card,Shipped,11050.0,13000,1950.0,2025,Q3,9,September,2025-09,Friday,4,Moderate (10-20%),Low Value
+ORD1315,2025-09-19,CUST184,Harini,Male,34,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.0,Debit Card,Delivered,3500.0,3500,0.0,2025,Q3,9,September,2025-09,Friday,4,No Discount (0%),Medium Value
+ORD1799,2025-09-21,CUST265,Sanjay,Female,44,Madurai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.1,Credit Card,Delivered,4500.0,5000,500.0,2025,Q3,9,September,2025-09,Sunday,6,Low (<10%),Medium Value
+ORD1802,2025-09-22,CUST109,Karthik,Female,25,Jaipur,Rajasthan,Jeans,Fashion,2,2200,0.1,UPI,Delivered,3960.0,4400,440.0,2025,Q3,9,September,2025-09,Monday,0,Low (<10%),Medium Value
+ORD1876,2025-09-22,CUST235,Pooja,Female,23,Mumbai,Maharashtra,Headphones,Electronics,1,2500,0.05,Credit Card,Delivered,2375.0,2500,125.0,2025,Q3,9,September,2025-09,Monday,0,Low (<10%),Low Value
+ORD1521,2025-09-22,CUST179,Aditya,Male,36,Coimbatore,Tamil Nadu,Smartwatch,Electronics,1,5000,0.1,UPI,Delivered,4500.0,5000,500.0,2025,Q3,9,September,2025-09,Monday,0,Low (<10%),High Value
+ORD1178,2025-09-23,CUST125,Priya,Male,50,Coimbatore,Tamil Nadu,Jeans,Fashion,1,2200,0.2,Cash on Delivery,Delivered,1760.0,2200,440.0,2025,Q3,9,September,2025-09,Tuesday,1,Moderate (10-20%),High Value
+ORD1304,2025-09-23,CUST159,Ravi,Female,22,Coimbatore,Tamil Nadu,Laptop,Electronics,3,55000,0.15,UPI,Returned,140250.0,165000,24750.0,2025,Q3,9,September,2025-09,Tuesday,1,Moderate (10-20%),High Value
+ORD1158,2025-09-24,CUST199,Ananya,Female,27,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.05,Debit Card,Delivered,3325.0,3500,175.0,2025,Q3,9,September,2025-09,Wednesday,2,Low (<10%),Medium Value
+ORD1528,2025-09-25,CUST140,Priya,Female,31,Coimbatore,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.1,Credit Card,Delivered,5850.0,6500,650.0,2025,Q3,9,September,2025-09,Thursday,3,Low (<10%),High Value
+ORD1144,2025-09-25,CUST231,Sanjay,Male,38,Hyderabad,Telangana,Smartwatch,Electronics,2,5000,0.2,Debit Card,Delivered,8000.0,10000,2000.0,2025,Q3,9,September,2025-09,Thursday,3,Moderate (10-20%),Low Value
+ORD1806,2025-09-25,CUST269,Kumar,Female,39,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,6500,0.2,Debit Card,Delivered,15600.0,19500,3900.0,2025,Q3,9,September,2025-09,Thursday,3,Moderate (10-20%),High Value
+ORD1756,2025-09-26,CUST286,Kumar,Female,38,Hyderabad,Telangana,Desk,Furniture,2,12000,0.15,Debit Card,Delivered,20400.0,24000,3600.0,2025,Q3,9,September,2025-09,Friday,4,Moderate (10-20%),Medium Value
+ORD1919,2025-09-26,CUST177,Ravi,Male,32,Kolkata,West Bengal,Headphones,Electronics,1,2500,0.05,Credit Card,Cancelled,2375.0,2500,125.0,2025,Q3,9,September,2025-09,Friday,4,Low (<10%),Medium Value
+ORD1821,2025-09-26,CUST219,Ravi,Female,24,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.0,Credit Card,Delivered,28000.0,28000,0.0,2025,Q3,9,September,2025-09,Friday,4,No Discount (0%),Low Value
+ORD1381,2025-09-27,CUST195,Divya,Female,25,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.1,UPI,Delivered,49500.0,55000,5500.0,2025,Q3,9,September,2025-09,Saturday,5,Low (<10%),Medium Value
+ORD1006,2025-09-28,CUST300,Keerthi,Male,57,Kolkata,West Bengal,T-Shirt,Fashion,3,900,0.15,Cash on Delivery,Delivered,2295.0,2700,405.0,2025,Q3,9,September,2025-09,Sunday,6,Moderate (10-20%),Low Value
+ORD1307,2025-09-28,CUST265,Arun,Male,41,Kochi,Kerala,Headphones,Electronics,1,2500,0.1,Cash on Delivery,Delivered,2250.0,2500,250.0,2025,Q3,9,September,2025-09,Sunday,6,Low (<10%),Medium Value
+ORD1489,2025-09-30,CUST291,Sanjay,Female,44,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.05,Debit Card,Shipped,1710.0,1800,90.0,2025,Q3,9,September,2025-09,Tuesday,1,Low (<10%),Medium Value
+ORD1385,2025-09-30,CUST252,Ananya,Female,40,Bengaluru,Karnataka,Smartwatch,Electronics,2,5000,0.0,UPI,Delivered,10000.0,10000,0.0,2025,Q3,9,September,2025-09,Tuesday,1,No Discount (0%),Medium Value
+ORD1303,2025-10-01,CUST273,Harini,Male,44,Madurai,Tamil Nadu,Headphones,Electronics,3,2500,0.1,Credit Card,Delivered,6750.0,7500,750.0,2025,Q4,10,October,2025-10,Wednesday,2,Low (<10%),High Value
+ORD1958,2025-10-01,CUST294,Pooja,Male,20,Kolkata,West Bengal,Office Chair,Furniture,1,8500,0.0,Credit Card,Delivered,8500.0,8500,0.0,2025,Q4,10,October,2025-10,Wednesday,2,No Discount (0%),High Value
+ORD1447,2025-10-02,CUST292,Sneha,Male,55,Delhi,Delhi,Jeans,Fashion,1,2200,0.15,Debit Card,Delivered,1870.0,2200,330.0,2025,Q4,10,October,2025-10,Thursday,3,Moderate (10-20%),Medium Value
+ORD1697,2025-10-02,CUST197,Priya,Female,27,Bengaluru,Karnataka,Backpack,Accessories,1,1800,0.15,Debit Card,Delivered,1530.0,1800,270.0,2025,Q4,10,October,2025-10,Thursday,3,Moderate (10-20%),Low Value
+ORD1542,2025-10-02,CUST286,Pooja,Male,41,Pune,Maharashtra,Backpack,Accessories,1,1800,0.1,Credit Card,Delivered,1620.0,1800,180.0,2025,Q4,10,October,2025-10,Thursday,3,Low (<10%),Medium Value
+ORD1372,2025-10-03,CUST224,Vikram,Male,29,Pune,Maharashtra,Desk,Furniture,1,12000,0.15,Cash on Delivery,Delivered,10200.0,12000,1800.0,2025,Q4,10,October,2025-10,Friday,4,Moderate (10-20%),High Value
+ORD1373,2025-10-03,CUST150,Sneha,Female,49,Madurai,Tamil Nadu,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Low Value
+ORD1906,2025-10-04,CUST115,Keerthi,Female,33,Kolkata,West Bengal,Coffee Maker,Home Appliances,4,6500,0.2,UPI,Delivered,20800.0,26000,5200.0,2025,Q4,10,October,2025-10,Saturday,5,Moderate (10-20%),Medium Value
+ORD1403,2025-10-05,CUST140,Rahul,Female,18,Kochi,Kerala,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2025,Q4,10,October,2025-10,Sunday,6,No Discount (0%),High Value
+ORD1529,2025-10-05,CUST118,Nisha,Female,47,Kolkata,West Bengal,Smartphone,Electronics,2,28000,0.0,UPI,Cancelled,56000.0,56000,0.0,2025,Q4,10,October,2025-10,Sunday,6,No Discount (0%),Medium Value
+ORD1760,2025-10-07,CUST126,Sanjay,Female,35,Kolkata,West Bengal,Jeans,Fashion,1,2200,0.15,UPI,Delivered,1870.0,2200,330.0,2025,Q4,10,October,2025-10,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1551,2025-10-08,CUST198,Divya,Female,26,Delhi,Delhi,Headphones,Electronics,1,2500,0.2,Cash on Delivery,Delivered,2000.0,2500,500.0,2025,Q4,10,October,2025-10,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1234,2025-10-08,CUST268,Keerthi,Female,40,Madurai,Tamil Nadu,Headphones,Electronics,4,2500,0.0,UPI,Delivered,10000.0,10000,0.0,2025,Q4,10,October,2025-10,Wednesday,2,No Discount (0%),Medium Value
+ORD1013,2025-10-10,CUST290,Harini,Male,20,Bengaluru,West Bengal,Desk,Furniture,1,12000,0.15,UPI,Delivered,10200.0,12000,1800.0,2025,Q4,10,October,2025-10,Friday,4,Moderate (10-20%),Medium Value
+ORD1396,2025-10-10,CUST213,Aditya,Male,58,Mumbai,Maharashtra,Smartwatch,Electronics,1,5000,0.15,Debit Card,Shipped,4250.0,5000,750.0,2025,Q4,10,October,2025-10,Friday,4,Moderate (10-20%),High Value
+ORD1455,2025-10-10,CUST132,Keerthi,Male,45,Mumbai,Maharashtra,Backpack,Accessories,2,1800,0.1,UPI,Delivered,3240.0,3600,360.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),High Value
+ORD1598,2025-10-10,CUST158,Keerthi,Male,26,Kochi,Kerala,Backpack,Accessories,2,1800,0.15,Cash on Delivery,Delivered,3060.0,3600,540.0,2025,Q4,10,October,2025-10,Friday,4,Moderate (10-20%),High Value
+ORD1516,2025-10-11,CUST164,Keerthi,Male,19,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.1,UPI,Delivered,5850.0,6500,650.0,2025,Q4,10,October,2025-10,Saturday,5,Low (<10%),Low Value
+ORD1927,2025-10-11,CUST154,Meena,Male,55,Coimbatore,Tamil Nadu,Headphones,Electronics,2,2500,0.0,UPI,Delivered,5000.0,5000,0.0,2025,Q4,10,October,2025-10,Saturday,5,No Discount (0%),Medium Value
+ORD1235,2025-10-11,CUST273,Vikram,Female,26,Madurai,Tamil Nadu,Shoes,Fashion,4,3500,0.15,UPI,Delivered,11900.0,14000,2100.0,2025,Q4,10,October,2025-10,Saturday,5,Moderate (10-20%),High Value
+ORD1989,2025-10-12,CUST228,Rahul,Male,49,Mumbai,Maharashtra,Office Chair,Furniture,1,8500,0.05,UPI,Cancelled,8075.0,8500,425.0,2025,Q4,10,October,2025-10,Sunday,6,Low (<10%),High Value
+ORD1731,2025-10-12,CUST118,Harini,Male,51,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.1,Credit Card,Delivered,5850.0,6500,650.0,2025,Q4,10,October,2025-10,Sunday,6,Low (<10%),Medium Value
+ORD1127,2025-10-12,CUST264,Kumar,Female,29,Hyderabad,Telangana,Laptop,Electronics,2,55000,0.0,UPI,Shipped,110000.0,110000,0.0,2025,Q4,10,October,2025-10,Sunday,6,No Discount (0%),High Value
+ORD1526,2025-10-13,CUST149,Nisha,Female,50,Bengaluru,Karnataka,Smartwatch,Electronics,2,5000,0.2,Debit Card,Delivered,8000.0,10000,2000.0,2025,Q4,10,October,2025-10,Monday,0,Moderate (10-20%),High Value
+ORD1506,2025-10-13,CUST122,Ravi,Female,46,Chennai,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,Debit Card,Delivered,7650.0,8500,850.0,2025,Q4,10,October,2025-10,Monday,0,Low (<10%),Medium Value
+ORD1514,2025-10-14,CUST182,Ravi,Male,18,Pune,Maharashtra,Laptop,Electronics,1,55000,0.1,Credit Card,Shipped,49500.0,55000,5500.0,2025,Q4,10,October,2025-10,Tuesday,1,Low (<10%),Medium Value
+ORD1410,2025-10-14,CUST103,Ananya,Male,60,Bengaluru,Karnataka,Coffee Maker,Home Appliances,1,6500,0.0,UPI,Shipped,6500.0,6500,0.0,2025,Q4,10,October,2025-10,Tuesday,1,No Discount (0%),Medium Value
+ORD1644,2025-10-15,CUST141,Sneha,Male,37,Kolkata,West Bengal,Backpack,Accessories,1,1800,0.1,Debit Card,Delivered,1620.0,1800,180.0,2025,Q4,10,October,2025-10,Wednesday,2,Low (<10%),High Value
+ORD1647,2025-10-15,CUST216,Aishwarya,Male,54,Mumbai,Maharashtra,T-Shirt,Fashion,3,900,0.2,Debit Card,Delivered,2160.0,2700,540.0,2025,Q4,10,October,2025-10,Wednesday,2,Moderate (10-20%),Low Value
+ORD1103,2025-10-16,CUST136,Aditya,Male,52,Kochi,Kerala,Smartphone,Electronics,2,28000,0.15,Cash on Delivery,Delivered,47600.0,56000,8400.0,2025,Q4,10,October,2025-10,Thursday,3,Moderate (10-20%),Medium Value
+ORD1230,2025-10-16,CUST225,Pooja,Male,52,Chennai,Tamil Nadu,Office Chair,Furniture,2,8500,0.05,Debit Card,Returned,16150.0,17000,850.0,2025,Q4,10,October,2025-10,Thursday,3,Low (<10%),High Value
+ORD1472,2025-10-16,CUST247,Harini,Female,54,Madurai,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,Debit Card,Delivered,7650.0,8500,850.0,2025,Q4,10,October,2025-10,Thursday,3,Low (<10%),High Value
+ORD1308,2025-10-17,CUST285,Manoj,Female,40,Coimbatore,Tamil Nadu,Smartwatch,Electronics,2,5000,0.05,Cash on Delivery,Shipped,9500.0,10000,500.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Medium Value
+ORD1276,2025-10-17,CUST182,Priya,Female,58,Jaipur,Rajasthan,Smartwatch,Electronics,2,5000,0.05,Debit Card,Delivered,9500.0,10000,500.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Medium Value
+ORD1082,2025-10-19,CUST126,Ravi,Female,37,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.1,UPI,Delivered,39600.0,44000,4400.0,2025,Q4,10,October,2025-10,Sunday,6,Low (<10%),Medium Value
+ORD1915,2025-10-20,CUST148,Vikram,Female,29,Bengaluru,Karnataka,Tablet,Electronics,1,22000,0.1,Debit Card,Delivered,19800.0,22000,2200.0,2025,Q4,10,October,2025-10,Monday,0,Low (<10%),High Value
+ORD1277,2025-10-21,CUST187,Aishwarya,Male,23,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2025,Q4,10,October,2025-10,Tuesday,1,No Discount (0%),Medium Value
+ORD1273,2025-10-22,CUST295,Ananya,Male,44,Delhi,Delhi,Smartphone,Electronics,1,28000,0.05,UPI,Delivered,26600.0,28000,1400.0,2025,Q4,10,October,2025-10,Wednesday,2,Low (<10%),Medium Value
+ORD1374,2025-10-23,CUST156,Ananya,Male,25,Bengaluru,Karnataka,Tablet,Electronics,4,22000,0.1,UPI,Returned,79200.0,88000,8800.0,2025,Q4,10,October,2025-10,Thursday,3,Low (<10%),High Value
+ORD1844,2025-10-24,CUST206,Sanjay,Female,22,Jaipur,Rajasthan,T-Shirt,Fashion,3,900,0.05,UPI,Delivered,2565.0,2700,135.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Low Value
+ORD1692,2025-10-24,CUST298,Vikram,Female,36,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,6500,0.05,Debit Card,Shipped,12350.0,13000,650.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Low Value
+ORD1666,2025-10-25,CUST198,Karthik,Male,52,Bengaluru,Karnataka,Jeans,Fashion,1,2200,0.1,Net Banking,Shipped,1980.0,2200,220.0,2025,Q4,10,October,2025-10,Saturday,5,Low (<10%),Medium Value
+ORD1484,2025-10-25,CUST241,Divya,Male,29,Pune,Maharashtra,Headphones,Electronics,1,2500,0.0,UPI,Cancelled,2500.0,2500,0.0,2025,Q4,10,October,2025-10,Saturday,5,No Discount (0%),High Value
+ORD1725,2025-10-26,CUST120,Harini,Female,27,Coimbatore,Tamil Nadu,Tablet,Electronics,1,22000,0.0,Debit Card,Delivered,22000.0,22000,0.0,2025,Q4,10,October,2025-10,Sunday,6,No Discount (0%),High Value
+ORD1356,2025-10-27,CUST239,Aditya,Female,43,Mumbai,Maharashtra,Shoes,Fashion,1,3500,0.15,Debit Card,Shipped,2975.0,3500,525.0,2025,Q4,10,October,2025-10,Monday,0,Moderate (10-20%),High Value
+ORD1426,2025-10-27,CUST134,Sanjay,Female,59,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.1,Credit Card,Delivered,39600.0,44000,4400.0,2025,Q4,10,October,2025-10,Monday,0,Low (<10%),Medium Value
+ORD1147,2025-10-28,CUST251,Aditya,Male,27,Madurai,Tamil Nadu,Smartphone,Electronics,2,28000,0.05,UPI,Delivered,53200.0,56000,2800.0,2025,Q4,10,October,2025-10,Tuesday,1,Low (<10%),Medium Value
+ORD1083,2025-10-29,CUST207,Nisha,Female,57,Mumbai,Maharashtra,T-Shirt,Fashion,1,900,0.05,Credit Card,Delivered,855.0,900,45.0,2025,Q4,10,October,2025-10,Wednesday,2,Low (<10%),Low Value
+ORD1338,2025-10-30,CUST184,Surya,Male,22,Chennai,Tamil Nadu,Tablet,Electronics,1,22000,0.1,UPI,Cancelled,19800.0,22000,2200.0,2025,Q4,10,October,2025-10,Thursday,3,Low (<10%),Medium Value
+ORD1966,2025-10-30,CUST102,Manoj,Female,49,Chennai,Tamil Nadu,Headphones,Electronics,2,2500,0.1,Credit Card,Delivered,4500.0,5000,500.0,2025,Q4,10,October,2025-10,Thursday,3,Low (<10%),Medium Value
+ORD1456,2025-10-31,CUST274,Pooja,Female,21,Jaipur,Rajasthan,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Low Value
+ORD1333,2025-10-31,CUST238,Aishwarya,Female,36,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.1,Credit Card,Delivered,25200.0,28000,2800.0,2025,Q4,10,October,2025-10,Friday,4,Low (<10%),Medium Value
+ORD1998,2025-11-01,CUST113,Pooja,Male,51,Kochi,Kerala,Office Chair,Furniture,3,8500,0.1,UPI,Delivered,22950.0,25500,2550.0,2025,Q4,11,November,2025-11,Saturday,5,Low (<10%),Medium Value
+ORD1429,2025-11-02,CUST240,Manoj,Female,45,Jaipur,Rajasthan,Laptop,Electronics,1,55000,0.1,UPI,Delivered,49500.0,55000,5500.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),Medium Value
+ORD1058,2025-11-02,CUST198,Aishwarya,Male,44,Jaipur,Rajasthan,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2025,Q4,11,November,2025-11,Sunday,6,No Discount (0%),Medium Value
+ORD1498,2025-11-02,CUST222,Manoj,Male,33,Mysuru,Karnataka,Smartwatch,Electronics,1,5000,0.15,UPI,Cancelled,4250.0,5000,750.0,2025,Q4,11,November,2025-11,Sunday,6,Moderate (10-20%),Medium Value
+ORD1222,2025-11-03,CUST111,Nisha,Female,41,Kochi,Kerala,Office Chair,Furniture,2,8500,0.15,UPI,Delivered,14450.0,17000,2550.0,2025,Q4,11,November,2025-11,Monday,0,Moderate (10-20%),Low Value
+ORD1836,2025-11-03,CUST183,Sanjay,Male,18,Pune,Maharashtra,Office Chair,Furniture,1,8500,0.05,Net Banking,Delivered,8075.0,8500,425.0,2025,Q4,11,November,2025-11,Monday,0,Low (<10%),Medium Value
+ORD1710,2025-11-04,CUST191,Karthik,Male,18,Delhi,Delhi,T-Shirt,Fashion,1,900,0.1,Cash on Delivery,Delivered,810.0,900,90.0,2025,Q4,11,November,2025-11,Tuesday,1,Low (<10%),Low Value
+ORD1759,2025-11-05,CUST284,Sneha,Female,41,Delhi,Delhi,Office Chair,Furniture,2,8500,0.05,Cash on Delivery,Delivered,16150.0,17000,850.0,2025,Q4,11,November,2025-11,Wednesday,2,Low (<10%),Low Value
+ORD1741,2025-11-06,CUST114,Divya,Female,58,Bengaluru,Karnataka,Office Chair,Furniture,2,8500,0.05,Credit Card,Delivered,16150.0,17000,850.0,2025,Q4,11,November,2025-11,Thursday,3,Low (<10%),High Value
+ORD1473,2025-11-06,CUST250,Pooja,Female,52,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.1,Credit Card,Delivered,25200.0,28000,2800.0,2025,Q4,11,November,2025-11,Thursday,3,Low (<10%),Medium Value
+ORD1707,2025-11-07,CUST124,Sanjay,Male,43,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,0.15,UPI,Delivered,93500.0,110000,16500.0,2025,Q4,11,November,2025-11,Friday,4,Moderate (10-20%),High Value
+ORD1573,2025-11-07,CUST168,Aditya,Male,18,Jaipur,Rajasthan,Smartphone,Electronics,1,28000,0.05,Debit Card,Delivered,26600.0,28000,1400.0,2025,Q4,11,November,2025-11,Friday,4,Low (<10%),High Value
+ORD1172,2025-11-07,CUST206,Pooja,Male,33,Bengaluru,Karnataka,T-Shirt,Fashion,4,900,0.1,Debit Card,Delivered,3240.0,3600,360.0,2025,Q4,11,November,2025-11,Friday,4,Low (<10%),Low Value
+ORD1841,2025-11-07,CUST247,Priya,Female,24,Chennai,Tamil Nadu,Laptop,Electronics,3,55000,0.2,UPI,Returned,132000.0,165000,33000.0,2025,Q4,11,November,2025-11,Friday,4,Moderate (10-20%),High Value
+ORD1163,2025-11-08,CUST270,Meena,Female,37,Kolkata,West Bengal,Desk,Furniture,1,12000,0.1,Credit Card,Delivered,10800.0,12000,1200.0,2025,Q4,11,November,2025-11,Saturday,5,Low (<10%),Medium Value
+ORD1617,2025-11-09,CUST226,Sneha,Female,59,Hyderabad,Telangana,Desk,Furniture,1,12000,0.05,Cash on Delivery,Delivered,11400.0,12000,600.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),High Value
+ORD1858,2025-11-09,CUST166,Aishwarya,Male,33,Mumbai,Maharashtra,Shoes,Fashion,3,3500,0.15,Debit Card,Returned,8925.0,10500,1575.0,2025,Q4,11,November,2025-11,Sunday,6,Moderate (10-20%),Medium Value
+ORD1912,2025-11-10,CUST247,Keerthi,Female,29,Pune,Maharashtra,Jeans,Fashion,1,2200,0.0,Debit Card,Delivered,2200.0,2200,0.0,2025,Q4,11,November,2025-11,Monday,0,No Discount (0%),High Value
+ORD1069,2025-11-11,CUST209,Sneha,Female,50,Hyderabad,Telangana,Tablet,Electronics,3,22000,0.1,UPI,Delivered,59400.0,66000,6600.0,2025,Q4,11,November,2025-11,Tuesday,1,Low (<10%),Medium Value
+ORD1603,2025-11-11,CUST139,Kumar,Male,43,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.05,UPI,Delivered,26600.0,28000,1400.0,2025,Q4,11,November,2025-11,Tuesday,1,Low (<10%),High Value
+ORD1468,2025-11-11,CUST288,Surya,Male,49,Jaipur,Rajasthan,Tablet,Electronics,1,22000,0.15,Credit Card,Delivered,18700.0,22000,3300.0,2025,Q4,11,November,2025-11,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1317,2025-11-11,CUST257,Surya,Female,50,Mumbai,Maharashtra,Headphones,Electronics,2,2500,0.1,Net Banking,Shipped,4500.0,5000,500.0,2025,Q4,11,November,2025-11,Tuesday,1,Low (<10%),High Value
+ORD1431,2025-11-12,CUST282,Harini,Male,42,Kolkata,West Bengal,Headphones,Electronics,1,2500,0.15,UPI,Cancelled,2125.0,2500,375.0,2025,Q4,11,November,2025-11,Wednesday,2,Moderate (10-20%),High Value
+ORD1176,2025-11-12,CUST201,Harini,Male,59,Kochi,Kerala,Smartphone,Electronics,1,28000,0.1,Credit Card,Delivered,25200.0,28000,2800.0,2025,Q4,11,November,2025-11,Wednesday,2,Low (<10%),Medium Value
+ORD1051,2025-11-12,CUST278,Rahul,Female,44,Mumbai,Maharashtra,Tablet,Electronics,1,22000,0.1,Debit Card,Delivered,19800.0,22000,2200.0,2025,Q4,11,November,2025-11,Wednesday,2,Low (<10%),Medium Value
+ORD1957,2025-11-13,CUST120,Meena,Female,33,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.0,Credit Card,Delivered,12000.0,12000,0.0,2025,Q4,11,November,2025-11,Thursday,3,No Discount (0%),High Value
+ORD1904,2025-11-13,CUST242,Divya,Female,51,Jaipur,Rajasthan,Laptop,Electronics,2,55000,0.1,Cash on Delivery,Delivered,99000.0,110000,11000.0,2025,Q4,11,November,2025-11,Thursday,3,Low (<10%),High Value
+ORD1073,2025-11-16,CUST138,Rahul,Male,53,Bengaluru,Karnataka,Laptop,Electronics,1,55000,0.0,UPI,Delivered,55000.0,55000,0.0,2025,Q4,11,November,2025-11,Sunday,6,No Discount (0%),High Value
+ORD1076,2025-11-16,CUST250,Ananya,Female,54,Pune,Maharashtra,Jeans,Fashion,1,2200,0.05,UPI,Cancelled,2090.0,2200,110.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),Medium Value
+ORD1268,2025-11-16,CUST226,Pooja,Female,58,Hyderabad,Telangana,Smartphone,Electronics,2,28000,0.1,UPI,Delivered,50400.0,56000,5600.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),High Value
+ORD1267,2025-11-19,CUST287,Rahul,Male,48,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,0.15,Debit Card,Delivered,93500.0,110000,16500.0,2025,Q4,11,November,2025-11,Wednesday,2,Moderate (10-20%),High Value
+ORD1630,2025-11-19,CUST190,Aishwarya,Male,40,Delhi,Delhi,Headphones,Electronics,2,2500,0.1,UPI,Delivered,4500.0,5000,500.0,2025,Q4,11,November,2025-11,Wednesday,2,Low (<10%),Low Value
+ORD1469,2025-11-19,CUST254,Ananya,Female,41,Bengaluru,Karnataka,Backpack,Accessories,1,1800,0.0,UPI,Returned,1800.0,1800,0.0,2025,Q4,11,November,2025-11,Wednesday,2,No Discount (0%),Medium Value
+ORD1853,2025-11-20,CUST280,Divya,Female,38,Mumbai,Maharashtra,Office Chair,Furniture,1,8500,0.05,Net Banking,Delivered,8075.0,8500,425.0,2025,Q4,11,November,2025-11,Thursday,3,Low (<10%),Low Value
+ORD1605,2025-11-21,CUST228,Surya,Male,60,Bengaluru,Karnataka,Office Chair,Furniture,1,8500,0.0,Debit Card,Delivered,8500.0,8500,0.0,2025,Q4,11,November,2025-11,Friday,4,No Discount (0%),High Value
+ORD1346,2025-11-21,CUST126,Manoj,Female,56,Kochi,Kerala,Tablet,Electronics,1,22000,0.1,Credit Card,Delivered,19800.0,22000,2200.0,2025,Q4,11,November,2025-11,Friday,4,Low (<10%),Medium Value
+ORD1499,2025-11-21,CUST169,Harini,Male,58,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.05,Credit Card,Delivered,26600.0,28000,1400.0,2025,Q4,11,November,2025-11,Friday,4,Low (<10%),High Value
+ORD1655,2025-11-22,CUST215,Sneha,Male,41,Kolkata,West Bengal,Desk,Furniture,1,12000,0.0,Debit Card,Delivered,12000.0,12000,0.0,2025,Q4,11,November,2025-11,Saturday,5,No Discount (0%),Medium Value
+ORD1726,2025-11-22,CUST178,Divya,Male,56,Madurai,Tamil Nadu,Shoes,Fashion,2,3500,0.05,Cash on Delivery,Delivered,6650.0,7000,350.0,2025,Q4,11,November,2025-11,Saturday,5,Low (<10%),Low Value
+ORD1125,2025-11-22,CUST258,Vikram,Female,49,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.1,Cash on Delivery,Delivered,49500.0,55000,5500.0,2025,Q4,11,November,2025-11,Saturday,5,Low (<10%),Medium Value
+ORD1510,2025-11-23,CUST208,Aditya,Female,21,Jaipur,Rajasthan,T-Shirt,Fashion,1,900,0.15,Debit Card,Returned,765.0,900,135.0,2025,Q4,11,November,2025-11,Sunday,6,Moderate (10-20%),Low Value
+ORD1792,2025-11-23,CUST252,Sanjay,Male,47,Coimbatore,Tamil Nadu,Laptop,Electronics,1,55000,0.2,UPI,Delivered,44000.0,55000,11000.0,2025,Q4,11,November,2025-11,Sunday,6,Moderate (10-20%),Medium Value
+ORD1619,2025-11-25,CUST215,Harini,Female,36,Jaipur,Rajasthan,Smartphone,Electronics,2,28000,0.05,Credit Card,Delivered,53200.0,56000,2800.0,2025,Q4,11,November,2025-11,Tuesday,1,Low (<10%),Medium Value
+ORD1106,2025-11-26,CUST157,Manoj,Male,33,Mysuru,Karnataka,Headphones,Electronics,1,2500,0.15,Cash on Delivery,Delivered,2125.0,2500,375.0,2025,Q4,11,November,2025-11,Wednesday,2,Moderate (10-20%),High Value
+ORD1639,2025-11-26,CUST124,Aishwarya,Male,24,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.05,Credit Card,Delivered,26600.0,28000,1400.0,2025,Q4,11,November,2025-11,Wednesday,2,Low (<10%),High Value
+ORD1761,2025-11-26,CUST253,Kumar,Female,42,Chennai,Tamil Nadu,T-Shirt,Fashion,4,900,0.0,Credit Card,Delivered,3600.0,3600,0.0,2025,Q4,11,November,2025-11,Wednesday,2,No Discount (0%),Medium Value
+ORD1616,2025-11-26,CUST156,Ravi,Male,51,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.05,Debit Card,Delivered,26600.0,28000,1400.0,2025,Q4,11,November,2025-11,Wednesday,2,Low (<10%),High Value
+ORD1453,2025-11-26,CUST238,Vikram,Female,55,Delhi,Delhi,Shoes,Fashion,2,3500,0.0,Cash on Delivery,Delivered,7000.0,7000,0.0,2025,Q4,11,November,2025-11,Wednesday,2,No Discount (0%),Medium Value
+ORD1921,2025-11-28,CUST192,Karthik,Female,55,Delhi,Delhi,Coffee Maker,Home Appliances,1,6500,0.05,UPI,Delivered,6175.0,6500,325.0,2025,Q4,11,November,2025-11,Friday,4,Low (<10%),Low Value
+ORD1694,2025-11-29,CUST201,Harini,Male,20,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.05,Debit Card,Delivered,2375.0,2500,125.0,2025,Q4,11,November,2025-11,Saturday,5,Low (<10%),Medium Value
+ORD1720,2025-11-29,CUST101,Rahul,Male,45,Coimbatore,Tamil Nadu,Laptop,Electronics,1,55000,0.05,Net Banking,Delivered,52250.0,55000,2750.0,2025,Q4,11,November,2025-11,Saturday,5,Low (<10%),High Value
+ORD1763,2025-11-30,CUST277,Karthik,Male,22,Hyderabad,Telangana,Backpack,Accessories,3,1800,0.05,UPI,Delivered,5130.0,5400,270.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),High Value
+ORD1875,2025-11-30,CUST299,Meena,Female,53,Mysuru,Karnataka,Smartwatch,Electronics,2,5000,0.1,Debit Card,Delivered,9000.0,10000,1000.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),Medium Value
+ORD1513,2025-11-30,CUST257,Kumar,Female,40,Kochi,Kerala,Smartphone,Electronics,2,28000,0.1,Debit Card,Delivered,50400.0,56000,5600.0,2025,Q4,11,November,2025-11,Sunday,6,Low (<10%),High Value
+ORD1161,2025-11-30,CUST225,Divya,Male,44,Madurai,Tamil Nadu,Jeans,Fashion,1,2200,0.15,Cash on Delivery,Delivered,1870.0,2200,330.0,2025,Q4,11,November,2025-11,Sunday,6,Moderate (10-20%),High Value
+ORD1237,2025-11-30,CUST141,Divya,Male,45,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.15,Cash on Delivery,Delivered,46750.0,55000,8250.0,2025,Q4,11,November,2025-11,Sunday,6,Moderate (10-20%),High Value
+ORD1152,2025-12-02,CUST278,Meena,Female,25,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6500,0.0,Net Banking,Delivered,6500.0,6500,0.0,2025,Q4,12,December,2025-12,Tuesday,1,No Discount (0%),Medium Value
+ORD1348,2025-12-02,CUST269,Surya,Male,58,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.15,Credit Card,Shipped,5525.0,6500,975.0,2025,Q4,12,December,2025-12,Tuesday,1,Moderate (10-20%),High Value
+ORD1607,2025-12-02,CUST288,Surya,Female,31,Kolkata,West Bengal,Smartwatch,Electronics,2,5000,0.05,UPI,Delivered,9500.0,10000,500.0,2025,Q4,12,December,2025-12,Tuesday,1,Low (<10%),Medium Value
+ORD1781,2025-12-03,CUST295,Harini,Male,24,Delhi,Delhi,Smartphone,Electronics,2,28000,0.0,UPI,Delivered,56000.0,56000,0.0,2025,Q4,12,December,2025-12,Wednesday,2,No Discount (0%),Medium Value
+ORD1769,2025-12-03,CUST264,Aditya,Female,38,Coimbatore,Tamil Nadu,Jeans,Fashion,3,2200,0.1,Credit Card,Delivered,5940.0,6600,660.0,2025,Q4,12,December,2025-12,Wednesday,2,Low (<10%),High Value
+ORD1804,2025-12-04,CUST278,Arun,Female,56,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.1,UPI,Delivered,1620.0,1800,180.0,2025,Q4,12,December,2025-12,Thursday,3,Low (<10%),Medium Value
+ORD1370,2025-12-06,CUST216,Pooja,Female,60,Mumbai,Maharashtra,Smartwatch,Electronics,1,5000,0.0,UPI,Cancelled,5000.0,5000,0.0,2025,Q4,12,December,2025-12,Saturday,5,No Discount (0%),Low Value
+ORD1901,2025-12-07,CUST151,Aishwarya,Male,24,Chennai,Tamil Nadu,Office Chair,Furniture,1,8500,0.15,Debit Card,Delivered,7225.0,8500,1275.0,2025,Q4,12,December,2025-12,Sunday,6,Moderate (10-20%),High Value
+ORD1699,2025-12-07,CUST157,Harini,Male,51,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,6500,0.15,UPI,Delivered,11050.0,13000,1950.0,2025,Q4,12,December,2025-12,Sunday,6,Moderate (10-20%),High Value
+ORD1041,2025-12-08,CUST241,Surya,Male,29,Pune,Maharashtra,Headphones,Electronics,1,2500,0.1,Net Banking,Delivered,2250.0,2500,250.0,2025,Q4,12,December,2025-12,Monday,0,Low (<10%),High Value
+ORD1100,2025-12-08,CUST127,Sneha,Female,51,Coimbatore,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,Credit Card,Shipped,7650.0,8500,850.0,2025,Q4,12,December,2025-12,Monday,0,Low (<10%),Medium Value
+ORD1212,2025-12-08,CUST235,Kumar,Male,31,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.05,UPI,Delivered,3325.0,3500,175.0,2025,Q4,12,December,2025-12,Monday,0,Low (<10%),Low Value
+ORD1500,2025-12-08,CUST164,Priya,Male,55,Mysuru,Karnataka,Shoes,Fashion,2,3500,0.0,Debit Card,Delivered,7000.0,7000,0.0,2025,Q4,12,December,2025-12,Monday,0,No Discount (0%),Low Value
+ORD1950,2025-12-09,CUST277,Divya,Female,18,Mysuru,Karnataka,Laptop,Electronics,1,55000,0.0,Credit Card,Delivered,55000.0,55000,0.0,2025,Q4,12,December,2025-12,Tuesday,1,No Discount (0%),High Value
+ORD1114,2025-12-10,CUST296,Nisha,Female,54,Mysuru,Karnataka,Laptop,Electronics,4,55000,0.05,Debit Card,Delivered,209000.0,220000,11000.0,2025,Q4,12,December,2025-12,Wednesday,2,Low (<10%),High Value
+ORD1805,2025-12-11,CUST260,Sneha,Male,33,Pune,Maharashtra,Office Chair,Furniture,1,8500,0.05,Credit Card,Delivered,8075.0,8500,425.0,2025,Q4,12,December,2025-12,Thursday,3,Low (<10%),Low Value
+ORD1154,2025-12-11,CUST146,Divya,Female,36,Coimbatore,Tamil Nadu,Smartphone,Electronics,2,28000,0.15,Cash on Delivery,Delivered,47600.0,56000,8400.0,2025,Q4,12,December,2025-12,Thursday,3,Moderate (10-20%),High Value
+ORD1868,2025-12-12,CUST210,Manoj,Male,42,Jaipur,Rajasthan,Office Chair,Furniture,1,8500,0.15,UPI,Delivered,7225.0,8500,1275.0,2025,Q4,12,December,2025-12,Friday,4,Moderate (10-20%),Medium Value
+ORD1476,2025-12-13,CUST237,Sanjay,Male,38,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.1,Debit Card,Delivered,1620.0,1800,180.0,2025,Q4,12,December,2025-12,Saturday,5,Low (<10%),Low Value
+ORD1826,2025-12-14,CUST130,Aishwarya,Male,52,Mysuru,Karnataka,Backpack,Accessories,4,1800,0.05,UPI,Delivered,6840.0,7200,360.0,2025,Q4,12,December,2025-12,Sunday,6,Low (<10%),High Value
+ORD1056,2025-12-14,CUST195,Ananya,Male,51,Bengaluru,Karnataka,Headphones,Electronics,1,2500,0.1,Credit Card,Delivered,2250.0,2500,250.0,2025,Q4,12,December,2025-12,Sunday,6,Low (<10%),Medium Value
+ORD1928,2025-12-14,CUST259,Harini,Male,39,Hyderabad,Telangana,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2025,Q4,12,December,2025-12,Sunday,6,No Discount (0%),Medium Value
+ORD1251,2025-12-16,CUST140,Priya,Male,29,Jaipur,Rajasthan,Office Chair,Furniture,2,8500,0.1,UPI,Shipped,15300.0,17000,1700.0,2025,Q4,12,December,2025-12,Tuesday,1,Low (<10%),High Value
+ORD1141,2025-12-18,CUST156,Karthik,Male,45,Mysuru,Karnataka,Desk,Furniture,2,12000,0.05,UPI,Delivered,22800.0,24000,1200.0,2025,Q4,12,December,2025-12,Thursday,3,Low (<10%),High Value
+ORD1122,2025-12-19,CUST159,Pooja,Female,60,Chennai,Tamil Nadu,Jeans,Fashion,2,2200,0.1,UPI,Delivered,3960.0,4400,440.0,2025,Q4,12,December,2025-12,Friday,4,Low (<10%),High Value
+ORD1920,2025-12-19,CUST144,Meena,Female,29,Kolkata,West Bengal,Smartphone,Electronics,1,28000,0.1,UPI,Delivered,25200.0,28000,2800.0,2025,Q4,12,December,2025-12,Friday,4,Low (<10%),Low Value
+ORD1812,2025-12-19,CUST257,Rahul,Male,40,Jaipur,Rajasthan,Backpack,Accessories,4,1800,0.1,Cash on Delivery,Cancelled,6480.0,7200,720.0,2025,Q4,12,December,2025-12,Friday,4,Low (<10%),High Value
+ORD1690,2025-12-19,CUST240,Priya,Female,48,Kochi,Kerala,Shoes,Fashion,1,3500,0.15,Cash on Delivery,Delivered,2975.0,3500,525.0,2025,Q4,12,December,2025-12,Friday,4,Moderate (10-20%),Medium Value
+ORD1854,2025-12-20,CUST175,Priya,Female,19,Coimbatore,Tamil Nadu,Shoes,Fashion,1,3500,0.05,Debit Card,Delivered,3325.0,3500,175.0,2025,Q4,12,December,2025-12,Saturday,5,Low (<10%),High Value
+ORD1233,2025-12-20,CUST220,Keerthi,Male,53,Chennai,Tamil Nadu,Headphones,Electronics,2,2500,0.0,Credit Card,Delivered,5000.0,5000,0.0,2025,Q4,12,December,2025-12,Saturday,5,No Discount (0%),Medium Value
+ORD1345,2025-12-20,CUST241,Arun,Female,30,Madurai,Tamil Nadu,Laptop,Electronics,2,55000,0.05,Debit Card,Delivered,104500.0,110000,5500.0,2025,Q4,12,December,2025-12,Saturday,5,Low (<10%),High Value
+ORD1546,2025-12-21,CUST243,Pooja,Male,23,Delhi,Delhi,Smartphone,Electronics,1,28000,0.1,Credit Card,Delivered,25200.0,28000,2800.0,2025,Q4,12,December,2025-12,Sunday,6,Low (<10%),High Value
+ORD1976,2025-12-21,CUST279,Ravi,Male,41,Hyderabad,Telangana,Coffee Maker,Home Appliances,3,6500,0.15,Credit Card,Delivered,16575.0,19500,2925.0,2025,Q4,12,December,2025-12,Sunday,6,Moderate (10-20%),Low Value
+ORD1084,2025-12-22,CUST168,Rahul,Female,25,Chennai,Tamil Nadu,Shoes,Fashion,1,3500,0.15,Debit Card,Cancelled,2975.0,3500,525.0,2025,Q4,12,December,2025-12,Monday,0,Moderate (10-20%),High Value
+ORD1631,2025-12-22,CUST128,Sanjay,Female,57,Mysuru,Karnataka,Laptop,Electronics,2,55000,0.0,UPI,Delivered,110000.0,110000,0.0,2025,Q4,12,December,2025-12,Monday,0,No Discount (0%),High Value
+ORD1309,2025-12-23,CUST157,Meena,Male,56,Pune,Maharashtra,Tablet,Electronics,1,22000,0.05,UPI,Delivered,20900.0,22000,1100.0,2025,Q4,12,December,2025-12,Tuesday,1,Low (<10%),High Value
+ORD1458,2025-12-23,CUST130,Meena,Male,54,Hyderabad,Telangana,Office Chair,Furniture,2,8500,0.15,Debit Card,Delivered,14450.0,17000,2550.0,2025,Q4,12,December,2025-12,Tuesday,1,Moderate (10-20%),High Value
+ORD1530,2025-12-23,CUST148,Vikram,Female,28,Kochi,Kerala,Backpack,Accessories,1,1800,0.1,UPI,Delivered,1620.0,1800,180.0,2025,Q4,12,December,2025-12,Tuesday,1,Low (<10%),High Value
+ORD1548,2025-12-23,CUST197,Karthik,Female,45,Mumbai,Maharashtra,Smartwatch,Electronics,1,5000,0.0,Cash on Delivery,Delivered,5000.0,5000,0.0,2025,Q4,12,December,2025-12,Tuesday,1,No Discount (0%),Low Value
+ORD1686,2025-12-23,CUST245,Ananya,Female,29,Hyderabad,Telangana,Jeans,Fashion,2,2200,0.1,UPI,Delivered,3960.0,4400,440.0,2025,Q4,12,December,2025-12,Tuesday,1,Low (<10%),Medium Value
+ORD1962,2025-12-24,CUST196,Sanjay,Male,18,Kochi,Kerala,Coffee Maker,Home Appliances,1,6500,0.15,Credit Card,Delivered,5525.0,6500,975.0,2025,Q4,12,December,2025-12,Wednesday,2,Moderate (10-20%),High Value
+ORD1271,2025-12-24,CUST175,Kumar,Female,31,Pune,Maharashtra,Desk,Furniture,2,12000,0.05,Cash on Delivery,Delivered,22800.0,24000,1200.0,2025,Q4,12,December,2025-12,Wednesday,2,Low (<10%),High Value
+ORD1323,2025-12-27,CUST157,Ananya,Male,46,Mumbai,Maharashtra,Office Chair,Furniture,4,8500,0.05,Net Banking,Cancelled,32300.0,34000,1700.0,2025,Q4,12,December,2025-12,Saturday,5,Low (<10%),High Value
+ORD1242,2025-12-27,CUST101,Ananya,Female,23,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.05,Cash on Delivery,Delivered,2375.0,2500,125.0,2025,Q4,12,December,2025-12,Saturday,5,Low (<10%),High Value
+ORD1978,2025-12-28,CUST103,Kumar,Female,40,Jaipur,Rajasthan,Coffee Maker,Home Appliances,3,6500,0.05,Credit Card,Delivered,18525.0,19500,975.0,2025,Q4,12,December,2025-12,Sunday,6,Low (<10%),Medium Value
+ORD1245,2025-12-29,CUST154,Karthik,Male,54,Delhi,Delhi,Laptop,Electronics,1,55000,0.05,UPI,Delivered,52250.0,55000,2750.0,2025,Q4,12,December,2025-12,Monday,0,Low (<10%),Medium Value
+ORD1097,2025-12-30,CUST124,Manoj,Female,40,Coimbatore,Tamil Nadu,Shoes,Fashion,2,3500,0.0,Debit Card,Returned,7000.0,7000,0.0,2025,Q4,12,December,2025-12,Tuesday,1,No Discount (0%),High Value
+ORD1253,2025-12-30,CUST198,Kumar,Male,32,Kochi,Kerala,Headphones,Electronics,1,2500,0.15,Debit Card,Delivered,2125.0,2500,375.0,2025,Q4,12,December,2025-12,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1832,2025-12-30,CUST214,Aishwarya,Female,26,Delhi,Delhi,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2025,Q4,12,December,2025-12,Tuesday,1,Low (<10%),Medium Value
+ORD1596,2025-12-31,CUST218,Rahul,Male,40,Delhi,Delhi,Shoes,Fashion,2,3500,0.1,Credit Card,Shipped,6300.0,7000,700.0,2025,Q4,12,December,2025-12,Wednesday,2,Low (<10%),Low Value
+ORD1936,2025-12-31,CUST203,Sanjay,Female,47,Kolkata,West Bengal,Headphones,Electronics,2,2500,0.0,Debit Card,Delivered,5000.0,5000,0.0,2025,Q4,12,December,2025-12,Wednesday,2,No Discount (0%),Low Value
+ORD1266,2025-12-31,CUST263,Pooja,Female,25,Coimbatore,Tamil Nadu,Jeans,Fashion,1,2200,0.1,Cash on Delivery,Delivered,1980.0,2200,220.0,2025,Q4,12,December,2025-12,Wednesday,2,Low (<10%),Low Value
+ORD1870,2025-12-31,CUST135,Aditya,Male,52,Mysuru,Karnataka,Coffee Maker,Home Appliances,2,6500,0.15,Credit Card,Delivered,11050.0,13000,1950.0,2025,Q4,12,December,2025-12,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1965,2025-12-31,CUST165,Sneha,Male,46,Delhi,Delhi,Desk,Furniture,1,12000,0.05,Cash on Delivery,Cancelled,11400.0,12000,600.0,2025,Q4,12,December,2025-12,Wednesday,2,Low (<10%),Medium Value
+ORD1332,2026-01-01,CUST169,Ravi,Male,57,Kochi,Kerala,Tablet,Electronics,1,22000,0.15,UPI,Delivered,18700.0,22000,3300.0,2026,Q1,1,January,2026-01,Thursday,3,Moderate (10-20%),High Value
+ORD1388,2026-01-02,CUST101,Nisha,Male,51,Kochi,Kerala,Tablet,Electronics,2,22000,0.05,UPI,Shipped,41800.0,44000,2200.0,2026,Q1,1,January,2026-01,Friday,4,Low (<10%),High Value
+ORD1353,2026-01-03,CUST273,Vikram,Female,34,Pune,Maharashtra,Backpack,Accessories,1,1800,0.05,UPI,Delivered,1710.0,1800,90.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),High Value
+ORD1553,2026-01-03,CUST191,Kumar,Female,56,Bengaluru,Karnataka,Coffee Maker,Home Appliances,1,6500,0.05,UPI,Delivered,6175.0,6500,325.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),Low Value
+ORD1999,2026-01-03,CUST273,Rahul,Female,23,Kochi,Kerala,Coffee Maker,Home Appliances,1,6500,0.1,UPI,Returned,5850.0,6500,650.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),High Value
+ORD1549,2026-01-03,CUST158,Keerthi,Male,55,Coimbatore,Tamil Nadu,Tablet,Electronics,3,22000,0.1,UPI,Cancelled,59400.0,66000,6600.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),High Value
+ORD1467,2026-01-03,CUST178,Karthik,Male,40,Coimbatore,Tamil Nadu,Shoes,Fashion,1,3500,0.0,Net Banking,Delivered,3500.0,3500,0.0,2026,Q1,1,January,2026-01,Saturday,5,No Discount (0%),Low Value
+ORD1519,2026-01-03,CUST194,Ananya,Female,38,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.15,Credit Card,Delivered,5525.0,6500,975.0,2026,Q1,1,January,2026-01,Saturday,5,Moderate (10-20%),Medium Value
+ORD1975,2026-01-04,CUST210,Aishwarya,Female,39,Kochi,Kerala,T-Shirt,Fashion,1,900,0.15,Debit Card,Delivered,765.0,900,135.0,2026,Q1,1,January,2026-01,Sunday,6,Moderate (10-20%),Medium Value
+ORD1470,2026-01-05,CUST275,Nisha,Male,28,Pune,Maharashtra,Tablet,Electronics,1,22000,0.1,Cash on Delivery,Delivered,19800.0,22000,2200.0,2026,Q1,1,January,2026-01,Monday,0,Low (<10%),High Value
+ORD1712,2026-01-06,CUST137,Vikram,Female,54,Madurai,Tamil Nadu,Office Chair,Furniture,2,8500,0.0,UPI,Delivered,17000.0,17000,0.0,2026,Q1,1,January,2026-01,Tuesday,1,No Discount (0%),Low Value
+ORD1109,2026-01-07,CUST267,Kumar,Male,59,Coimbatore,Tamil Nadu,Backpack,Accessories,1,1800,0.1,Debit Card,Delivered,1620.0,1800,180.0,2026,Q1,1,January,2026-01,Wednesday,2,Low (<10%),Low Value
+ORD1289,2026-01-08,CUST235,Divya,Female,26,Kochi,Kerala,T-Shirt,Fashion,1,900,0.05,Credit Card,Delivered,855.0,900,45.0,2026,Q1,1,January,2026-01,Thursday,3,Low (<10%),Low Value
+ORD1168,2026-01-09,CUST225,Vikram,Female,28,Pune,Maharashtra,Shoes,Fashion,4,3500,0.0,Net Banking,Delivered,14000.0,14000,0.0,2026,Q1,1,January,2026-01,Friday,4,No Discount (0%),High Value
+ORD1061,2026-01-09,CUST244,Ananya,Male,21,Madurai,Tamil Nadu,Jeans,Fashion,1,2200,0.05,UPI,Delivered,2090.0,2200,110.0,2026,Q1,1,January,2026-01,Friday,4,Low (<10%),Low Value
+ORD1194,2026-01-09,CUST113,Pooja,Female,51,Delhi,Delhi,Smartphone,Electronics,2,28000,0.05,UPI,Returned,53200.0,56000,2800.0,2026,Q1,1,January,2026-01,Friday,4,Low (<10%),Medium Value
+ORD1432,2026-01-09,CUST142,Aditya,Male,33,Kolkata,West Bengal,T-Shirt,Fashion,3,900,0.05,UPI,Delivered,2565.0,2700,135.0,2026,Q1,1,January,2026-01,Friday,4,Low (<10%),Low Value
+ORD1014,2026-01-09,CUST260,Karthik,Male,29,Jaipur,Rajasthan,Backpack,Accessories,1,1800,0.0,UPI,Delivered,1800.0,1800,0.0,2026,Q1,1,January,2026-01,Friday,4,No Discount (0%),Low Value
+ORD1376,2026-01-10,CUST111,Keerthi,Female,22,Mumbai,Maharashtra,Office Chair,Furniture,1,8500,0.0,Credit Card,Delivered,8500.0,8500,0.0,2026,Q1,1,January,2026-01,Saturday,5,No Discount (0%),Low Value
+ORD1752,2026-01-10,CUST174,Harini,Male,24,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.2,UPI,Delivered,22400.0,28000,5600.0,2026,Q1,1,January,2026-01,Saturday,5,Moderate (10-20%),High Value
+ORD1272,2026-01-10,CUST262,Meena,Male,55,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.05,UPI,Delivered,26600.0,28000,1400.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),High Value
+ORD1319,2026-01-11,CUST122,Surya,Male,25,Pune,Maharashtra,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2026,Q1,1,January,2026-01,Sunday,6,Low (<10%),Medium Value
+ORD1941,2026-01-11,CUST234,Nisha,Male,21,Delhi,Delhi,Laptop,Electronics,3,55000,0.15,UPI,Delivered,140250.0,165000,24750.0,2026,Q1,1,January,2026-01,Sunday,6,Moderate (10-20%),High Value
+ORD1448,2026-01-11,CUST107,Ravi,Female,21,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,4,6500,0.1,UPI,Delivered,23400.0,26000,2600.0,2026,Q1,1,January,2026-01,Sunday,6,Low (<10%),Low Value
+ORD1550,2026-01-12,CUST243,Sneha,Male,46,Kochi,Kerala,Laptop,Electronics,2,55000,0.1,Credit Card,Cancelled,99000.0,110000,11000.0,2026,Q1,1,January,2026-01,Monday,0,Low (<10%),High Value
+ORD1698,2026-01-12,CUST228,Keerthi,Male,47,Jaipur,Rajasthan,Laptop,Electronics,2,55000,0.05,Credit Card,Delivered,104500.0,110000,5500.0,2026,Q1,1,January,2026-01,Monday,0,Low (<10%),High Value
+ORD1971,2026-01-14,CUST207,Ananya,Male,53,Mumbai,Maharashtra,Headphones,Electronics,1,2500,0.05,UPI,Delivered,2375.0,2500,125.0,2026,Q1,1,January,2026-01,Wednesday,2,Low (<10%),Low Value
+ORD1979,2026-01-15,CUST255,Nisha,Male,30,Mumbai,Maharashtra,T-Shirt,Fashion,1,900,0.0,Cash on Delivery,Delivered,900.0,900,0.0,2026,Q1,1,January,2026-01,Thursday,3,No Discount (0%),Low Value
+ORD1183,2026-01-15,CUST152,Harini,Female,55,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0.0,Credit Card,Delivered,110000.0,110000,0.0,2026,Q1,1,January,2026-01,Thursday,3,No Discount (0%),High Value
+ORD1344,2026-01-17,CUST256,Ananya,Female,26,Kochi,Kerala,Desk,Furniture,1,12000,0.05,Credit Card,Delivered,11400.0,12000,600.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),Low Value
+ORD1412,2026-01-17,CUST273,Rahul,Male,21,Mysuru,Karnataka,Smartphone,Electronics,2,28000,0.05,Debit Card,Delivered,53200.0,56000,2800.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),High Value
+ORD1193,2026-01-17,CUST168,Keerthi,Male,42,Mumbai,Maharashtra,Backpack,Accessories,2,1800,0.05,Credit Card,Delivered,3420.0,3600,180.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),High Value
+ORD1758,2026-01-17,CUST115,Sneha,Male,54,Hyderabad,Telangana,Tablet,Electronics,2,22000,0.1,Debit Card,Delivered,39600.0,44000,4400.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),Medium Value
+ORD1311,2026-01-17,CUST223,Aditya,Female,56,Mysuru,Karnataka,Smartphone,Electronics,2,28000,0.15,UPI,Delivered,47600.0,56000,8400.0,2026,Q1,1,January,2026-01,Saturday,5,Moderate (10-20%),High Value
+ORD1357,2026-01-19,CUST162,Sneha,Female,20,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.1,Cash on Delivery,Shipped,11700.0,13000,1300.0,2026,Q1,1,January,2026-01,Monday,0,Low (<10%),High Value
+ORD1190,2026-01-20,CUST209,Surya,Male,41,Mysuru,Karnataka,Desk,Furniture,1,12000,0.0,UPI,Delivered,12000.0,12000,0.0,2026,Q1,1,January,2026-01,Tuesday,1,No Discount (0%),Medium Value
+ORD1671,2026-01-20,CUST156,Divya,Female,29,Kochi,Kerala,Smartwatch,Electronics,1,5000,0.0,UPI,Delivered,5000.0,5000,0.0,2026,Q1,1,January,2026-01,Tuesday,1,No Discount (0%),High Value
+ORD1002,2026-01-21,CUST292,Arun,Male,39,Hyderabad,Telangana,Headphones,Electronics,1,2500,0.1,UPI,Cancelled,2250.0,2500,250.0,2026,Q1,1,January,2026-01,Wednesday,2,Low (<10%),Medium Value
+ORD1791,2026-01-22,CUST287,Aishwarya,Male,45,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0.0,UPI,Shipped,110000.0,110000,0.0,2026,Q1,1,January,2026-01,Thursday,3,No Discount (0%),High Value
+ORD1531,2026-01-22,CUST193,Sneha,Male,38,Delhi,Delhi,Headphones,Electronics,2,2500,0.1,Debit Card,Delivered,4500.0,5000,500.0,2026,Q1,1,January,2026-01,Thursday,3,Low (<10%),Low Value
+ORD1911,2026-01-22,CUST126,Meena,Female,42,Jaipur,Rajasthan,Jeans,Fashion,1,2200,0.05,Credit Card,Delivered,2090.0,2200,110.0,2026,Q1,1,January,2026-01,Thursday,3,Low (<10%),Medium Value
+ORD1796,2026-01-22,CUST252,Karthik,Female,24,Delhi,Delhi,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2026,Q1,1,January,2026-01,Thursday,3,Low (<10%),Medium Value
+ORD1940,2026-01-24,CUST175,Ravi,Male,59,Coimbatore,Tamil Nadu,Desk,Furniture,3,12000,0.0,Cash on Delivery,Delivered,36000.0,36000,0.0,2026,Q1,1,January,2026-01,Saturday,5,No Discount (0%),High Value
+ORD1572,2026-01-24,CUST242,Divya,Female,42,Jaipur,Rajasthan,Shoes,Fashion,2,3500,0.0,Cash on Delivery,Delivered,7000.0,7000,0.0,2026,Q1,1,January,2026-01,Saturday,5,No Discount (0%),High Value
+ORD1139,2026-01-25,CUST158,Kumar,Male,59,Jaipur,Rajasthan,Smartwatch,Electronics,1,5000,0.1,Credit Card,Delivered,4500.0,5000,500.0,2026,Q1,1,January,2026-01,Sunday,6,Low (<10%),High Value
+ORD1537,2026-01-25,CUST245,Surya,Female,41,Kolkata,West Bengal,Office Chair,Furniture,1,8500,0.15,UPI,Delivered,7225.0,8500,1275.0,2026,Q1,1,January,2026-01,Sunday,6,Moderate (10-20%),Medium Value
+ORD1951,2026-01-27,CUST256,Sanjay,Female,42,Chennai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.05,Debit Card,Delivered,4750.0,5000,250.0,2026,Q1,1,January,2026-01,Tuesday,1,Low (<10%),Low Value
+ORD1008,2026-01-27,CUST263,Kumar,Female,22,Chennai,Tamil Nadu,Backpack,Accessories,1,1800,0.0,Cash on Delivery,Shipped,1800.0,1800,0.0,2026,Q1,1,January,2026-01,Tuesday,1,No Discount (0%),Low Value
+ORD1534,2026-01-27,CUST225,Surya,Male,29,Coimbatore,Tamil Nadu,Smartwatch,Electronics,2,5000,0.15,Credit Card,Delivered,8500.0,10000,1500.0,2026,Q1,1,January,2026-01,Tuesday,1,Moderate (10-20%),High Value
+ORD1032,2026-01-28,CUST240,Arun,Male,18,Delhi,Delhi,Desk,Furniture,1,12000,0.2,Credit Card,Shipped,9600.0,12000,2400.0,2026,Q1,1,January,2026-01,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1615,2026-01-28,CUST230,Karthik,Female,48,Madurai,Tamil Nadu,Shoes,Fashion,1,3500,0.2,Credit Card,Shipped,2800.0,3500,700.0,2026,Q1,1,January,2026-01,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1914,2026-01-29,CUST243,Ravi,Female,41,Hyderabad,Telangana,Laptop,Electronics,1,55000,0.05,Credit Card,Shipped,52250.0,55000,2750.0,2026,Q1,1,January,2026-01,Thursday,3,Low (<10%),High Value
+ORD1663,2026-01-29,CUST183,Kumar,Male,35,Madurai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.15,Cash on Delivery,Delivered,4250.0,5000,750.0,2026,Q1,1,January,2026-01,Thursday,3,Moderate (10-20%),Medium Value
+ORD1438,2026-01-31,CUST244,Manoj,Female,31,Mysuru,Karnataka,Smartwatch,Electronics,2,5000,0.1,UPI,Delivered,9000.0,10000,1000.0,2026,Q1,1,January,2026-01,Saturday,5,Low (<10%),Low Value
+ORD1679,2026-01-31,CUST196,Vikram,Female,49,Kolkata,West Bengal,T-Shirt,Fashion,1,900,0.0,UPI,Delivered,900.0,900,0.0,2026,Q1,1,January,2026-01,Saturday,5,No Discount (0%),High Value
+ORD1824,2026-02-01,CUST121,Arun,Male,50,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.05,Credit Card,Shipped,6175.0,6500,325.0,2026,Q1,2,February,2026-02,Sunday,6,Low (<10%),Low Value
+ORD1545,2026-02-01,CUST105,Ravi,Female,30,Mumbai,Maharashtra,Desk,Furniture,2,12000,0.15,UPI,Delivered,20400.0,24000,3600.0,2026,Q1,2,February,2026-02,Sunday,6,Moderate (10-20%),Low Value
+ORD1246,2026-02-01,CUST292,Ravi,Male,28,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.15,UPI,Delivered,46750.0,55000,8250.0,2026,Q1,2,February,2026-02,Sunday,6,Moderate (10-20%),Medium Value
+ORD1872,2026-02-03,CUST297,Kumar,Male,54,Coimbatore,Tamil Nadu,Laptop,Electronics,2,55000,0.0,UPI,Delivered,110000.0,110000,0.0,2026,Q1,2,February,2026-02,Tuesday,1,No Discount (0%),High Value
+ORD1885,2026-02-04,CUST280,Pooja,Male,38,Hyderabad,Telangana,Tablet,Electronics,1,22000,0.2,Debit Card,Shipped,17600.0,22000,4400.0,2026,Q1,2,February,2026-02,Wednesday,2,Moderate (10-20%),Low Value
+ORD1422,2026-02-04,CUST114,Meena,Female,54,Kolkata,West Bengal,Smartwatch,Electronics,1,5000,0.1,Debit Card,Delivered,4500.0,5000,500.0,2026,Q1,2,February,2026-02,Wednesday,2,Low (<10%),High Value
+ORD1643,2026-02-04,CUST289,Manoj,Male,33,Bengaluru,Karnataka,Shoes,Fashion,4,3500,0.1,Cash on Delivery,Delivered,12600.0,14000,1400.0,2026,Q1,2,February,2026-02,Wednesday,2,Low (<10%),Medium Value
+ORD1057,2026-02-05,CUST212,Aditya,Male,54,Jaipur,Rajasthan,Headphones,Electronics,1,2500,0.15,Credit Card,Returned,2125.0,2500,375.0,2026,Q1,2,February,2026-02,Thursday,3,Moderate (10-20%),Low Value
+ORD1135,2026-02-05,CUST176,Keerthi,Male,33,Pune,Maharashtra,Office Chair,Furniture,1,8500,0.05,Credit Card,Delivered,8075.0,8500,425.0,2026,Q1,2,February,2026-02,Thursday,3,Low (<10%),Low Value
+ORD1937,2026-02-06,CUST105,Surya,Male,49,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.1,UPI,Delivered,3150.0,3500,350.0,2026,Q1,2,February,2026-02,Friday,4,Low (<10%),Low Value
+ORD1968,2026-02-06,CUST204,Meena,Male,22,Jaipur,Rajasthan,Laptop,Electronics,2,55000,0.05,UPI,Delivered,104500.0,110000,5500.0,2026,Q1,2,February,2026-02,Friday,4,Low (<10%),High Value
+ORD1662,2026-02-07,CUST139,Aditya,Male,57,Pune,Maharashtra,Smartphone,Electronics,1,28000,0.1,UPI,Delivered,25200.0,28000,2800.0,2026,Q1,2,February,2026-02,Saturday,5,Low (<10%),High Value
+ORD1864,2026-02-07,CUST162,Kumar,Female,18,Pune,Maharashtra,Laptop,Electronics,3,55000,0.0,Cash on Delivery,Delivered,165000.0,165000,0.0,2026,Q1,2,February,2026-02,Saturday,5,No Discount (0%),High Value
+ORD1859,2026-02-07,CUST244,Pooja,Male,38,Chennai,Tamil Nadu,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2026,Q1,2,February,2026-02,Saturday,5,Low (<10%),Low Value
+ORD1359,2026-02-09,CUST196,Kumar,Female,23,Kolkata,West Bengal,Laptop,Electronics,1,55000,0.05,Credit Card,Delivered,52250.0,55000,2750.0,2026,Q1,2,February,2026-02,Monday,0,Low (<10%),High Value
+ORD1746,2026-02-09,CUST125,Ravi,Female,42,Kolkata,West Bengal,Smartphone,Electronics,1,28000,0.15,Debit Card,Delivered,23800.0,28000,4200.0,2026,Q1,2,February,2026-02,Monday,0,Moderate (10-20%),High Value
+ORD1306,2026-02-09,CUST232,Meena,Female,46,Kolkata,West Bengal,Headphones,Electronics,1,2500,0.15,UPI,Shipped,2125.0,2500,375.0,2026,Q1,2,February,2026-02,Monday,0,Moderate (10-20%),High Value
+ORD1778,2026-02-10,CUST217,Ravi,Female,44,Chennai,Tamil Nadu,Desk,Furniture,1,12000,0.05,UPI,Delivered,11400.0,12000,600.0,2026,Q1,2,February,2026-02,Tuesday,1,Low (<10%),High Value
+ORD1406,2026-02-11,CUST262,Aditya,Male,37,Mumbai,Maharashtra,Tablet,Electronics,3,22000,0.0,UPI,Cancelled,66000.0,66000,0.0,2026,Q1,2,February,2026-02,Wednesday,2,No Discount (0%),High Value
+ORD1265,2026-02-11,CUST243,Ravi,Female,34,Delhi,Delhi,Desk,Furniture,1,12000,0.1,Cash on Delivery,Delivered,10800.0,12000,1200.0,2026,Q1,2,February,2026-02,Wednesday,2,Low (<10%),High Value
+ORD1843,2026-02-14,CUST254,Rahul,Female,47,Kolkata,West Bengal,Smartwatch,Electronics,1,5000,0.05,UPI,Delivered,4750.0,5000,250.0,2026,Q1,2,February,2026-02,Saturday,5,Low (<10%),Medium Value
+ORD1293,2026-02-16,CUST165,Manoj,Female,55,Madurai,Tamil Nadu,Jeans,Fashion,1,2200,0.15,UPI,Delivered,1870.0,2200,330.0,2026,Q1,2,February,2026-02,Monday,0,Moderate (10-20%),Medium Value
+ORD1462,2026-02-16,CUST279,Manoj,Female,39,Mysuru,Karnataka,Shoes,Fashion,1,3500,0.2,UPI,Delivered,2800.0,3500,700.0,2026,Q1,2,February,2026-02,Monday,0,Moderate (10-20%),Low Value
+ORD1910,2026-02-16,CUST103,Sneha,Male,48,Coimbatore,Tamil Nadu,Desk,Furniture,2,12000,0.1,Debit Card,Delivered,21600.0,24000,2400.0,2026,Q1,2,February,2026-02,Monday,0,Low (<10%),Medium Value
+ORD1341,2026-02-18,CUST157,Karthik,Male,54,Hyderabad,Telangana,Shoes,Fashion,2,3500,0.15,Credit Card,Delivered,5950.0,7000,1050.0,2026,Q1,2,February,2026-02,Wednesday,2,Moderate (10-20%),High Value
+ORD1046,2026-02-19,CUST119,Nisha,Female,44,Kochi,Kerala,Laptop,Electronics,4,55000,0.1,UPI,Delivered,198000.0,220000,22000.0,2026,Q1,2,February,2026-02,Thursday,3,Low (<10%),High Value
+ORD1879,2026-02-19,CUST215,Kumar,Female,35,Mysuru,Karnataka,Office Chair,Furniture,1,8500,0.0,Debit Card,Delivered,8500.0,8500,0.0,2026,Q1,2,February,2026-02,Thursday,3,No Discount (0%),Medium Value
+ORD1138,2026-02-20,CUST141,Aishwarya,Female,25,Jaipur,Rajasthan,Headphones,Electronics,1,2500,0.15,Debit Card,Delivered,2125.0,2500,375.0,2026,Q1,2,February,2026-02,Friday,4,Moderate (10-20%),High Value
+ORD1016,2026-02-20,CUST168,Ravi,Male,34,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.0,Debit Card,Delivered,55000.0,55000,0.0,2026,Q1,2,February,2026-02,Friday,4,No Discount (0%),High Value
+ORD1414,2026-02-20,CUST298,Kumar,Female,37,Chennai,Tamil Nadu,Jeans,Fashion,2,2200,0.05,Credit Card,Delivered,4180.0,4400,220.0,2026,Q1,2,February,2026-02,Friday,4,Low (<10%),Low Value
+ORD1709,2026-02-20,CUST132,Meena,Female,18,Delhi,Delhi,Smartwatch,Electronics,2,5000,0.0,UPI,Delivered,10000.0,10000,0.0,2026,Q1,2,February,2026-02,Friday,4,No Discount (0%),High Value
+ORD1866,2026-02-21,CUST220,Vikram,Male,27,Jaipur,Rajasthan,Shoes,Fashion,1,3500,0.2,UPI,Delivered,2800.0,3500,700.0,2026,Q1,2,February,2026-02,Saturday,5,Moderate (10-20%),Medium Value
+ORD1790,2026-02-21,CUST261,Rahul,Male,33,Hyderabad,Telangana,Laptop,Electronics,2,55000,0.1,UPI,Delivered,99000.0,110000,11000.0,2026,Q1,2,February,2026-02,Saturday,5,Low (<10%),High Value
+ORD1202,2026-02-22,CUST281,Harini,Male,48,Delhi,Delhi,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2026,Q1,2,February,2026-02,Sunday,6,Low (<10%),Low Value
+ORD1684,2026-02-22,CUST213,Nisha,Female,47,Hyderabad,Telangana,Desk,Furniture,2,12000,0.05,Cash on Delivery,Delivered,22800.0,24000,1200.0,2026,Q1,2,February,2026-02,Sunday,6,Low (<10%),High Value
+ORD1569,2026-02-23,CUST127,Surya,Male,37,Chennai,Tamil Nadu,Desk,Furniture,3,12000,0.0,UPI,Delivered,36000.0,36000,0.0,2026,Q1,2,February,2026-02,Monday,0,No Discount (0%),Medium Value
+ORD1075,2026-02-23,CUST194,Manoj,Female,31,Pune,Maharashtra,Tablet,Electronics,2,22000,0.1,Cash on Delivery,Delivered,39600.0,44000,4400.0,2026,Q1,2,February,2026-02,Monday,0,Low (<10%),Medium Value
+ORD1330,2026-02-23,CUST185,Aditya,Male,46,Hyderabad,Telangana,Office Chair,Furniture,1,8500,0.0,Credit Card,Delivered,8500.0,8500,0.0,2026,Q1,2,February,2026-02,Monday,0,No Discount (0%),High Value
+ORD1934,2026-02-24,CUST107,Pooja,Male,46,Jaipur,Rajasthan,Desk,Furniture,1,12000,0.1,Credit Card,Delivered,10800.0,12000,1200.0,2026,Q1,2,February,2026-02,Tuesday,1,Low (<10%),Low Value
+ORD1021,2026-02-24,CUST266,Ananya,Female,52,Bengaluru,Karnataka,Headphones,Electronics,3,2500,0.1,UPI,Delivered,6750.0,7500,750.0,2026,Q1,2,February,2026-02,Tuesday,1,Low (<10%),Low Value
+ORD1143,2026-02-24,CUST217,Priya,Male,19,Kolkata,West Bengal,Smartwatch,Electronics,1,5000,0.15,Credit Card,Delivered,4250.0,5000,750.0,2026,Q1,2,February,2026-02,Tuesday,1,Moderate (10-20%),High Value
+ORD1288,2026-02-25,CUST234,Vikram,Male,42,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6500,0.0,Debit Card,Delivered,6500.0,6500,0.0,2026,Q1,2,February,2026-02,Wednesday,2,No Discount (0%),High Value
+ORD1460,2026-02-25,CUST286,Arun,Female,48,Coimbatore,Tamil Nadu,Office Chair,Furniture,1,8500,0.15,Cash on Delivery,Delivered,7225.0,8500,1275.0,2026,Q1,2,February,2026-02,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1922,2026-02-28,CUST201,Priya,Male,51,Kolkata,West Bengal,Office Chair,Furniture,1,8500,0.1,Debit Card,Delivered,7650.0,8500,850.0,2026,Q1,2,February,2026-02,Saturday,5,Low (<10%),Medium Value
+ORD1390,2026-02-28,CUST251,Sneha,Male,55,Kochi,Kerala,Jeans,Fashion,1,2200,0.1,UPI,Delivered,1980.0,2200,220.0,2026,Q1,2,February,2026-02,Saturday,5,Low (<10%),Medium Value
+ORD1216,2026-03-01,CUST261,Aishwarya,Female,59,Madurai,Tamil Nadu,Headphones,Electronics,4,2500,0.1,UPI,Delivered,9000.0,10000,1000.0,2026,Q1,3,March,2026-03,Sunday,6,Low (<10%),High Value
+ORD1454,2026-03-03,CUST104,Arun,Male,26,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.1,UPI,Delivered,49500.0,55000,5500.0,2026,Q1,3,March,2026-03,Tuesday,1,Low (<10%),High Value
+ORD1160,2026-03-03,CUST121,Ravi,Male,32,Jaipur,Rajasthan,Smartwatch,Electronics,2,5000,0.15,UPI,Delivered,8500.0,10000,1500.0,2026,Q1,3,March,2026-03,Tuesday,1,Moderate (10-20%),Low Value
+ORD1961,2026-03-03,CUST186,Surya,Male,24,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6500,0.15,Debit Card,Delivered,5525.0,6500,975.0,2026,Q1,3,March,2026-03,Tuesday,1,Moderate (10-20%),Low Value
+ORD1037,2026-03-03,CUST201,Nisha,Male,50,Bengaluru,Karnataka,Jeans,Fashion,1,2200,0.05,Debit Card,Delivered,2090.0,2200,110.0,2026,Q1,3,March,2026-03,Tuesday,1,Low (<10%),Medium Value
+ORD1278,2026-03-04,CUST296,Divya,Female,30,Kolkata,West Bengal,Shoes,Fashion,1,3500,0.05,Credit Card,Delivered,3325.0,3500,175.0,2026,Q1,3,March,2026-03,Wednesday,2,Low (<10%),High Value
+ORD1567,2026-03-05,CUST232,Sneha,Male,47,Hyderabad,Telangana,Tablet,Electronics,1,22000,0.1,Credit Card,Delivered,19800.0,22000,2200.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),High Value
+ORD1257,2026-03-06,CUST207,Meena,Male,23,Jaipur,Rajasthan,Backpack,Accessories,1,1800,0.0,Debit Card,Delivered,1800.0,1800,0.0,2026,Q1,3,March,2026-03,Friday,4,No Discount (0%),Low Value
+ORD1248,2026-03-07,CUST277,Aditya,Female,35,Mysuru,Karnataka,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2026,Q1,3,March,2026-03,Saturday,5,Low (<10%),High Value
+ORD1770,2026-03-07,CUST222,Rahul,Male,49,Jaipur,Rajasthan,Jeans,Fashion,1,2200,0.1,Debit Card,Delivered,1980.0,2200,220.0,2026,Q1,3,March,2026-03,Saturday,5,Low (<10%),Medium Value
+ORD1724,2026-03-08,CUST150,Sanjay,Male,25,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.0,Cash on Delivery,Returned,28000.0,28000,0.0,2026,Q1,3,March,2026-03,Sunday,6,No Discount (0%),Low Value
+ORD1494,2026-03-08,CUST233,Pooja,Female,52,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.05,Cash on Delivery,Delivered,26600.0,28000,1400.0,2026,Q1,3,March,2026-03,Sunday,6,Low (<10%),Medium Value
+ORD1626,2026-03-08,CUST292,Manoj,Female,35,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.0,Net Banking,Returned,28000.0,28000,0.0,2026,Q1,3,March,2026-03,Sunday,6,No Discount (0%),Medium Value
+ORD1772,2026-03-09,CUST148,Ananya,Female,18,Jaipur,Rajasthan,T-Shirt,Fashion,3,900,0.1,UPI,Shipped,2430.0,2700,270.0,2026,Q1,3,March,2026-03,Monday,0,Low (<10%),High Value
+ORD1943,2026-03-10,CUST215,Pooja,Female,47,Kolkata,West Bengal,Desk,Furniture,1,12000,0.15,Debit Card,Shipped,10200.0,12000,1800.0,2026,Q1,3,March,2026-03,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1886,2026-03-11,CUST165,Harini,Female,32,Hyderabad,Telangana,Coffee Maker,Home Appliances,4,6500,0.15,Credit Card,Delivered,22100.0,26000,3900.0,2026,Q1,3,March,2026-03,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1952,2026-03-11,CUST272,Aishwarya,Male,52,Jaipur,Rajasthan,T-Shirt,Fashion,2,900,0.05,UPI,Delivered,1710.0,1800,90.0,2026,Q1,3,March,2026-03,Wednesday,2,Low (<10%),Medium Value
+ORD1090,2026-03-11,CUST223,Surya,Male,47,Chennai,Tamil Nadu,Backpack,Accessories,1,1800,0.05,UPI,Delivered,1710.0,1800,90.0,2026,Q1,3,March,2026-03,Wednesday,2,Low (<10%),High Value
+ORD1187,2026-03-12,CUST257,Sneha,Male,59,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.1,Cash on Delivery,Shipped,25200.0,28000,2800.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),High Value
+ORD1191,2026-03-12,CUST243,Surya,Female,45,Mysuru,Karnataka,Smartwatch,Electronics,1,5000,0.05,UPI,Returned,4750.0,5000,250.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),High Value
+ORD1541,2026-03-12,CUST277,Ravi,Female,43,Mumbai,Maharashtra,Backpack,Accessories,1,1800,0.05,Cash on Delivery,Delivered,1710.0,1800,90.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),High Value
+ORD1881,2026-03-13,CUST180,Nisha,Female,57,Mumbai,Maharashtra,Backpack,Accessories,1,1800,0.1,Credit Card,Delivered,1620.0,1800,180.0,2026,Q1,3,March,2026-03,Friday,4,Low (<10%),Low Value
+ORD1358,2026-03-13,CUST232,Sneha,Female,54,Kolkata,West Bengal,Laptop,Electronics,1,55000,0.05,Debit Card,Delivered,52250.0,55000,2750.0,2026,Q1,3,March,2026-03,Friday,4,Low (<10%),High Value
+ORD1236,2026-03-13,CUST161,Divya,Male,47,Pune,Maharashtra,Desk,Furniture,1,12000,0.15,UPI,Delivered,10200.0,12000,1800.0,2026,Q1,3,March,2026-03,Friday,4,Moderate (10-20%),Medium Value
+ORD1822,2026-03-14,CUST129,Arun,Male,22,Kochi,Kerala,Office Chair,Furniture,2,8500,0.1,UPI,Delivered,15300.0,17000,1700.0,2026,Q1,3,March,2026-03,Saturday,5,Low (<10%),Medium Value
+ORD1284,2026-03-14,CUST165,Divya,Male,60,Kolkata,West Bengal,Headphones,Electronics,4,2500,0.0,UPI,Delivered,10000.0,10000,0.0,2026,Q1,3,March,2026-03,Saturday,5,No Discount (0%),Medium Value
+ORD1369,2026-03-14,CUST126,Ravi,Female,57,Mumbai,Maharashtra,Coffee Maker,Home Appliances,3,6500,0.15,Credit Card,Delivered,16575.0,19500,2925.0,2026,Q1,3,March,2026-03,Saturday,5,Moderate (10-20%),Medium Value
+ORD1825,2026-03-15,CUST157,Nisha,Male,50,Jaipur,Rajasthan,Headphones,Electronics,2,2500,0.0,UPI,Cancelled,5000.0,5000,0.0,2026,Q1,3,March,2026-03,Sunday,6,No Discount (0%),High Value
+ORD1380,2026-03-15,CUST139,Divya,Male,49,Kolkata,West Bengal,Headphones,Electronics,1,2500,0.15,UPI,Delivered,2125.0,2500,375.0,2026,Q1,3,March,2026-03,Sunday,6,Moderate (10-20%),High Value
+ORD1166,2026-03-15,CUST169,Aditya,Male,51,Kochi,Kerala,Coffee Maker,Home Appliances,2,6500,0.0,Credit Card,Delivered,13000.0,13000,0.0,2026,Q1,3,March,2026-03,Sunday,6,No Discount (0%),High Value
+ORD1730,2026-03-15,CUST232,Kumar,Female,28,Delhi,Delhi,Backpack,Accessories,1,1800,0.1,Cash on Delivery,Delivered,1620.0,1800,180.0,2026,Q1,3,March,2026-03,Sunday,6,Low (<10%),High Value
+ORD1944,2026-03-16,CUST114,Sneha,Male,57,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.05,Cash on Delivery,Delivered,6175.0,6500,325.0,2026,Q1,3,March,2026-03,Monday,0,Low (<10%),High Value
+ORD1862,2026-03-16,CUST287,Aditya,Male,21,Hyderabad,Telangana,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2026,Q1,3,March,2026-03,Monday,0,Low (<10%),High Value
+ORD1256,2026-03-16,CUST165,Divya,Male,22,Jaipur,Rajasthan,Jeans,Fashion,1,2200,0.1,UPI,Delivered,1980.0,2200,220.0,2026,Q1,3,March,2026-03,Monday,0,Low (<10%),Medium Value
+ORD1080,2026-03-17,CUST197,Rahul,Female,50,Chennai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.15,UPI,Shipped,4250.0,5000,750.0,2026,Q1,3,March,2026-03,Tuesday,1,Moderate (10-20%),Low Value
+ORD1049,2026-03-17,CUST246,Aditya,Female,31,Jaipur,Rajasthan,Tablet,Electronics,3,22000,0.05,UPI,Delivered,62700.0,66000,3300.0,2026,Q1,3,March,2026-03,Tuesday,1,Low (<10%),High Value
+ORD1715,2026-03-17,CUST169,Karthik,Male,58,Chennai,Tamil Nadu,T-Shirt,Fashion,3,900,0.05,Credit Card,Delivered,2565.0,2700,135.0,2026,Q1,3,March,2026-03,Tuesday,1,Low (<10%),High Value
+ORD1685,2026-03-19,CUST162,Manoj,Female,40,Madurai,Tamil Nadu,T-Shirt,Fashion,2,900,0.0,UPI,Delivered,1800.0,1800,0.0,2026,Q1,3,March,2026-03,Thursday,3,No Discount (0%),High Value
+ORD1990,2026-03-19,CUST189,Karthik,Female,43,Coimbatore,Tamil Nadu,Office Chair,Furniture,2,8500,0.05,UPI,Delivered,16150.0,17000,850.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),Low Value
+ORD1093,2026-03-19,CUST172,Aditya,Female,50,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.0,Credit Card,Delivered,12000.0,12000,0.0,2026,Q1,3,March,2026-03,Thursday,3,No Discount (0%),Low Value
+ORD1327,2026-03-19,CUST200,Priya,Female,18,Jaipur,Rajasthan,Office Chair,Furniture,2,8500,0.1,UPI,Delivered,15300.0,17000,1700.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),Medium Value
+ORD1803,2026-03-19,CUST180,Aishwarya,Female,18,Chennai,Tamil Nadu,Jeans,Fashion,1,2200,0.0,Net Banking,Shipped,2200.0,2200,0.0,2026,Q1,3,March,2026-03,Thursday,3,No Discount (0%),Low Value
+ORD1774,2026-03-20,CUST248,Aishwarya,Female,21,Kolkata,West Bengal,Laptop,Electronics,1,55000,0.05,Credit Card,Delivered,52250.0,55000,2750.0,2026,Q1,3,March,2026-03,Friday,4,Low (<10%),Medium Value
+ORD1355,2026-03-21,CUST113,Ravi,Male,25,Bengaluru,Karnataka,T-Shirt,Fashion,2,900,0.1,Credit Card,Delivered,1620.0,1800,180.0,2026,Q1,3,March,2026-03,Saturday,5,Low (<10%),Medium Value
+ORD1402,2026-03-21,CUST225,Karthik,Male,38,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,2,6500,0.1,UPI,Delivered,11700.0,13000,1300.0,2026,Q1,3,March,2026-03,Saturday,5,Low (<10%),High Value
+ORD1335,2026-03-21,CUST158,Ravi,Female,55,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,6500,0.1,Credit Card,Shipped,17550.0,19500,1950.0,2026,Q1,3,March,2026-03,Saturday,5,Low (<10%),High Value
+ORD1070,2026-03-22,CUST162,Karthik,Male,48,Hyderabad,Telangana,Tablet,Electronics,1,22000,0.05,Credit Card,Shipped,20900.0,22000,1100.0,2026,Q1,3,March,2026-03,Sunday,6,Low (<10%),High Value
+ORD1377,2026-03-22,CUST187,Manoj,Male,48,Mumbai,Maharashtra,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2026,Q1,3,March,2026-03,Sunday,6,Low (<10%),Medium Value
+ORD1561,2026-03-22,CUST143,Manoj,Female,27,Bengaluru,Karnataka,Headphones,Electronics,1,2500,0.0,Credit Card,Delivered,2500.0,2500,0.0,2026,Q1,3,March,2026-03,Sunday,6,No Discount (0%),Low Value
+ORD1033,2026-03-23,CUST169,Kumar,Male,33,Pune,Maharashtra,Office Chair,Furniture,2,8500,0.05,UPI,Returned,16150.0,17000,850.0,2026,Q1,3,March,2026-03,Monday,0,Low (<10%),High Value
+ORD1394,2026-03-23,CUST300,Pooja,Male,55,Jaipur,Rajasthan,Backpack,Accessories,2,1800,0.0,UPI,Returned,3600.0,3600,0.0,2026,Q1,3,March,2026-03,Monday,0,No Discount (0%),Low Value
+ORD1595,2026-03-24,CUST120,Ananya,Female,48,Mysuru,Karnataka,Laptop,Electronics,2,55000,0.05,Debit Card,Delivered,104500.0,110000,5500.0,2026,Q1,3,March,2026-03,Tuesday,1,Low (<10%),High Value
+ORD1797,2026-03-24,CUST185,Vikram,Male,25,Madurai,Tamil Nadu,Tablet,Electronics,2,22000,0.0,Credit Card,Delivered,44000.0,44000,0.0,2026,Q1,3,March,2026-03,Tuesday,1,No Discount (0%),High Value
+ORD1418,2026-03-24,CUST226,Priya,Female,59,Jaipur,Rajasthan,Jeans,Fashion,2,2200,0.15,Cash on Delivery,Delivered,3740.0,4400,660.0,2026,Q1,3,March,2026-03,Tuesday,1,Moderate (10-20%),High Value
+ORD1200,2026-03-25,CUST232,Ananya,Male,59,Delhi,Delhi,T-Shirt,Fashion,1,900,0.0,Debit Card,Delivered,900.0,900,0.0,2026,Q1,3,March,2026-03,Wednesday,2,No Discount (0%),High Value
+ORD1175,2026-03-25,CUST175,Kumar,Male,40,Chennai,Tamil Nadu,Smartwatch,Electronics,1,5000,0.05,Cash on Delivery,Delivered,4750.0,5000,250.0,2026,Q1,3,March,2026-03,Wednesday,2,Low (<10%),High Value
+ORD1601,2026-03-25,CUST124,Meena,Female,45,Jaipur,Rajasthan,Desk,Furniture,1,12000,0.1,UPI,Delivered,10800.0,12000,1200.0,2026,Q1,3,March,2026-03,Wednesday,2,Low (<10%),High Value
+ORD1364,2026-03-26,CUST174,Ravi,Female,36,Madurai,Tamil Nadu,T-Shirt,Fashion,1,900,0.2,Cash on Delivery,Delivered,720.0,900,180.0,2026,Q1,3,March,2026-03,Thursday,3,Moderate (10-20%),High Value
+ORD1574,2026-03-26,CUST174,Aditya,Female,34,Delhi,Delhi,Coffee Maker,Home Appliances,1,6500,0.0,UPI,Delivered,6500.0,6500,0.0,2026,Q1,3,March,2026-03,Thursday,3,No Discount (0%),High Value
+ORD1817,2026-03-26,CUST140,Sneha,Male,28,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.0,Debit Card,Delivered,6500.0,6500,0.0,2026,Q1,3,March,2026-03,Thursday,3,No Discount (0%),High Value
+ORD1111,2026-03-26,CUST155,Kumar,Female,47,Coimbatore,Tamil Nadu,Shoes,Fashion,1,3500,0.05,UPI,Shipped,3325.0,3500,175.0,2026,Q1,3,March,2026-03,Thursday,3,Low (<10%),Low Value
+ORD1382,2026-03-27,CUST256,Kumar,Male,51,Hyderabad,Telangana,Jeans,Fashion,1,2200,0.15,Cash on Delivery,Delivered,1870.0,2200,330.0,2026,Q1,3,March,2026-03,Friday,4,Moderate (10-20%),Low Value
+ORD1020,2026-03-29,CUST137,Karthik,Male,36,Bengaluru,Karnataka,Shoes,Fashion,1,3500,0.0,Debit Card,Delivered,3500.0,3500,0.0,2026,Q1,3,March,2026-03,Sunday,6,No Discount (0%),Low Value
+ORD1295,2026-03-29,CUST234,Sneha,Female,35,Coimbatore,Tamil Nadu,Jeans,Fashion,1,2200,0.1,Credit Card,Delivered,1980.0,2200,220.0,2026,Q1,3,March,2026-03,Sunday,6,Low (<10%),High Value
+ORD1635,2026-03-30,CUST269,Kumar,Female,22,Bengaluru,Karnataka,Office Chair,Furniture,2,8500,0.1,Cash on Delivery,Delivered,15300.0,17000,1700.0,2026,Q1,3,March,2026-03,Monday,0,Low (<10%),High Value
+ORD1955,2026-03-30,CUST287,Sneha,Female,52,Chennai,Tamil Nadu,Backpack,Accessories,1,1800,0.0,Debit Card,Delivered,1800.0,1800,0.0,2026,Q1,3,March,2026-03,Monday,0,No Discount (0%),High Value
+ORD1167,2026-03-31,CUST260,Ravi,Male,31,Chennai,Tamil Nadu,Tablet,Electronics,1,22000,0.05,Debit Card,Delivered,20900.0,22000,1100.0,2026,Q1,3,March,2026-03,Tuesday,1,Low (<10%),Low Value
+ORD1661,2026-03-31,CUST210,Priya,Female,26,Kolkata,West Bengal,Headphones,Electronics,2,2500,0.15,Debit Card,Cancelled,4250.0,5000,750.0,2026,Q1,3,March,2026-03,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1702,2026-03-31,CUST239,Divya,Male,50,Bengaluru,Karnataka,Coffee Maker,Home Appliances,1,6500,0.0,Cash on Delivery,Delivered,6500.0,6500,0.0,2026,Q1,3,March,2026-03,Tuesday,1,No Discount (0%),High Value
+ORD1793,2026-04-01,CUST280,Divya,Female,50,Mysuru,Karnataka,Backpack,Accessories,1,1800,0.15,UPI,Delivered,1530.0,1800,270.0,2026,Q2,4,April,2026-04,Wednesday,2,Moderate (10-20%),Low Value
+ORD1729,2026-04-01,CUST159,Karthik,Male,55,Pune,Maharashtra,Headphones,Electronics,1,2500,0.1,UPI,Delivered,2250.0,2500,250.0,2026,Q2,4,April,2026-04,Wednesday,2,Low (<10%),High Value
+ORD1301,2026-04-01,CUST276,Rahul,Male,46,Mysuru,Karnataka,Jeans,Fashion,1,2200,0.05,Credit Card,Shipped,2090.0,2200,110.0,2026,Q2,4,April,2026-04,Wednesday,2,Low (<10%),Low Value
+ORD1673,2026-04-02,CUST198,Sanjay,Male,53,Kochi,Kerala,Jeans,Fashion,2,2200,0.05,Cash on Delivery,Delivered,4180.0,4400,220.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),Medium Value
+ORD1527,2026-04-02,CUST187,Aditya,Male,34,Coimbatore,Tamil Nadu,Backpack,Accessories,2,1800,0.1,Cash on Delivery,Delivered,3240.0,3600,360.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),Medium Value
+ORD1723,2026-04-03,CUST134,Ravi,Female,39,Delhi,Delhi,Office Chair,Furniture,2,8500,0.1,UPI,Delivered,15300.0,17000,1700.0,2026,Q2,4,April,2026-04,Friday,4,Low (<10%),Medium Value
+ORD1055,2026-04-03,CUST183,Manoj,Male,26,Mysuru,Karnataka,Tablet,Electronics,4,22000,0.1,UPI,Delivered,79200.0,88000,8800.0,2026,Q2,4,April,2026-04,Friday,4,Low (<10%),Medium Value
+ORD1651,2026-04-05,CUST167,Vikram,Male,45,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.2,Debit Card,Delivered,22400.0,28000,5600.0,2026,Q2,4,April,2026-04,Sunday,6,Moderate (10-20%),Low Value
+ORD1232,2026-04-05,CUST245,Vikram,Female,30,Madurai,Tamil Nadu,Tablet,Electronics,2,22000,0.05,Cash on Delivery,Delivered,41800.0,44000,2200.0,2026,Q2,4,April,2026-04,Sunday,6,Low (<10%),Medium Value
+ORD1085,2026-04-07,CUST140,Karthik,Female,40,Kolkata,West Bengal,Laptop,Electronics,1,55000,0.0,UPI,Delivered,55000.0,55000,0.0,2026,Q2,4,April,2026-04,Tuesday,1,No Discount (0%),High Value
+ORD1959,2026-04-07,CUST268,Aditya,Female,35,Kolkata,West Bengal,Tablet,Electronics,3,22000,0.1,Cash on Delivery,Shipped,59400.0,66000,6600.0,2026,Q2,4,April,2026-04,Tuesday,1,Low (<10%),Medium Value
+ORD1938,2026-04-07,CUST146,Ananya,Male,36,Chennai,Tamil Nadu,Tablet,Electronics,1,22000,0.0,Credit Card,Delivered,22000.0,22000,0.0,2026,Q2,4,April,2026-04,Tuesday,1,No Discount (0%),High Value
+ORD1649,2026-04-08,CUST129,Aishwarya,Male,19,Bengaluru,Karnataka,Desk,Furniture,2,12000,0.0,Credit Card,Delivered,24000.0,24000,0.0,2026,Q2,4,April,2026-04,Wednesday,2,No Discount (0%),Medium Value
+ORD1198,2026-04-08,CUST251,Nisha,Female,60,Coimbatore,Tamil Nadu,Smartphone,Electronics,1,28000,0.1,Debit Card,Shipped,25200.0,28000,2800.0,2026,Q2,4,April,2026-04,Wednesday,2,Low (<10%),Medium Value
+ORD1475,2026-04-08,CUST249,Vikram,Female,35,Jaipur,Rajasthan,Desk,Furniture,2,12000,0.1,UPI,Cancelled,21600.0,24000,2400.0,2026,Q2,4,April,2026-04,Wednesday,2,Low (<10%),Medium Value
+ORD1867,2026-04-09,CUST300,Sanjay,Male,41,Chennai,Tamil Nadu,Office Chair,Furniture,2,8500,0.0,Credit Card,Delivered,17000.0,17000,0.0,2026,Q2,4,April,2026-04,Thursday,3,No Discount (0%),Low Value
+ORD1840,2026-04-09,CUST124,Pooja,Female,58,Madurai,Tamil Nadu,Desk,Furniture,1,12000,0.1,UPI,Delivered,10800.0,12000,1200.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),High Value
+ORD1186,2026-04-10,CUST288,Ravi,Male,43,Mysuru,Karnataka,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2026,Q2,4,April,2026-04,Friday,4,No Discount (0%),Medium Value
+ORD1755,2026-04-11,CUST171,Aishwarya,Male,23,Chennai,Tamil Nadu,T-Shirt,Fashion,1,900,0.05,Credit Card,Delivered,855.0,900,45.0,2026,Q2,4,April,2026-04,Saturday,5,Low (<10%),Low Value
+ORD1606,2026-04-11,CUST278,Pooja,Female,39,Mysuru,Karnataka,Tablet,Electronics,1,22000,0.0,UPI,Delivered,22000.0,22000,0.0,2026,Q2,4,April,2026-04,Saturday,5,No Discount (0%),Medium Value
+ORD1243,2026-04-12,CUST224,Meena,Female,46,Chennai,Tamil Nadu,Smartphone,Electronics,1,28000,0.1,Credit Card,Cancelled,25200.0,28000,2800.0,2026,Q2,4,April,2026-04,Sunday,6,Low (<10%),High Value
+ORD1181,2026-04-12,CUST262,Meena,Male,28,Coimbatore,Tamil Nadu,Jeans,Fashion,2,2200,0.0,Debit Card,Delivered,4400.0,4400,0.0,2026,Q2,4,April,2026-04,Sunday,6,No Discount (0%),High Value
+ORD1387,2026-04-12,CUST216,Aditya,Female,27,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.15,Debit Card,Delivered,10200.0,12000,1800.0,2026,Q2,4,April,2026-04,Sunday,6,Moderate (10-20%),Low Value
+ORD1648,2026-04-12,CUST258,Kumar,Male,28,Madurai,Tamil Nadu,Coffee Maker,Home Appliances,4,6500,0.05,Cash on Delivery,Delivered,24700.0,26000,1300.0,2026,Q2,4,April,2026-04,Sunday,6,Low (<10%),Medium Value
+ORD1487,2026-04-12,CUST226,Aditya,Female,41,Coimbatore,Tamil Nadu,Headphones,Electronics,1,2500,0.05,Cash on Delivery,Delivered,2375.0,2500,125.0,2026,Q2,4,April,2026-04,Sunday,6,Low (<10%),High Value
+ORD1696,2026-04-13,CUST261,Keerthi,Male,34,Bengaluru,Karnataka,Office Chair,Furniture,1,8500,0.1,UPI,Delivered,7650.0,8500,850.0,2026,Q2,4,April,2026-04,Monday,0,Low (<10%),High Value
+ORD1398,2026-04-14,CUST290,Arun,Male,32,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.05,Cash on Delivery,Shipped,26600.0,28000,1400.0,2026,Q2,4,April,2026-04,Tuesday,1,Low (<10%),Medium Value
+ORD1706,2026-04-16,CUST249,Divya,Male,39,Coimbatore,Tamil Nadu,Laptop,Electronics,1,55000,0.15,Credit Card,Delivered,46750.0,55000,8250.0,2026,Q2,4,April,2026-04,Thursday,3,Moderate (10-20%),Medium Value
+ORD1185,2026-04-16,CUST158,Vikram,Female,30,Coimbatore,Tamil Nadu,Desk,Furniture,1,12000,0.05,UPI,Shipped,11400.0,12000,600.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),High Value
+ORD1502,2026-04-17,CUST156,Manoj,Male,35,Pune,Maharashtra,T-Shirt,Fashion,2,900,0.15,Credit Card,Delivered,1530.0,1800,270.0,2026,Q2,4,April,2026-04,Friday,4,Moderate (10-20%),High Value
+ORD1777,2026-04-18,CUST259,Ravi,Female,53,Madurai,Tamil Nadu,Jeans,Fashion,1,2200,0.05,Cash on Delivery,Delivered,2090.0,2200,110.0,2026,Q2,4,April,2026-04,Saturday,5,Low (<10%),Medium Value
+ORD1580,2026-04-19,CUST122,Aditya,Male,20,Pune,Maharashtra,Smartphone,Electronics,2,28000,0.0,UPI,Delivered,56000.0,56000,0.0,2026,Q2,4,April,2026-04,Sunday,6,No Discount (0%),Medium Value
+ORD1555,2026-04-19,CUST180,Aditya,Female,44,Madurai,Tamil Nadu,Backpack,Accessories,1,1800,0.15,Credit Card,Delivered,1530.0,1800,270.0,2026,Q2,4,April,2026-04,Sunday,6,Moderate (10-20%),Low Value
+ORD1783,2026-04-19,CUST234,Ravi,Male,34,Kolkata,West Bengal,Desk,Furniture,2,12000,0.15,Debit Card,Delivered,20400.0,24000,3600.0,2026,Q2,4,April,2026-04,Sunday,6,Moderate (10-20%),High Value
+ORD1420,2026-04-19,CUST159,Aditya,Male,24,Kolkata,West Bengal,T-Shirt,Fashion,1,900,0.1,UPI,Delivered,810.0,900,90.0,2026,Q2,4,April,2026-04,Sunday,6,Low (<10%),High Value
+ORD1065,2026-04-19,CUST128,Keerthi,Male,43,Bengaluru,Karnataka,Headphones,Electronics,1,2500,0.05,UPI,Delivered,2375.0,2500,125.0,2026,Q2,4,April,2026-04,Sunday,6,Low (<10%),High Value
+ORD1658,2026-04-20,CUST200,Rahul,Male,51,Mumbai,Maharashtra,Coffee Maker,Home Appliances,2,6500,0.15,UPI,Delivered,11050.0,13000,1950.0,2026,Q2,4,April,2026-04,Monday,0,Moderate (10-20%),Medium Value
+ORD1880,2026-04-20,CUST158,Nisha,Male,56,Coimbatore,Tamil Nadu,T-Shirt,Fashion,3,900,0.15,UPI,Delivered,2295.0,2700,405.0,2026,Q2,4,April,2026-04,Monday,0,Moderate (10-20%),High Value
+ORD1101,2026-04-21,CUST290,Keerthi,Male,60,Mysuru,Karnataka,Shoes,Fashion,1,3500,0.15,UPI,Delivered,2975.0,3500,525.0,2026,Q2,4,April,2026-04,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1207,2026-04-21,CUST147,Ravi,Female,50,Kochi,Kerala,Laptop,Electronics,1,55000,0.05,Credit Card,Delivered,52250.0,55000,2750.0,2026,Q2,4,April,2026-04,Tuesday,1,Low (<10%),High Value
+ORD1227,2026-04-21,CUST109,Harini,Female,23,Coimbatore,Tamil Nadu,Smartwatch,Electronics,1,5000,0.05,Debit Card,Returned,4750.0,5000,250.0,2026,Q2,4,April,2026-04,Tuesday,1,Low (<10%),Medium Value
+ORD1960,2026-04-21,CUST180,Pooja,Male,23,Kochi,Kerala,Desk,Furniture,1,12000,0.15,UPI,Shipped,10200.0,12000,1800.0,2026,Q2,4,April,2026-04,Tuesday,1,Moderate (10-20%),Low Value
+ORD1112,2026-04-22,CUST162,Nisha,Female,27,Madurai,Tamil Nadu,Smartphone,Electronics,1,28000,0.0,UPI,Delivered,28000.0,28000,0.0,2026,Q2,4,April,2026-04,Wednesday,2,No Discount (0%),High Value
+ORD1238,2026-04-22,CUST162,Manoj,Male,29,Hyderabad,Telangana,Shoes,Fashion,3,3500,0.0,Credit Card,Delivered,10500.0,10500,0.0,2026,Q2,4,April,2026-04,Wednesday,2,No Discount (0%),High Value
+ORD1899,2026-04-22,CUST226,Arun,Female,21,Bengaluru,Karnataka,Coffee Maker,Home Appliances,2,6500,0.0,Credit Card,Delivered,13000.0,13000,0.0,2026,Q2,4,April,2026-04,Wednesday,2,No Discount (0%),High Value
+ORD1896,2026-04-23,CUST153,Vikram,Male,33,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.15,Net Banking,Returned,10200.0,12000,1800.0,2026,Q2,4,April,2026-04,Thursday,3,Moderate (10-20%),Low Value
+ORD1842,2026-04-23,CUST271,Vikram,Female,41,Hyderabad,Telangana,Backpack,Accessories,3,1800,0.1,UPI,Delivered,4860.0,5400,540.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),Low Value
+ORD1571,2026-04-24,CUST262,Vikram,Male,55,Jaipur,Rajasthan,Smartphone,Electronics,1,28000,0.1,UPI,Shipped,25200.0,28000,2800.0,2026,Q2,4,April,2026-04,Friday,4,Low (<10%),High Value
+ORD1361,2026-04-25,CUST161,Meena,Male,44,Jaipur,Rajasthan,Office Chair,Furniture,4,8500,0.05,UPI,Delivered,32300.0,34000,1700.0,2026,Q2,4,April,2026-04,Saturday,5,Low (<10%),Medium Value
+ORD1809,2026-04-25,CUST220,Aishwarya,Male,39,Kochi,Kerala,Laptop,Electronics,1,55000,0.05,Credit Card,Delivered,52250.0,55000,2750.0,2026,Q2,4,April,2026-04,Saturday,5,Low (<10%),Medium Value
+ORD1522,2026-04-25,CUST281,Kumar,Male,59,Pune,Maharashtra,T-Shirt,Fashion,2,900,0.05,Credit Card,Delivered,1710.0,1800,90.0,2026,Q2,4,April,2026-04,Saturday,5,Low (<10%),Low Value
+ORD1839,2026-04-26,CUST242,Divya,Female,32,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0.0,UPI,Delivered,110000.0,110000,0.0,2026,Q2,4,April,2026-04,Sunday,6,No Discount (0%),High Value
+ORD1838,2026-04-26,CUST171,Nisha,Female,37,Delhi,Delhi,Shoes,Fashion,1,3500,0.0,UPI,Delivered,3500.0,3500,0.0,2026,Q2,4,April,2026-04,Sunday,6,No Discount (0%),Low Value
+ORD1508,2026-04-27,CUST135,Aishwarya,Male,38,Hyderabad,Telangana,Backpack,Accessories,2,1800,0.05,Credit Card,Delivered,3420.0,3600,180.0,2026,Q2,4,April,2026-04,Monday,0,Low (<10%),Medium Value
+ORD1747,2026-04-28,CUST247,Karthik,Male,33,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,0.05,Cash on Delivery,Shipped,52250.0,55000,2750.0,2026,Q2,4,April,2026-04,Tuesday,1,Low (<10%),High Value
+ORD1261,2026-04-28,CUST241,Aditya,Female,53,Bengaluru,Karnataka,Desk,Furniture,1,12000,0.1,Credit Card,Delivered,10800.0,12000,1200.0,2026,Q2,4,April,2026-04,Tuesday,1,Low (<10%),High Value
+ORD1326,2026-04-28,CUST211,Priya,Male,51,Bengaluru,Karnataka,Office Chair,Furniture,1,8500,0.0,Debit Card,Delivered,8500.0,8500,0.0,2026,Q2,4,April,2026-04,Tuesday,1,No Discount (0%),Medium Value
+ORD1834,2026-04-28,CUST131,Sanjay,Female,33,Hyderabad,Telangana,Office Chair,Furniture,2,8500,0.0,Credit Card,Delivered,17000.0,17000,0.0,2026,Q2,4,April,2026-04,Tuesday,1,No Discount (0%),Low Value
+ORD1126,2026-04-29,CUST168,Manoj,Female,34,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6500,0.1,Credit Card,Shipped,5850.0,6500,650.0,2026,Q2,4,April,2026-04,Wednesday,2,Low (<10%),High Value
+ORD1819,2026-04-30,CUST156,Surya,Male,58,Jaipur,Rajasthan,T-Shirt,Fashion,2,900,0.1,Credit Card,Delivered,1620.0,1800,180.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),High Value
+ORD1544,2026-04-30,CUST102,Rahul,Male,43,Delhi,Delhi,T-Shirt,Fashion,2,900,0.15,Credit Card,Delivered,1530.0,1800,270.0,2026,Q2,4,April,2026-04,Thursday,3,Moderate (10-20%),Medium Value
+ORD1342,2026-04-30,CUST234,Nisha,Male,39,Kochi,Kerala,Smartwatch,Electronics,1,5000,0.1,Credit Card,Shipped,4500.0,5000,500.0,2026,Q2,4,April,2026-04,Thursday,3,Low (<10%),High Value
+ORD1485,2026-05-02,CUST185,Keerthi,Male,22,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.1,Debit Card,Delivered,5850.0,6500,650.0,2026,Q2,5,May,2026-05,Saturday,5,Low (<10%),High Value
+ORD1929,2026-05-02,CUST159,Nisha,Female,23,Mysuru,Karnataka,Tablet,Electronics,1,22000,0.0,UPI,Delivered,22000.0,22000,0.0,2026,Q2,5,May,2026-05,Saturday,5,No Discount (0%),High Value
+ORD1384,2026-05-02,CUST227,Divya,Male,59,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.0,Debit Card,Delivered,44000.0,44000,0.0,2026,Q2,5,May,2026-05,Saturday,5,No Discount (0%),High Value
+ORD1496,2026-05-03,CUST196,Harini,Female,18,Mumbai,Maharashtra,Desk,Furniture,2,12000,0.1,UPI,Shipped,21600.0,24000,2400.0,2026,Q2,5,May,2026-05,Sunday,6,Low (<10%),High Value
+ORD1850,2026-05-05,CUST291,Keerthi,Female,41,Kochi,Kerala,Backpack,Accessories,2,1800,0.05,Cash on Delivery,Delivered,3420.0,3600,180.0,2026,Q2,5,May,2026-05,Tuesday,1,Low (<10%),Medium Value
+ORD1798,2026-05-05,CUST170,Manoj,Female,55,Pune,Maharashtra,Shoes,Fashion,1,3500,0.0,Cash on Delivery,Delivered,3500.0,3500,0.0,2026,Q2,5,May,2026-05,Tuesday,1,No Discount (0%),Low Value
+ORD1094,2026-05-06,CUST244,Divya,Female,38,Coimbatore,Tamil Nadu,Backpack,Accessories,2,1800,0.2,Credit Card,Delivered,2880.0,3600,720.0,2026,Q2,5,May,2026-05,Wednesday,2,Moderate (10-20%),Low Value
+ORD1946,2026-05-06,CUST240,Sanjay,Male,51,Kochi,Kerala,T-Shirt,Fashion,1,900,0.15,UPI,Delivered,765.0,900,135.0,2026,Q2,5,May,2026-05,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1509,2026-05-07,CUST223,Ananya,Male,45,Chennai,Tamil Nadu,Tablet,Electronics,3,22000,0.0,Debit Card,Shipped,66000.0,66000,0.0,2026,Q2,5,May,2026-05,Thursday,3,No Discount (0%),High Value
+ORD1581,2026-05-08,CUST112,Sanjay,Female,50,Kolkata,West Bengal,T-Shirt,Fashion,2,900,0.1,Credit Card,Returned,1620.0,1800,180.0,2026,Q2,5,May,2026-05,Friday,4,Low (<10%),High Value
+ORD1007,2026-05-08,CUST141,Aditya,Male,42,Mysuru,Karnataka,Smartphone,Electronics,1,28000,0.2,Net Banking,Delivered,22400.0,28000,5600.0,2026,Q2,5,May,2026-05,Friday,4,Moderate (10-20%),High Value
+ORD1116,2026-05-08,CUST210,Meena,Male,43,Mumbai,Maharashtra,Jeans,Fashion,3,2200,0.1,UPI,Delivered,5940.0,6600,660.0,2026,Q2,5,May,2026-05,Friday,4,Low (<10%),Medium Value
+ORD1039,2026-05-08,CUST175,Divya,Male,53,Coimbatore,Tamil Nadu,T-Shirt,Fashion,1,900,0.05,UPI,Delivered,855.0,900,45.0,2026,Q2,5,May,2026-05,Friday,4,Low (<10%),High Value
+ORD1334,2026-05-09,CUST173,Sneha,Female,56,Madurai,Tamil Nadu,Backpack,Accessories,2,1800,0.1,UPI,Delivered,3240.0,3600,360.0,2026,Q2,5,May,2026-05,Saturday,5,Low (<10%),High Value
+ORD1134,2026-05-10,CUST195,Sneha,Male,42,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.1,Cash on Delivery,Delivered,49500.0,55000,5500.0,2026,Q2,5,May,2026-05,Sunday,6,Low (<10%),Medium Value
+ORD1299,2026-05-10,CUST194,Arun,Male,34,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.05,UPI,Delivered,11400.0,12000,600.0,2026,Q2,5,May,2026-05,Sunday,6,Low (<10%),Medium Value
+ORD1608,2026-05-10,CUST279,Harini,Male,58,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.05,Debit Card,Delivered,26600.0,28000,1400.0,2026,Q2,5,May,2026-05,Sunday,6,Low (<10%),Low Value
+ORD1547,2026-05-11,CUST268,Sanjay,Male,33,Kolkata,West Bengal,Jeans,Fashion,2,2200,0.0,UPI,Delivered,4400.0,4400,0.0,2026,Q2,5,May,2026-05,Monday,0,No Discount (0%),Medium Value
+ORD1954,2026-05-12,CUST120,Karthik,Male,40,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6500,0.1,Debit Card,Delivered,5850.0,6500,650.0,2026,Q2,5,May,2026-05,Tuesday,1,Low (<10%),High Value
+ORD1386,2026-05-12,CUST256,Pooja,Female,35,Jaipur,Rajasthan,Backpack,Accessories,1,1800,0.15,Credit Card,Delivered,1530.0,1800,270.0,2026,Q2,5,May,2026-05,Tuesday,1,Moderate (10-20%),Low Value
+ORD1495,2026-05-13,CUST179,Aditya,Female,32,Kolkata,West Bengal,Laptop,Electronics,2,55000,0.0,Cash on Delivery,Delivered,110000.0,110000,0.0,2026,Q2,5,May,2026-05,Wednesday,2,No Discount (0%),High Value
+ORD1575,2026-05-13,CUST145,Surya,Male,32,Madurai,Tamil Nadu,Shoes,Fashion,2,3500,0.0,UPI,Delivered,7000.0,7000,0.0,2026,Q2,5,May,2026-05,Wednesday,2,No Discount (0%),Low Value
+ORD1302,2026-05-14,CUST229,Vikram,Male,37,Bengaluru,Karnataka,T-Shirt,Fashion,1,900,0.05,UPI,Cancelled,855.0,900,45.0,2026,Q2,5,May,2026-05,Thursday,3,Low (<10%),Medium Value
+ORD1795,2026-05-15,CUST142,Nisha,Female,26,Mumbai,Maharashtra,Desk,Furniture,1,12000,0.1,UPI,Shipped,10800.0,12000,1200.0,2026,Q2,5,May,2026-05,Friday,4,Low (<10%),Low Value
+ORD1681,2026-05-16,CUST192,Sneha,Female,22,Bengaluru,Karnataka,T-Shirt,Fashion,2,900,0.15,UPI,Cancelled,1530.0,1800,270.0,2026,Q2,5,May,2026-05,Saturday,5,Moderate (10-20%),Low Value
+ORD1133,2026-05-16,CUST217,Priya,Female,28,Kochi,Kerala,Shoes,Fashion,1,3500,0.1,Net Banking,Delivered,3150.0,3500,350.0,2026,Q2,5,May,2026-05,Saturday,5,Low (<10%),High Value
+ORD1104,2026-05-16,CUST173,Karthik,Male,18,Jaipur,Rajasthan,Laptop,Electronics,1,55000,0.05,Credit Card,Delivered,52250.0,55000,2750.0,2026,Q2,5,May,2026-05,Saturday,5,Low (<10%),High Value
+ORD1949,2026-05-17,CUST115,Karthik,Female,42,Delhi,Delhi,Smartphone,Electronics,1,28000,0.0,Debit Card,Delivered,28000.0,28000,0.0,2026,Q2,5,May,2026-05,Sunday,6,No Discount (0%),Medium Value
+ORD1908,2026-05-17,CUST232,Priya,Male,38,Mysuru,Karnataka,Smartwatch,Electronics,1,5000,0.0,UPI,Returned,5000.0,5000,0.0,2026,Q2,5,May,2026-05,Sunday,6,No Discount (0%),High Value
+ORD1478,2026-05-18,CUST217,Kumar,Male,36,Hyderabad,Telangana,Shoes,Fashion,1,3500,0.05,Credit Card,Delivered,3325.0,3500,175.0,2026,Q2,5,May,2026-05,Monday,0,Low (<10%),High Value
+ORD1994,2026-05-18,CUST267,Arun,Female,24,Coimbatore,Tamil Nadu,Jeans,Fashion,1,2200,0.0,Cash on Delivery,Delivered,2200.0,2200,0.0,2026,Q2,5,May,2026-05,Monday,0,No Discount (0%),Low Value
+ORD1556,2026-05-18,CUST224,Manoj,Male,38,Bengaluru,Karnataka,Coffee Maker,Home Appliances,2,6500,0.1,Credit Card,Shipped,11700.0,13000,1300.0,2026,Q2,5,May,2026-05,Monday,0,Low (<10%),High Value
+ORD1650,2026-05-19,CUST294,Ananya,Female,54,Bengaluru,Karnataka,Smartwatch,Electronics,2,5000,0.0,Debit Card,Shipped,10000.0,10000,0.0,2026,Q2,5,May,2026-05,Tuesday,1,No Discount (0%),High Value
+ORD1678,2026-05-19,CUST236,Sneha,Male,46,Coimbatore,Tamil Nadu,Jeans,Fashion,2,2200,0.0,Cash on Delivery,Cancelled,4400.0,4400,0.0,2026,Q2,5,May,2026-05,Tuesday,1,No Discount (0%),Low Value
+ORD1597,2026-05-20,CUST173,Sanjay,Male,60,Kolkata,West Bengal,Office Chair,Furniture,1,8500,0.0,Cash on Delivery,Returned,8500.0,8500,0.0,2026,Q2,5,May,2026-05,Wednesday,2,No Discount (0%),High Value
+ORD1042,2026-05-21,CUST211,Pooja,Male,52,Kolkata,West Bengal,Headphones,Electronics,1,2500,0.2,Credit Card,Delivered,2000.0,2500,500.0,2026,Q2,5,May,2026-05,Thursday,3,Moderate (10-20%),Medium Value
+ORD1441,2026-05-23,CUST189,Ananya,Male,37,Hyderabad,Telangana,Shoes,Fashion,2,3500,0.05,UPI,Delivered,6650.0,7000,350.0,2026,Q2,5,May,2026-05,Saturday,5,Low (<10%),Low Value
+ORD1362,2026-05-23,CUST148,Kumar,Male,48,Madurai,Tamil Nadu,Laptop,Electronics,1,55000,0.05,Debit Card,Shipped,52250.0,55000,2750.0,2026,Q2,5,May,2026-05,Saturday,5,Low (<10%),High Value
+ORD1066,2026-05-23,CUST118,Sneha,Female,32,Madurai,Tamil Nadu,Backpack,Accessories,2,1800,0.15,UPI,Delivered,3060.0,3600,540.0,2026,Q2,5,May,2026-05,Saturday,5,Moderate (10-20%),Medium Value
+ORD1637,2026-05-23,CUST116,Aishwarya,Male,30,Mumbai,Maharashtra,Backpack,Accessories,2,1800,0.0,Cash on Delivery,Delivered,3600.0,3600,0.0,2026,Q2,5,May,2026-05,Saturday,5,No Discount (0%),Medium Value
+ORD1939,2026-05-23,CUST146,Ravi,Female,25,Kochi,Kerala,Shoes,Fashion,1,3500,0.15,Credit Card,Shipped,2975.0,3500,525.0,2026,Q2,5,May,2026-05,Saturday,5,Moderate (10-20%),High Value
+ORD1923,2026-05-24,CUST265,Pooja,Male,34,Madurai,Tamil Nadu,Tablet,Electronics,3,22000,0.15,Debit Card,Delivered,56100.0,66000,9900.0,2026,Q2,5,May,2026-05,Sunday,6,Moderate (10-20%),Medium Value
+ORD1695,2026-05-24,CUST253,Priya,Female,22,Chennai,Tamil Nadu,Jeans,Fashion,1,2200,0.1,UPI,Returned,1980.0,2200,220.0,2026,Q2,5,May,2026-05,Sunday,6,Low (<10%),Medium Value
+ORD1757,2026-05-25,CUST209,Arun,Male,36,Coimbatore,Tamil Nadu,Smartwatch,Electronics,3,5000,0.1,UPI,Delivered,13500.0,15000,1500.0,2026,Q2,5,May,2026-05,Monday,0,Low (<10%),Medium Value
+ORD1882,2026-05-26,CUST104,Ananya,Male,34,Mysuru,Karnataka,Office Chair,Furniture,2,8500,0.05,Credit Card,Shipped,16150.0,17000,850.0,2026,Q2,5,May,2026-05,Tuesday,1,Low (<10%),High Value
+ORD1018,2026-05-26,CUST247,Harini,Female,58,Bengaluru,Karnataka,Headphones,Electronics,1,2500,0.0,Debit Card,Delivered,2500.0,2500,0.0,2026,Q2,5,May,2026-05,Tuesday,1,No Discount (0%),High Value
+ORD1371,2026-05-26,CUST173,Kumar,Male,54,Mumbai,Maharashtra,Jeans,Fashion,1,2200,0.1,Cash on Delivery,Delivered,1980.0,2200,220.0,2026,Q2,5,May,2026-05,Tuesday,1,Low (<10%),High Value
+ORD1517,2026-05-27,CUST291,Arun,Female,42,Kochi,Kerala,Smartphone,Electronics,1,28000,0.0,Credit Card,Delivered,28000.0,28000,0.0,2026,Q2,5,May,2026-05,Wednesday,2,No Discount (0%),Medium Value
+ORD1794,2026-05-27,CUST261,Arun,Male,33,Coimbatore,Tamil Nadu,Office Chair,Furniture,1,8500,0.1,Net Banking,Delivered,7650.0,8500,850.0,2026,Q2,5,May,2026-05,Wednesday,2,Low (<10%),High Value
+ORD1932,2026-05-28,CUST158,Surya,Male,23,Bengaluru,Karnataka,Smartwatch,Electronics,1,5000,0.0,Credit Card,Delivered,5000.0,5000,0.0,2026,Q2,5,May,2026-05,Thursday,3,No Discount (0%),High Value
+ORD1148,2026-05-28,CUST157,Harini,Male,60,Delhi,Delhi,T-Shirt,Fashion,2,900,0.0,Debit Card,Delivered,1800.0,1800,0.0,2026,Q2,5,May,2026-05,Thursday,3,No Discount (0%),High Value
+ORD1291,2026-05-31,CUST190,Ananya,Female,22,Kolkata,West Bengal,Smartphone,Electronics,1,28000,0.0,Credit Card,Delivered,28000.0,28000,0.0,2026,Q2,5,May,2026-05,Sunday,6,No Discount (0%),Low Value
+ORD1533,2026-05-31,CUST270,Sanjay,Female,38,Chennai,Tamil Nadu,T-Shirt,Fashion,1,900,0.05,Credit Card,Delivered,855.0,900,45.0,2026,Q2,5,May,2026-05,Sunday,6,Low (<10%),Medium Value
+ORD1170,2026-06-01,CUST272,Ananya,Female,20,Pune,Maharashtra,Office Chair,Furniture,2,8500,0.05,Credit Card,Shipped,16150.0,17000,850.0,2026,Q2,6,June,2026-06,Monday,0,Low (<10%),Medium Value
+ORD1218,2026-06-01,CUST102,Pooja,Male,27,Hyderabad,Telangana,Smartphone,Electronics,1,28000,0.15,Credit Card,Delivered,23800.0,28000,4200.0,2026,Q2,6,June,2026-06,Monday,0,Moderate (10-20%),Medium Value
+ORD1488,2026-06-03,CUST130,Surya,Female,33,Kolkata,West Bengal,Shoes,Fashion,3,3500,0.15,Credit Card,Delivered,8925.0,10500,1575.0,2026,Q2,6,June,2026-06,Wednesday,2,Moderate (10-20%),High Value
+ORD1682,2026-06-04,CUST223,Harini,Male,56,Jaipur,Rajasthan,T-Shirt,Fashion,2,900,0.1,UPI,Delivered,1620.0,1800,180.0,2026,Q2,6,June,2026-06,Thursday,3,Low (<10%),High Value
+ORD1942,2026-06-05,CUST291,Karthik,Male,50,Coimbatore,Tamil Nadu,Smartwatch,Electronics,1,5000,0.15,UPI,Delivered,4250.0,5000,750.0,2026,Q2,6,June,2026-06,Friday,4,Moderate (10-20%),Medium Value
+ORD1117,2026-06-05,CUST199,Harini,Female,59,Madurai,Tamil Nadu,T-Shirt,Fashion,2,900,0.15,Credit Card,Delivered,1530.0,1800,270.0,2026,Q2,6,June,2026-06,Friday,4,Moderate (10-20%),Medium Value
+ORD1559,2026-06-06,CUST202,Surya,Female,18,Delhi,Delhi,T-Shirt,Fashion,1,900,0.0,Debit Card,Delivered,900.0,900,0.0,2026,Q2,6,June,2026-06,Saturday,5,No Discount (0%),Low Value
+ORD1745,2026-06-06,CUST200,Harini,Female,28,Jaipur,Rajasthan,Desk,Furniture,2,12000,0.1,Cash on Delivery,Delivered,21600.0,24000,2400.0,2026,Q2,6,June,2026-06,Saturday,5,Low (<10%),Medium Value
+ORD1035,2026-06-06,CUST169,Divya,Male,48,Kochi,Kerala,Tablet,Electronics,1,22000,0.05,UPI,Delivered,20900.0,22000,1100.0,2026,Q2,6,June,2026-06,Saturday,5,Low (<10%),High Value
+ORD1982,2026-06-07,CUST276,Rahul,Female,31,Delhi,Delhi,Headphones,Electronics,2,2500,0.15,UPI,Delivered,4250.0,5000,750.0,2026,Q2,6,June,2026-06,Sunday,6,Moderate (10-20%),Low Value
+ORD1435,2026-06-08,CUST201,Harini,Female,41,Coimbatore,Tamil Nadu,Jeans,Fashion,2,2200,0.2,UPI,Delivered,3520.0,4400,880.0,2026,Q2,6,June,2026-06,Monday,0,Moderate (10-20%),Medium Value
+ORD1131,2026-06-08,CUST118,Aditya,Male,44,Kolkata,West Bengal,T-Shirt,Fashion,2,900,0.1,Net Banking,Delivered,1620.0,1800,180.0,2026,Q2,6,June,2026-06,Monday,0,Low (<10%),Medium Value
+ORD1124,2026-06-08,CUST139,Priya,Male,44,Mysuru,Karnataka,Jeans,Fashion,2,2200,0.0,Net Banking,Shipped,4400.0,4400,0.0,2026,Q2,6,June,2026-06,Monday,0,No Discount (0%),High Value
+ORD1028,2026-06-09,CUST160,Vikram,Male,37,Delhi,Delhi,Desk,Furniture,2,12000,0.15,Debit Card,Shipped,20400.0,24000,3600.0,2026,Q2,6,June,2026-06,Tuesday,1,Moderate (10-20%),Low Value
+ORD1483,2026-06-09,CUST104,Meena,Female,48,Mysuru,Karnataka,Smartwatch,Electronics,1,5000,0.1,UPI,Delivered,4500.0,5000,500.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
+ORD1318,2026-06-09,CUST164,Kumar,Female,33,Mysuru,Karnataka,Headphones,Electronics,1,2500,0.1,UPI,Shipped,2250.0,2500,250.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),Low Value
+ORD1145,2026-06-10,CUST178,Priya,Male,22,Delhi,Delhi,Headphones,Electronics,2,2500,0.15,UPI,Delivered,4250.0,5000,750.0,2026,Q2,6,June,2026-06,Wednesday,2,Moderate (10-20%),Low Value
+ORD1405,2026-06-10,CUST172,Aditya,Female,44,Chennai,Tamil Nadu,Office Chair,Furniture,1,8500,0.15,Debit Card,Delivered,7225.0,8500,1275.0,2026,Q2,6,June,2026-06,Wednesday,2,Moderate (10-20%),Low Value
+ORD1532,2026-06-10,CUST114,Meena,Female,51,Jaipur,Rajasthan,Shoes,Fashion,2,3500,0.15,UPI,Delivered,5950.0,7000,1050.0,2026,Q2,6,June,2026-06,Wednesday,2,Moderate (10-20%),High Value
+ORD1902,2026-06-11,CUST169,Sanjay,Male,38,Kolkata,West Bengal,Tablet,Electronics,1,22000,0.2,Debit Card,Cancelled,17600.0,22000,4400.0,2026,Q2,6,June,2026-06,Thursday,3,Moderate (10-20%),High Value
+ORD1557,2026-06-12,CUST265,Aditya,Male,54,Delhi,Delhi,Coffee Maker,Home Appliances,2,6500,0.1,Cash on Delivery,Delivered,11700.0,13000,1300.0,2026,Q2,6,June,2026-06,Friday,4,Low (<10%),Medium Value
+ORD1442,2026-06-12,CUST199,Harini,Female,18,Kochi,Kerala,Jeans,Fashion,4,2200,0.05,UPI,Delivered,8360.0,8800,440.0,2026,Q2,6,June,2026-06,Friday,4,Low (<10%),Medium Value
+ORD1292,2026-06-13,CUST159,Nisha,Female,43,Coimbatore,Tamil Nadu,Smartwatch,Electronics,2,5000,0.1,Cash on Delivery,Delivered,9000.0,10000,1000.0,2026,Q2,6,June,2026-06,Saturday,5,Low (<10%),High Value
+ORD1890,2026-06-14,CUST138,Arun,Male,52,Kochi,Kerala,T-Shirt,Fashion,2,900,0.15,Credit Card,Delivered,1530.0,1800,270.0,2026,Q2,6,June,2026-06,Sunday,6,Moderate (10-20%),High Value
+ORD1437,2026-06-14,CUST138,Kumar,Male,33,Mumbai,Maharashtra,Smartwatch,Electronics,2,5000,0.1,UPI,Delivered,9000.0,10000,1000.0,2026,Q2,6,June,2026-06,Sunday,6,Low (<10%),High Value
+ORD1583,2026-06-16,CUST285,Priya,Male,42,Kochi,Kerala,Jeans,Fashion,1,2200,0.15,Credit Card,Delivered,1870.0,2200,330.0,2026,Q2,6,June,2026-06,Tuesday,1,Moderate (10-20%),Medium Value
+ORD1274,2026-06-17,CUST247,Surya,Female,39,Mysuru,Karnataka,Desk,Furniture,2,12000,0.1,UPI,Delivered,21600.0,24000,2400.0,2026,Q2,6,June,2026-06,Wednesday,2,Low (<10%),High Value
+ORD1903,2026-06-17,CUST259,Ananya,Female,32,Delhi,Delhi,Desk,Furniture,1,12000,0.1,UPI,Delivered,10800.0,12000,1200.0,2026,Q2,6,June,2026-06,Wednesday,2,Low (<10%),Medium Value
+ORD1963,2026-06-17,CUST252,Aishwarya,Male,27,Pune,Maharashtra,Tablet,Electronics,1,22000,0.2,Debit Card,Delivered,17600.0,22000,4400.0,2026,Q2,6,June,2026-06,Wednesday,2,Moderate (10-20%),Medium Value
+ORD1749,2026-06-19,CUST168,Keerthi,Male,59,Jaipur,Rajasthan,Smartphone,Electronics,3,28000,0.1,Cash on Delivery,Delivered,75600.0,84000,8400.0,2026,Q2,6,June,2026-06,Friday,4,Low (<10%),High Value
+ORD1205,2026-06-20,CUST262,Aishwarya,Female,36,Mumbai,Maharashtra,Headphones,Electronics,1,2500,0.0,Credit Card,Delivered,2500.0,2500,0.0,2026,Q2,6,June,2026-06,Saturday,5,No Discount (0%),High Value
+ORD1280,2026-06-20,CUST208,Ravi,Female,42,Kochi,Kerala,T-Shirt,Fashion,1,900,0.15,UPI,Delivered,765.0,900,135.0,2026,Q2,6,June,2026-06,Saturday,5,Moderate (10-20%),Low Value
+ORD1524,2026-06-21,CUST110,Pooja,Male,25,Bengaluru,Karnataka,Desk,Furniture,2,12000,0.15,Debit Card,Delivered,20400.0,24000,3600.0,2026,Q2,6,June,2026-06,Sunday,6,Moderate (10-20%),Low Value
+ORD1395,2026-06-21,CUST134,Kumar,Male,59,Mumbai,Maharashtra,Shoes,Fashion,1,3500,0.0,Cash on Delivery,Returned,3500.0,3500,0.0,2026,Q2,6,June,2026-06,Sunday,6,No Discount (0%),Medium Value
+ORD1621,2026-06-22,CUST196,Nisha,Male,59,Madurai,Tamil Nadu,Laptop,Electronics,2,55000,0.05,Credit Card,Returned,104500.0,110000,5500.0,2026,Q2,6,June,2026-06,Monday,0,Low (<10%),High Value
+ORD1128,2026-06-22,CUST274,Priya,Female,34,Chennai,Tamil Nadu,Jeans,Fashion,1,2200,0.05,UPI,Delivered,2090.0,2200,110.0,2026,Q2,6,June,2026-06,Monday,0,Low (<10%),Low Value
+ORD1981,2026-06-23,CUST204,Sneha,Male,46,Kolkata,West Bengal,Desk,Furniture,1,12000,0.15,Credit Card,Delivered,10200.0,12000,1800.0,2026,Q2,6,June,2026-06,Tuesday,1,Moderate (10-20%),High Value
+ORD1776,2026-06-23,CUST174,Nisha,Female,49,Hyderabad,Telangana,Shoes,Fashion,1,3500,0.1,Credit Card,Delivered,3150.0,3500,350.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
+ORD1347,2026-06-25,CUST217,Ravi,Female,33,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,0.1,UPI,Delivered,99000.0,110000,11000.0,2026,Q2,6,June,2026-06,Thursday,3,Low (<10%),High Value
+ORD1997,2026-06-25,CUST148,Sanjay,Female,33,Hyderabad,Telangana,Shoes,Fashion,2,3500,0.1,UPI,Delivered,6300.0,7000,700.0,2026,Q2,6,June,2026-06,Thursday,3,Low (<10%),High Value
+ORD1640,2026-06-25,CUST251,Keerthi,Female,50,Kolkata,West Bengal,Tablet,Electronics,1,22000,0.05,Cash on Delivery,Delivered,20900.0,22000,1100.0,2026,Q2,6,June,2026-06,Thursday,3,Low (<10%),Medium Value
+ORD1349,2026-06-26,CUST157,Ananya,Male,19,Madurai,Tamil Nadu,Headphones,Electronics,2,2500,0.15,UPI,Delivered,4250.0,5000,750.0,2026,Q2,6,June,2026-06,Friday,4,Moderate (10-20%),High Value
+ORD1813,2026-06-26,CUST203,Aishwarya,Female,55,Kochi,Kerala,Headphones,Electronics,1,2500,0.1,Debit Card,Delivered,2250.0,2500,250.0,2026,Q2,6,June,2026-06,Friday,4,Low (<10%),Low Value
+ORD1059,2026-06-26,CUST206,Surya,Female,46,Bengaluru,Karnataka,Smartphone,Electronics,1,28000,0.05,UPI,Cancelled,26600.0,28000,1400.0,2026,Q2,6,June,2026-06,Friday,4,Low (<10%),Low Value
+ORD1180,2026-06-27,CUST178,Harini,Male,23,Kolkata,West Bengal,Smartwatch,Electronics,2,5000,0.0,UPI,Delivered,10000.0,10000,0.0,2026,Q2,6,June,2026-06,Saturday,5,No Discount (0%),Low Value
+ORD1646,2026-06-27,CUST159,Meena,Male,31,Pune,Maharashtra,T-Shirt,Fashion,1,900,0.15,Credit Card,Delivered,765.0,900,135.0,2026,Q2,6,June,2026-06,Saturday,5,Moderate (10-20%),High Value
+ORD1225,2026-06-28,CUST237,Nisha,Female,33,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6500,0.1,Net Banking,Returned,5850.0,6500,650.0,2026,Q2,6,June,2026-06,Sunday,6,Low (<10%),Low Value
+ORD1383,2026-06-28,CUST199,Meena,Male,29,Mumbai,Maharashtra,Office Chair,Furniture,1,8500,0.05,Credit Card,Shipped,8075.0,8500,425.0,2026,Q2,6,June,2026-06,Sunday,6,Low (<10%),Medium Value
+ORD1801,2026-06-29,CUST110,Pooja,Male,21,Kolkata,West Bengal,Office Chair,Furniture,1,8500,0.05,Credit Card,Delivered,8075.0,8500,425.0,2026,Q2,6,June,2026-06,Monday,0,Low (<10%),Low Value
+ORD1063,2026-06-30,CUST277,Keerthi,Male,44,Hyderabad,Telangana,Tablet,Electronics,1,22000,0.05,UPI,Delivered,20900.0,22000,1100.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
+ORD1947,2026-06-30,CUST288,Kumar,Male,40,Coimbatore,Tamil Nadu,Office Chair,Furniture,2,8500,0.0,UPI,Cancelled,17000.0,17000,0.0,2026,Q2,6,June,2026-06,Tuesday,1,No Discount (0%),Medium Value
+ORD1913,2026-06-30,CUST196,Vikram,Male,59,Chennai,Tamil Nadu,Tablet,Electronics,2,22000,0.1,UPI,Returned,39600.0,44000,4400.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
+ORD1229,2026-06-30,CUST141,Surya,Male,28,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6500,0.1,Debit Card,Delivered,5850.0,6500,650.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
+ORD1668,2026-06-30,CUST196,Aditya,Female,34,Hyderabad,Telangana,Laptop,Electronics,1,55000,0.1,Cash on Delivery,Delivered,49500.0,55000,5500.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
+ORD1060,2026-06-30,CUST106,Priya,Male,60,Chennai,Tamil Nadu,Backpack,Accessories,1,1800,0.05,Credit Card,Delivered,1710.0,1800,90.0,2026,Q2,6,June,2026-06,Tuesday,1,Low (<10%),High Value
